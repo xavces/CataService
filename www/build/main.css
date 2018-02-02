@@ -25930,6 +25930,12 @@ page-application .nameApplication {
   text-align: center;
 }
 
+page-application .nameService {
+  font-size: 10px;
+  margin-top: auto;
+  text-align: center;
+}
+
 page-chat2 {
   /* fixes an ios bug bear */
   /* loading */

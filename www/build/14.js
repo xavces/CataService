@@ -75,6 +75,12 @@ var ApplicationPage = (function () {
     ApplicationPage.prototype.prev = function () {
         this.navCtrl.pop();
     };
+    ApplicationPage.prototype.serviceDetail = function (objet) {
+        console.log("test");
+        this.navCtrl.push('ProductDetailsPage', {
+            productId: 2,
+        });
+    };
     return ApplicationPage;
 }());
 ApplicationPage = __decorate([

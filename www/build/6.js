@@ -16595,6 +16595,8 @@ var AllServicePage = (function () {
         this.navParams = navParams;
         this.completeTestService = completeTestService;
         this.urlMarque = "assets/img/marques/";
+        this.buttonSearch = "display";
+        this.search = "noDisplay";
         var servData = http.get('assets/data/services.json').map(function (res) { return res.json().services; });
         servData.subscribe(function (data) {
             _this.services = data;

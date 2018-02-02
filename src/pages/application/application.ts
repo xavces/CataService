@@ -32,5 +32,12 @@ export class ApplicationPage {
     this.navCtrl.pop();
   }
 
+  serviceDetail(objet){
+    console.log("test")
+    this.navCtrl.push('ProductDetailsPage', {
+      productId: 2,
+    });
+  }
+
 
 }

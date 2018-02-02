@@ -47,9 +47,5 @@ export class AllServicePage {
     });
   }
 
-  activateSearch(){
-    
-  }
-
 
 }

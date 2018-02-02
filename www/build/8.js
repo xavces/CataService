@@ -1343,7 +1343,7 @@ var ProductDetailsPage = (function () {
         console.log(this.file.dataDirectory);
         console.log(this.file.externalDataDirectory);
         if (this.platform.is("ios")) {
-            this.pathFile = this.file.documentsDirectory;
+            this.pathFile = 'assets/img/products/pdf/';
         }
         else {
             this.pathFile = path;

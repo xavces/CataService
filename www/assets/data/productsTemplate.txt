@@ -1,0 +1,78 @@
+// template
+// {
+//   "idService":"number",
+//   "title":"",
+//   "subtitle":"",
+//   "imgSrc": "assets/img/products/xxx.jpg",
+//   "parts":[
+//     {
+//       "title":"",
+//       "description":[""],
+//       "besoins":[""],
+//       "paragraphes": [{
+//         "title": 
+//       }],
+//       "paragraphes":[{
+//         "title": "",
+//         "points": [{
+//           "title": "",
+//           "description": [""]
+//         }],
+//         "objectifs": [{
+//           "title":"",
+//           "objectif": ""
+//         }]
+//       }],
+//       "parts": [""],
+//       "remarque": "",
+//       "partsT": [{
+//         "title":"",
+//         "parts":[""]
+//       }],
+//       "point_remarquable": [""],
+//       "points":[{
+//         "title": "",
+//         "description": [""]
+//       }],
+//       "fonctionnalite":[
+//         {
+//           "name": "",
+//           "children":[
+//             {
+//               "name": ""
+//             }
+//           ]
+//         }
+//       ],
+//       "examples": [
+//         {
+//           "title": "",
+//           "imgSrc": ""
+//         }
+//       ],
+//       "info": {
+//         "name": "",
+//         "address": "",
+//         "cp": ""
+//       },
+//       "transports": [
+//         {
+//           "moyen": "",
+//           "description": "",
+//           "points": [""],
+//           "conclusion": [""]
+//         }
+//       ],
+//       "imgSrc":"assets/img/products/xxx.jpg",
+//       "video": "",
+//       "fileSrc":"assets/img/products/xxx.pdf",
+//       "contact":{
+//         "name": "",
+//         "adress":"",
+//         "tel":"",
+//         "website":"",
+//         "info":""
+//       }
+//     }
+//   ]  
+// }

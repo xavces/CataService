@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "idService": 0,
+      "idMarque": 0,
+      "newsId":[],
+      "title":"",
+      "img": "assets/img/products/0.png",
+      "videoId": "",
+      "content": {
+        "title": "",  //same as line 7
+        "subtitle": "",
+        "contact": {
+          "name": "",
+          "address": {
+            "num": "",
+            "road": "",
+            "cp": "",
+            "city": "",
+            "country": ""
+          },
+          "tel": "",
+          "interlocuteur": {
+            "name": "",
+            "email": ""
+          }
+        },
+        "parts":[
+          {
+            "title": "",
+            "intro": "",
+            "points":[""],
+            "img":"assets/img/products/description/0.png",
+            "pdf": "assets/img/products/pdf/0.pdf",
+            "paragraphes": [
+              {
+                "description": "",
+                "descriptionBold": "",
+                "accrPoints": "",
+                "points": [
+                  {
+                    "title": "",
+                    "img": "assets/img/products/description/0.png",
+                    "subpoints":[""]
+                  }
+                ]
+              }
+            ],
+            "subparts":[
+              {
+                "title": "",
+                "points": [""],
+                "img":"assets/img/products/description/0.png",
+                "paragraphes": [
+                  {
+                    "descriptionBold": "",
+                    "objectif": "",
+                    "accrPoints": "",
+                    "points": [
+                      {
+                        "title": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

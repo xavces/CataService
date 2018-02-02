@@ -1,0 +1,41 @@
+{
+    "news": [
+        {
+            "id": 0,
+            "marqueId": 0,
+            "img": "assets/img/news/0.jpg",
+            "date": "November 30, 2017",
+            "title": "",
+            "content": {
+                "title": "",
+                "intro": [""],
+                "introBold": "",
+                "parts": [
+                    {
+                        "title": "",
+                        "paragraphes": [
+                            { 
+                                "description": "",
+                                "descriptionBold": "",
+                                "accrPoints": "",
+                                "points": [
+                                    { 
+                                        "title": "",
+                                        "subpoints": [""]
+                                    }
+                                ],
+                                "temoignage": {
+                                    "author": "",
+                                    "authorImg": "assets/img/profiles/0.jpg",
+                                    "function": "",
+                                    "content": ""
+                                }
+                            }
+                        ],
+                        "points": [""]
+                    }                
+                ]
+            }
+        }                     
+    ]
+}

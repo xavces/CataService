@@ -1,0 +1,83 @@
+{
+    "applications":[
+        {
+            "id": 0,
+            "name": "Traçabilité",
+            "objets": [
+                {
+                "name": "Trackforce",
+                "img": "assets/imgs/Trackforce.png"
+                },
+                {
+                "name": "Blue Business",
+                "img": "assets/imgs/Blue Business lien.png"
+                },
+                {
+                "name": "Blue Tracing",
+                "img": "assets/imgs/Blue tracing.png"
+                },
+                {
+                "name": "Just Time",
+                "img": "assets/imgs/Just Time.png"
+                },
+                {
+                "name": "Green Flow",
+                "img": "assets/imgs/Green Flow.png"
+                },
+                {
+                "name": "Outils de traçabilité",
+                "img": "assets/imgs/Outils de tracabilite.png"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Formation",
+            "objets": [
+                {
+                "name": "Blue Method",
+                "img": "assets/imgs/Blue Method.png"
+                },
+                {
+                "name": "Blue Campus",
+                "img": "assets/imgs/Blue Campus.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Objets Connectés",
+            "objets": [
+                {
+                    "name": "Sanitaires connectés",
+                    "img": "assets/imgs/Sanitaires connectes.png",
+                    "pageDetail":{
+                        "title1": "La solution Sanitaires Connectés",
+                        "title2": "Un service coût/qualité optimisé"
+                    }
+                },
+                {
+                "name": "Boitier de satisfaction",
+                "img": "assets/imgs/Boitier de satisfaction.png"
+                },
+                {
+                "name": "Boitiers de comptage",
+                "img": "assets/imgs/Boitiers de comptage.png"
+                },
+                {
+                "name": "Poubelle connectée",
+                "img": "assets/imgs/Poubelle connectee.png"
+                },
+                {
+                "name": "Bouton poussoir",
+                "img": "assets/imgs/Bouton poussoir.png"
+                },
+                {
+                "name": "Objets de mesure d'indicateurs",
+                "img": "assets/imgs/Objets de mesure d'incateurs.png"
+                }
+            ]
+        }
+    ]
+
+}

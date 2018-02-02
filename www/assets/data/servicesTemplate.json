@@ -1,0 +1,137 @@
+{
+  "template":
+  {
+    "id": 0,
+    "marqueId": 1,
+    "subServiceIds": [],    // ids des services sous services de this
+    "productIds": [],
+    "imgService": "assets/img/0.jpg", 
+    "imgMarque": "assets/img/marques/1.jpg",
+    "video": "",
+    "icon": "",
+    "pertinence": "",       // haut moyen bas
+    "title": "",
+    "content": {     
+      "title": "",  // same of line 13
+      "subtitle": "",
+      "introBold": "",
+      "intro": "",
+      "pointsIntro": [""],
+      "parts":[
+        {
+          "title":"",
+          "paragraphes": [
+            {
+              "accrPoints": "",    // phrase d'accroche avec points (xxx :)
+              "accrPointsBold": "", 
+              "points": [         // Peut être seul sans accrPoints
+                {
+                  "title": "",
+                  "subpoints": [""]
+                }
+              ], 
+              "description": "", 
+              "descriptionBold": ""
+            }
+          ],
+          "subParts": [
+            {
+              "title": "",
+              "paragraphes": [
+                {
+                  "accrPoints": "",    // phrase d'accroche avec points (xxx :)
+                  "accrPointsBold": "", 
+                  "points": [         // Peut être seul sans accrPoints
+                      {
+                          "title": "",
+                          "subpoints": [""]
+                      }
+                  ], 
+                  "description": "", 
+                  "descriptionBold": ""
+
+                }
+              ],
+              "points":[""],
+              "videoId": ""
+            }
+          ],
+          "points": [""]
+        }
+      ],
+      "areas":
+      [
+        {
+          "title": "",
+          "parts": [
+            {
+              "title": "",
+              "subtitle": "",
+              "description": "",
+              "points":[""],
+              "more": ""
+            }
+          ],
+          "conclusion": ""
+        }
+      ]
+    }
+  }
+}
+
+// Raccourci
+
+{
+  "template":
+  {
+    "id": 0,
+    "marqueId": 1,
+    "subServiceIds": [],    // ids des services sous services de this
+    "productIds": [],
+    "imgService": "assets/img/0.jpg", 
+    "imgMarque": "assets/img/marques/1.jpg",
+    "video": "",
+    "icon": "",
+    "pertinence": "",       // haut moyen bas
+    "title": "",
+    "content": {     
+      "title": "", 
+      "parts":[
+        {
+          "title":"",
+          "paragraphes": [
+            {
+              "accrPoints": "",    // phrase d'accroche avec points (xxx :)
+              "accrPointsBold": "", 
+              "points": [         // Peut être seul sans accrPoints
+                {
+                  "title": "",
+                  "subpoints": [""]
+                }
+              ], 
+              "description": "", 
+              "descriptionBold": ""
+            }
+          ],
+          "points": [""]
+        }
+      ],
+      "areas":
+      [
+        {
+          "title": "",
+          "parts": [
+            {
+              "title": "",
+              "subtitle": "",
+              "description": "",
+              "points":[""],
+              "more": ""
+            }
+          ],
+          "conclusion": ""
+        }
+      ]
+    }
+  }
+}

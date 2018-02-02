@@ -1,0 +1,54 @@
+// template
+// {
+//   "id": number,
+//   "title": "",
+//   "subtitle": "",
+//   "parts": [
+//     {
+//       "title": "",
+//       "paragraphes": [""],
+//       "points": [
+//         {
+//           "title": "",
+//           "description": [""]
+//         }
+//       ],
+//       "conviction": [
+//         {
+//           "title": "",
+//           "description": [""],
+//           "pos":{
+//             "title": "",
+//             "description": ""
+//           }
+//         }
+//       ],
+//       "sector": {
+//         "title": "",
+//         "points": [""]
+//       },
+//       "strategy": {
+//         "title": "",
+//         "points": [""]
+//       }
+//       "engagement": "",
+//       "atouts":[
+//         {
+//           "title":"",
+//           "description":[""]
+//         }
+//       ],
+//       "img": ""
+//     }
+//   ],
+//   "imgSrc": "assets/img/xxx.jpg",
+//   "videoSrc": "https://youtu.be/xxx",
+//   "citation": "",
+//   "metiersId":[number],
+//   "keys": [
+//     {
+//       "label": "", 
+//       "nb": ""
+//     }
+//   ]
+// }

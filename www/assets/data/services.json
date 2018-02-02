@@ -1,0 +1,2832 @@
+{
+  "services":[
+    {
+      "id": 0,
+      "marqueId": 0,
+      "productIds": [0, 1, 2],
+      "imgService": "assets/img/services/0.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf2cc",
+      "pertinence": "bas",
+      "title": "Hygiène et Propreté classique",
+      "content": {
+        "title": "Hygiène et Propreté classique",
+        "subtitle": "Au cœur de votre environnement de travail",
+        "parts": [
+          {
+            "title": "LA PROPRETÉ, UN BESOIN FONDAMENTAL, DES ENJEUX FORTS",
+            "paragraphes": [
+              { "description": "La propreté « classique » renvoie au besoin fondamental, et non pas simpliste, de la notion de « propre ». " },
+              { "description": "Chaque secteur d’activité à ses propres enjeux et la propreté s’y inscrit à différents niveaux." },
+              { "description": "Dans une galerie commerciale ou un espace de loisir, la propreté et « l’agréabilité » auront un impact direct sur la satisfaction des clients et leur panier moyen ; dans un bureau, la propreté et la netteté de l’espace de travail auront un impact direct sur le bien-être du collaborateur et à postériori sa productivité ; dans un hôtel, la propreté de la chambre est un argument de satisfaction et de fidélisation…" },
+              { "description": "C’est pourquoi nous n’aborderons jamais de la même manière un espace (destination, revêtement, taux d’occupation…) car chacun nécessite une organisation rigoureuse, un sens du service irréprochable et des équipes motivées et impliquées." },
+              { "description": "Et quel que soit le secteur et le niveau de technicité (matériel, norme…) qu’il requiert, notre proposition de valeur est fondée sur une gestion agile et respectueuse des femmes et des hommes qui chaque jour interviennent auprès de nos clients." }
+            ]
+          }
+        ],
+        "areas":[
+          {
+            "title": "DOMAINES D’INTERVENTION",
+            "parts":[
+              {
+                "points": [
+                  "Etablissement recevant du public", 
+                  "Bureaux, sièges sociaux", "Réseaux de boutiques ou agences", 
+                  "Surfaces commerciale", 
+                  "Hôtels"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "marqueId": 0,
+      "subServiceIds": [2],
+      "productIds": [3],
+      "imgService": "assets/img/services/1.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf12a",
+      "pertinence": "bas",
+      "title": "Hygiène et Propreté en milieu sensible",
+      "content": {
+        "title": "Hygiène et Propreté en milieu sensible",
+        "parts": [
+          {
+            "title": "Une expertise multisectorielle et des savoir-faire spéciﬁques pour la « maîtrise de la contamination »",
+            "paragraphes": [
+              { "description": "L'industrie de la « maîtrise de la contamination » doit faire face à une demande de plus en plus diversifiée, complexe et spécialisée. Ceci s'explique notamment par l'apparition de nouveaux besoins comme l'accroissement des exigences en matière de propreté ou encore l'évolution des contraintes réglementaires, notamment dans l'industrie pharmaceutique et les secteurs connexes…" },
+              { 
+                "accrPointsBold": "La maîtrise de la contamination a pour objectif de protéger ensemble ou séparément :",
+                "points": [
+                  { "title": "le produit fabriqué ou traité (ou le patient en milieu hospitalier)" },
+                  { "title": "l'opérateur lors de la manipulation de produits potentiellement toxiques" },
+                  { "title": "l'environnement" }
+                ]
+              },
+              { "description": "Depuis plus de 30 ans, reconnus pour notre maîtrise du nettoyage en milieux ultra-propres, nous sommes présents de la classe ISO 3 à la classe ISO 9." },
+              { "description": "Nous réalisons des prestations quotidiennes de nettoyage, de décontamination chimique et microbiologique, ainsi que des prestations ponctuelles de 'mise à blanc'." }
+            ]
+          }
+        ],
+        "areas": [
+          {
+            "title": "DOMAINES D'ACTIVITES",
+            "parts": [
+              {
+                "title": "AGROALIMENTAIRE",
+                "description": "Nous intervenons sur des prestations d'hygiène de Process en industrie agroalimentaire (nettoyage et désinfection des lignes de production et de leur environnement) :",
+                "points": [
+                  "Industries de la viande (bœuf, porcs, volailles...) abatage, découpe transformation",
+                  "Salaisons & charcuteries",
+                  "Industrie des plats cuisinés frais, surgelés appertisé (conserves)",
+                  "Industrie du poisson, Biscuiterie / pâtisserie",
+                  "Industrie du légume"
+                ]
+              },
+              {
+                "title": "INDUSTRIE PHARMACEUTIQUE",
+                "subtitle": "DE LA CLASSE ISO 3 À LA CLASSE ISO 9",
+                "points": [
+                  "Prestations régulières de nettoyage et décontamination des différentes zones",
+                  "Prestations ponctuelles de mise à blanc",
+                  "Mise en place de zoning matériel",
+                  "Parfaite application des bonnes pratiques de nettoyage pharmaceutique"
+                ]
+              },
+              {
+                "title": "ÉTABLISSEMENTS DE SANTÉ",
+                "subtitle": "INTERVENTION DE LA ZONE 0 À LA ZONE 4",
+                "points": [
+                  "Bio nettoyage",
+                  "Entretien des locaux",
+                  "Lutte quotidienne contre les infections nosocomiales",
+                  "Autres prestations complémentaires (collecte des déchets, service des repas, entretien des espaces verts...)"
+                ],
+                "more": "https://fr.groupeonet.com/content/download/8974/143577/version/1/file/plaquette_Onet_sante.pdf"
+              },
+              {
+                "title": "NOS PRESTATIONS EN SALLE PROPRE",
+                "subtitle": "DE LA CLASSE ISO 3 À LA CLASSE ISO 9",
+                "points": [
+                  "Prestations quotidiennes de nettoyage et de décontamination particulaire",
+                  "Prestations ponctuelles de 'mise à blanc'"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "marqueId": 0,
+      "productIds": [4, 5, 6],
+      "imgService": "assets/img/services/2.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf2dc",
+      "pertinence": "bas",
+      "title": "Cryogénie",
+      "content": {
+        "title": "Cryogénie",
+        "subtitle": "Vous offrir une solution de rénovation respectueuse de votre support et de l’environnement",
+        "parts": [
+          {
+            "title": "Cryonettoyage : Principe de mise en œuvre par cryogénie",
+            "paragraphes": [
+              {
+                "points": [
+                  { "title": "Le CO2 liquéfié, soutiré d’un réservoir, passe dans un pelletiseur qui le transforme à l’état d’agrégat solide: la neige carbonique. Cette neige à très basse température ( –78,5°C ) est ensuite compactée dans une filière pour donner des sticks ou pellets."},
+                  { "title": "Les pellets ou sticks sont stockés et livrés dans des bacs isothermes"}
+                ]
+              },
+              {
+                "accrPoints": "La projection de micro-pellets se fait avec de l'air comprimé fourni :",
+                "points": [
+                  { "title": "Soit par le réseau interne de l’entreprise,"},
+                  { "title": "Soit par un compresseur d'air." }
+                ]
+              },
+              { "descriptionBold": "Le pistolet utilisé permet de projeter sous pression les pellets ou la neige carbonique directement sur les surfaces à nettoyer." }
+            ]
+          },
+          {
+            "title": "Comment fonctionne le nettoyage cryogénique (ou décapage par cryogénie)?",
+            "paragraphes": [
+              { "description": "C’est une méthode de nettoyage révolutionnaire dans laquelle on projette de la glace sèche sous forme de cylindres appelés « pellets » à l’aide d’un flux d’air comprimé." },
+              { "description": "L’association du choc mécanique et du froid (choc thermique) intense provoque le détachement de la couche à éliminer (décapage par cryogénie)." },
+              { "description": "Le processus ne laisse aucun résidu secondaire, la glace carbonique se sublimant. Le seul résidu à évacuer est la couche qui a été éliminée, plus facile à traiter.   " } 
+            ]
+          },
+          {
+            "title": "Avantages économiques, techniques et environnementaux du nettoyage cryogénique",
+            "paragraphes": [
+              { 
+                "points": [
+                  { "title": "La gestion des déchets en milieu tertiaire"},
+                  { "title": "Réduction du temps d'immobilisation"},
+                  { "title": "La gestion des déchets en milieu tertiaire"},
+                  { "title": "Méthode de nettoyage rapide et efficace"},
+                  { "title": "Réduction de l'usure des équipements de production"},
+                  { "title": "Protection de l'environnement"}
+                ] 
+              }
+            ]
+          }
+        ],
+        "areas": [
+          {
+            "title": "SECTEURS D'INTERVENTION",
+            "parts": [
+              {
+                "points": [
+                  "Automobile", 
+                  "Agroalimentaire", 
+                  "Aéronautique", 
+                  "Imprimerie",
+                  "Restauration après sinistre",
+                  "Plasturgie",
+                  "Fonderie",
+                  "Electricité",
+                  "Transports"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "marqueId": 0,
+      "imgService": "assets/img/services/3.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf275",
+      "pertinence": "bas",   
+      "title": "Propreté et maintenance des process industriels",
+      "content": {
+        "title": "Propreté et maintenance des process industriels",
+        "parts": [
+          {
+            "title": "UNE EXPERTISE TECHNIQUE ET DES MODES OPÉRATOIRES PRÉCIS",
+            "paragraphes": [
+              {"description": "Onet Propreté et Services intervient avec ses agents qualifiés et ses équipements sur des sites industriels, pour des collectivités et des particuliers." },
+              {"description": "Chaque opération est réalisée dans le strict respect des règles liées à la politique de qualité, sécurité et environnement." },
+              {"description": "Hydrocurage, aspiration et refoulement, haute et très haute pression, balayage industriel, nettoyage de mobilier urbain..., nos interventions de traitements préventifs et curatifs contribuent à la sécurité des personnes et à la pérennité de l'outil de production." }
+            ]
+          }
+        ],
+        "areas": [
+          {
+            "title": "DOMAINES D'INTERVENTION",
+            "parts": [
+              {
+                "points": [
+                  "Maintenance et Nettoyage industriel", 
+                  "Assainissement collectif et individuel", 
+                  "Hygiène", 
+                  "Propreté urbaine",
+                  "Transport et Collecte de déchets industriels"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "marqueId": 0,
+      "imgService": "assets/img/services/4.png", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf238",
+      "pertinence": "bas",
+      "title": "Propreté dans les transports",
+      "content": {
+        "title": "Propreté dans les transports",
+        "parts": [
+          {
+            "title": "EXPERTISE ET EXPÉRIENCE POUR S'ADAPTER AUX IMPÉRATIFS DU SECTEUR DES TRANSPORTS",
+            "paragraphes": [
+              { "description": "Élément clé de l'image de marque et composante de la satisfaction des voyageurs, la propreté est un véritable enjeu pour les entreprises du secteur  (ferroviaires, urbains, aériens et maritimes)." },
+              {
+                "accrPoints": "Onet, dont l’expérience est largement reconnue et éprouvée, intervient en s’adaptant aux impératifs inhérents à votre secteur d’activité :",
+                "points": [
+                  { "title": "gestion des aléas," },
+                  { "title": "temps d’intervention limités," },
+                  { "title": "sécurité, sûreté,"},
+                  { "title": "respect de la politique liée à l’environnement,"},
+                  { "title": "normes en vigueur…"}
+                ]
+              },
+              { "description": "L'organisation des flux, des modes d'exploitation et notre savoir-faire en gestion du personnel nous permettent de répondre efficacement à vos besoins en s’adaptant aux contraintes des plans de transport." },
+              { "description": "Notre expertise nous permet d’intervenir en amont, de la définition du cahier des charges jusqu’à la réalisation des prestations en s’inscrivant dans un processus d’amélioration continue." },
+              { "description": "Près de 20 agences spécialisées vous accompagnent dans votre démarche d'obligation de résultats." }
+            ]
+            
+          }
+        ],
+        "areas": [
+          {
+            "title": "DOMAINES D'INTERVENTION",
+            "parts": [
+              {
+                "points": [
+                  "Transport Ferroviaire", 
+                  "Transport Maritime", 
+                  "Transport Aérien", 
+                  "Transport Urbain"
+                ]
+              }
+            ],
+            "conclusion": "Notre démarche qualité de certification ISO 9001, version 2000, vous garantit qualité et réactivité des méthodes d'interventions."
+          },
+          {
+            "title": "GAMME DE SERVICES",
+            "parts": [
+              {
+                "points": [
+                  "accompagnement de personne en situation de handicap ou à mobilité réduite,",
+                  "sécurité,",
+                  "accueil,",
+                  "navette de transport,",
+                  "manutention bagage,",
+                  "habillage intérieur et extérieur de véhicule…"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "marqueId": 0,
+      "subServiceIds": [6, 7],   
+      "productIds": [7],
+      "imgService": "assets/img/services/5.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "videoId": "-YTJpFcD0tQ",
+      "icon": "\uf1b8",
+      "pertinence": "bas",    
+      "title": "Gestion des déchets",
+      "content": {
+        "title": "Gestion des déchets",
+        "parts": [
+          {
+            "title": "UNE SOLUTION GLOBALE POUR UN SYSTÈME DE VALORISATION DES DÉCHETS PERFORMANT",
+            "paragraphes": [
+              {
+                "accrPoints": "Partie prenante de votre démarche responsable et durable, Onet contribue à l’optimisation de la gestion des déchets par une implication quotidienne sur le terrain. Certifiés ISO 14001, nous intervenons sur site client dans le cadre de la gestion interne et externe de tout déchet dangereux et non-dangereux.",
+                "points":[
+                  { "title": "Tri sélectif," },
+                  { "title": "Collecte," },
+                  { "title": "Sensibilisation," },
+                  { "title": "Communication," },
+                  { "title": "Reporting," },
+                  { "title": "Suivi des évacuations," },
+                  { "title": "Pilotage,"},
+                  { "title": "Choix des prestataires de collecte et de valorisation." }
+                ]
+              },
+              { "description": "L’activité Déchet opérée par Onet est une activité complémentaire et indissociable à celles de nos activités principales sur le site client. Ainsi notre intervention dans le cadre de l’activité Déchet est systématiquement couplée à une activité de base comme la propreté, ce qui permet d’optimiser nos ressources internes et d’offrir une gamme élargie de prestations." },
+              { "description": "Toutes nos interventions sont assurées en adéquation avec la réglementation en vigueur à travers les procédures, formations, équipements de sécurité et outils adaptés." },
+              { "description": "Performantes et respectueuses de l’environnement, les solutions Onet vous accompagnent dans l’excellence environnementale et deviennent un véritable partenaire dans la gestion de vos déchets." },
+              {
+                "accrPoints": "Bénéficier d’une solution globale de gestion des déchets en support de prestations de propreté permet de :",
+                "points": [
+                  { "title": "bénéficier d’un interlocuteur unique pour l’ensemble des prestations," },
+                  { "title": "réaliser des économies à travers un contrat unique pour l’ensemble des prestations," },
+                  { "title": "disposer d’outils permettant de suivre la totalité de la chaîne de valeur du déchet tout en s’affranchissant des tâches administratives et réglementaires," },
+                  { "title": "mutualiser les équipes lors d’absences et assurer la continuité de service," },
+                  { "title": "assurer une très bonne coordination entre nos équipes." }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "marqueId": 0,
+      "imgService": "assets/img/services/6.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf014",
+      "pertinence": "bas",      
+      "title": "La gestion des déchets en milieu tertiaire",
+      "content": {     
+        "title": "La gestion des déchets en milieu tertiaire",
+        "intro": [
+          "La gestion des déchets en milieu tertiaire (bâtiments administratifs, réseaux d’agences et établissements recevant du public notamment) est fortement liée à la prestation de propreté. En effet, nos équipes réalisent la collecte des déchets à la source et interviennent au sein du cycle de vie du déchet."
+        ],
+        "parts":[
+          {
+            "title":"Accompagnement dans la démarche de tri sélectif des déchets",
+            "paragraphes": [
+              {
+                "accrPoints": "Afin d’optimiser les performances de tri et assurer une valorisation optimale des déchets, nous accompagnons nos clients dans la démarche de tri sélectif en proposant :",
+                "points": [       
+                  {"title": "un audit de la filière déchets,"},
+                  {"title": "la mise en place des points de collecte,"},
+                  {"title": "l’accompagnement au changement,"},
+                  {"title": "la sensibilisation,"},
+                  {"title": "la communication et le reporting des gisements collectés par catégorie et par zone de production."}
+                ]
+              },
+              {
+                "description": "Pour compléter cette démarche, nous pouvons réaliser l’acheminement vers les installations de valorisation où nous proposons l’intervention de nos partenaires spécialisés, dont des entreprises adaptées."
+              },
+              {
+                "accrPoints": "De plus, en tant que partenaire et expert du secteur, Onet Propreté et Services vous accompagne dans la mise en place du dispositif répondant à la récente évolution de la réglementation en matière de tri des déchets qui impose les obligations suivantes :",
+                "points": [       
+                  {"title": "Obligation de tri à la source"},
+                  {"title": "Collecte séparée"},
+                  {"title": "Traitement au sein de filières agréées"}
+                ]
+              }
+            ]
+          }, 
+          {
+            "title":"Types de déchets collectés ",
+            "paragraphes": [
+              {
+                "points": [        
+                  {"title": "Papier (environ 70% du gisement),"},
+                  {"title": "carton,"},
+                  {"title": "emballages (bouteilles, gobelets, films plastiques ou encore cannettes),"},
+                  {"title": "Déchets des Équipements Électriques et Électroniques (DEEE)."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos prestations en gestion des déchets en milieu tertiaire",
+            "paragraphes": [
+              {
+                "points": [        
+                  {
+                    "title": "Gestion des déchets in-situ",
+                    "subpoints": [
+                      "Collecte des contenants au sein des locaux,",
+                      "Sur-tri des déchets,",
+                      "Pesée des déchets,",
+                      "Regroupement par catégorie de déchets,",
+                      "Réalisation des demandes d’enlèvement."
+                    ]
+                  },
+                  {
+                    "title": "Traçabilité- reporting :",
+                    "subpoints": [
+                      "Élaboration et archivage des bons d'enlèvement et des bordereaux de suivi des déchets (BSD),",
+                      "Tenue du registre déchets,",
+                      "Transmission des quantités de déchets par catégorie et par zone de production et du taux de valorisation global du site."
+                    ]
+                  },
+                  {
+                    "title": "Gestion administrative",
+                    "subpoints": [
+                      "Suivi de la facturation du prestataire de collecte et de valorisation."
+                    ]
+                  },
+                  {
+                    "title": "Optimisation interne",
+                    "subpoints": [
+                      "Suivi des aléas (état du parc matériel, erreur de tri),",
+                      "Élaboration de plans d’actions et de progrès."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Témoignages de nos clients",
+            "subParts": [
+              {
+                "title": "DES SOLUTIONS SUR-MESURE ET PERSONNALISÉES",
+                "paragraphes": [
+                  {
+                    "description": "Sur le site tertiaire de Décathlon Village à Bouc-Bel-Air (Bouches-du-Rhône), Onet participe à la démarche nationale éco-citoyenne de son client grâce à la mise en place de dispositifs de tri (pour les activités de la galerie, l’espace fitness, le restaurant, la terrasse, et les bureaux) incitant les usagers à utiliser le système déployé, pour que les agents Onet réalisent la collecte et le transfert vers la zone déchets. Le partenaire Elise, réalise, quand à lui, l’évacuation et la valorisation des déchets."
+                  },
+                  {
+                    "description": "« Le bilan aujourd’hui est très positif au-delà de la démarche éducative, l’analyse des résultats montre non seulement que le tri est bien fait et qu’il y a très peu de déchets mal positionnés. Notre volonté, au niveau local et national, d’être éco-citoyen se manifeste notamment grâce au tri des déchets et à la réduction de la consommation d’énergie, les solutions d’Onet nous permettent ainsi de compléter notre démarche. », signale Jean-Philippe Bretton, Responsable Exploitation Décathlon Village Bouc-Bel-Air."
+                  }
+                ],
+                "videoId": "-PeKxznCKVc"
+              },
+              {
+                "title": "UN ACCOMPAGNEMENT QUOTIDIEN POUR DES SOLUTIONS ÉVOLUTIVES",
+                "paragraphes": [
+                  {
+                    "description": "Au sein des bâtiments de la Cour de Justice de l’Union Européenne, Onet a accompagné son client dans l’amélioration du tri et du recyclage des déchets dans le prolongement de la prestation propreté."
+                  },
+                  {
+                    "accrPoints": "De nombreux indicateurs sont remontés lors de la collecte :",
+                    "points": [        
+                        {"title": "performances de tri,"},
+                        {"title": "taux de remplissage des contenants,"},
+                        {"title": "poids des déchets par catégorie et par zone de production"},
+                        {"title": "suivi du planning d’évacuation."}
+                    ], 
+                    "description": "Ainsi, la traçabilité depuis la collecte jusqu’à la valorisation est assurée."
+                  },
+                  {
+                    "description": "Ces informations permettent d’établir des plans d’actions et de progrès visant l’amélioration continue de la gestion des déchets." 
+                  },
+                  {
+                    "description":"« Nous disposons aujourd'hui d’un suivi et d’une gestion de nos déchets dont nous n’avions pas rêvé un an avant ! Cette solution web est source de progrès, car elle permet de savoir où mener des actions préventives pour nous améliorer. Son utilisation a profondément modifié notre approche de la gestion des déchets », indique François Maraite, Cour de Justice de l’Union Européenne, Unité Affaires immobilières et sécurité – Section Facility Management."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "marqueId": 0,
+      "imgService": "assets/img/services/7.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf06d",
+      "pertinence": "bas",     
+      "title": "La gestion des déchets industriels",
+      "content": {     
+        "title": "La gestion des déchets industriels",
+        "intro": [
+          "La gestion des déchets industriels occupe une place prépondérante au sein du cycle de production. La collecte, le tri et le suivi de l’évacuation des déchets font partie intégrante de la chaîne de production des entreprises."
+        ],
+        "parts":[
+          {
+            "title":"Optimisation du process industriel",
+            "paragraphes": [
+              { "description": "Ces activités, opérées par Onet, sont essentielles afin de permettre la continuité de l’exploitation et son déroulement afin d’assurer l’optimisation du process industriel."},
+              { "description" : "À travers notre outil Greenflow, le suivi de la production de déchets industriels par catégorie et par zone de production permet de cartographier les gisements et les flux dans l’objectif d’amélioration continue du process client tant organisationnelle, sécuritaire que financière."},
+              { "description" : "La maîtrise du risque et la parfaite connaissance des exigences réglementaires et de productivité nous permettent d’accompagner nos clients sur ce secteur d’activité, notamment sur les plates-formes logistiques et usines de production et de fabrication. En effet, la pression réglementaire est très forte dans ce domaine au regard des typologies de déchets rencontrés."},
+              { "description" : "Nos équipes sont formées et habilitées à intervenir au sein de cet environnement où la traçabilité est essentielle."},
+              { "description" : "En tant que partenaire, Onet occupe un rôle primordial dans l’atteinte de vos objectifs et vous permet d’assurer un tri optimum des déchets industriels tout en vous assurant un taux de valorisation maximum."}
+            ]
+          },
+          {
+            "title":"Types de déchets collectés ",
+            "paragraphes": [
+              {
+                "accrPoints": "Tous types de déchets industriels, dangereux et non-dangereux :",
+                "points": [       
+                  {"title": "carton,"},
+                  {"title": "films plastiques,"},
+                  {"title": "métaux,"},
+                  {"title": "bois,"},
+                  {"title": "palettes,"},
+                  {"title": "huiles,"},
+                  {"title": "boues,"},
+                  {"title": "déchets industriels banals (DIB),"},
+                  {"title": "verre,"},
+                  {"title": "solvants,"},
+                  {"title": "rebus de fabrication, ..."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos prestations de gestion des déchets industriels au sein du cycle de production",
+            "paragraphes": [
+              {
+                "points": [       
+                  {
+                    "title": "Gestion des déchets in-situ",
+                    "subpoints": [
+                      "Collecte des contenants,",
+                      "Tri des matières et contrôle des performances de tri,",
+                      "Regroupement des déchets,",
+                      "Pesée."
+                    ]
+                  },
+                  {
+                    "title": "Pilotage des évacuations vers les filières de valorisation",
+                    "subpoints": [
+                      "Réalisation des demandes d’enlèvement,",
+                      "Suivi des factures du prestataire déchet."
+                    ]
+                  },
+                  {
+                    "title": "Gestion administrative",
+                    "subpoints": [
+                      "Mise en conformité réglementaire : élaboration et archivage des bordereaux de suivi des déchets (BSD), tenue du registre déchets,",
+                      "Reporting d’exploitation,",
+                      "Traçabilité via Greenflow (puces NFC, balance connectée, capteur de niveau, optimisation des circuits internes de collecte, ...)."
+                    ]
+                  },
+                  {
+                    "title": "Optimisation interne",
+                    "subpoints": [
+                      "Suivi des aléas (état du parc matériel, erreur de tri),",
+                      "Suivi des niveaux de remplissage des contenants,",
+                      "Élaboration de plans d’actions et de progrès."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Témoignages de nos clients",
+            "subParts": [
+              {
+                "title": "ONET, AU COEUR DE L’OPTIMISATION DES FLUX",
+                "paragraphes": [
+                  { "description": "Sur le centre logistique Rexel de Toulouse (Haute-Garonne), suite à la réalisation d’un audit, Onet a pu identifier les problématiques du site en termes de gestion des déchets et apporter les solutions adéquates (dispositifs de collecte, collecte et transfert, campagne d’affichage, terminal mobile, logiciel Greenflow) pour l’optimisation des flux et un gain de temps."},
+                  { "description": "« La solution Onet m’a permis de mieux optimiser les flux, d’avoir un flux plus rationnel, et de gagner en temps. », signale Serge Fontanel, Directeur du Centre Logistique Rexel Toulouse."}
+                ],
+                "videoId" : "mK_HvsqgIAM"
+              },
+              {
+                "title": "UNE SOLUTION DÉVELOPPÉE PAR ONET POUR UNE MEILLEURE TRAÇABILITÉ",
+                "paragraphes": [
+                  {"description": "Sur le site de PUNCH Powerglide de Strasbourg (Bas-Rhin), industrie fabriquant de boîtes de vitesse, Onet a déployé le logiciel Greenflow pour la gestion des déchets. 85 types de déchets distincts répertoriés sur les 90 000 m2 qui composent l’usine articulée autour de trois bâtiments principaux."},
+                  {"description": "Aujourd'hui, avec un dispositif de collecte adapté (wagonnets, chariot, compacteurs, bennes, …), Onet assure la collecte, le transfert de ces déchets et le regroupement vers la zone de stockage appropriée."},
+                  {"description": "« Le logiciel va nous donner à terme la capacité de peser les déchets et de suivre les quantités et les provenances. Nous espérons à terme améliorer le tri et réduire les quantités de déchets sur les chaines de production. Valoriser nos déchets contribue à réduire nos coûts. », annonce Bertrand Andna, Responsable contrats généraux chez PUNCH Powerglide." }
+                ]
+              }
+            ]
+          }
+        ]     
+      }
+    },
+    {
+      "id": 8,
+      "marqueId": 0,
+      "imgService": "assets/img/services/8.jpg", 
+      "imgMarque": "assets/img/marques/0.jpg",
+      "icon": "\uf1ad",
+      "pertinence": "bas",      
+      "title": "Services associés",
+      "content": {     
+        "title": "Services associés", 
+        "intro": [
+          "Le maintien de la qualité de l'environnement de travail conditionne les performances de l'entreprise et garantit la sécurité des personnes comme des biens.",
+          "Les services associés sont toutes les solutions de service que l'on peut proposer et mettre en œuvre chez nos clients afin de leur apporter des réponses et un confort dans la gestion de leur site, notamment de la prise en charge des tâches périphériques à leur cœur de métier."
+        ],
+        "parts":[
+          {
+            "title":"SERVICES AUX OCCUPANTS",
+            "paragraphes": [
+              {
+                "points": [        
+                  {"title": "Réception, gestion et préparation des salles de réunion." },
+                  {"title": "Petite manutention, livraison de colis." },
+                  {"title": "Accueil." },
+                  {"title": "Nettoyage et gestion du parc véhicules, …" },
+                  {"title": "Gestion de distribution automatique (offre Sylliance avec notre partenaire SLG)." },
+                  {"title": "Gestion des archives (offre Sylliance avec notre partenaire Locarchives)." },
+                  {"title": "Conciergerie d'entreprise avec Or du temps   www.conciergerie-ordutemps.com" }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"SERVICES AUX BÂTIMENTS",
+            "paragraphes": [
+              {
+                "points": [        
+                  {"title": "Maintenance immobilière : cloisons amovibles, cloisons et doublage en plaque de plâtre plomberie, maçonnerie, électricité, menuiserie, serrurerie, peinture, marquage et traçage des sols, réfection de clôtures et regards d’assainissement, second-œuvre…," },
+                  {"title": "Entretien des espaces verts extérieurs et intérieurs : tonte pelouse, fauchage, désherbage, bêchage, binage, arrosage, taille…," },
+                  {"title": "3 D (Dératisation, Désinsectisation, Désinfection)," },
+                  {"title": "Salage, déneigement" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "marqueId": 1,
+      "productIds": [8],
+      "imgService": "assets/img/services/9.jpg", 
+      "imgMarque": "assets/img/marques/1.jpg",
+      "icon": "\uf21b",
+      "pertinence": "bas",      
+      "title": "Sécurité humaine",
+      "content": {     
+        "title": "Sécurité humaine",  
+        "keys": [
+          {"label": "94%", "nb": "de satisfaction client"},
+          {"label": "4122", "nb": "agents sur le terrain"},
+          {"label": "86%", "nb": "d’agents satisfaits de travailler chez Main Sécurité"},
+          {"label": "87%", "nb": "nt pour moteur la satisfaction du travail bien fait"},
+          {"label": "20", "nb": "implantations de proximité"}
+        ],
+        "parts":[
+          {
+            "title":"Solution de sécurité par agent",
+            "paragraphes": [
+              {"description": "Selon la nature de vos risques, Onet Sécurité répond par une offre de sécurité humaine adaptée, avec un profil et des compétences spécifiques en fonction des missions et de votre secteur d’activité."},
+              {"description": "Dissuader, prévenir, intervenir et traiter sont les missions quotidiennes de nos agents de sécurité qui œuvrent à la maîtrise de vos risques, la protection de vos biens, de votre savoir-faire et de vos équipes."},
+              {"description": "Professionnalisme, discrétion, efficacité et réactivité sont les qualités des agents Onet Sécurité."}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D'INTERVENTION",
+            "parts": [
+              {
+                "points": [
+                  "sûreté",
+                  "sécurité incendie",
+                  "sûreté aéroportuaire",
+                  "sécurité évenementielle"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "marqueId": 1,
+      "productIds": [],
+      "imgService": "assets/img/services/10.jpg", 
+      "imgMarque": "assets/img/marques/1.jpg",
+      "icon": "\uf0f3",
+      "pertinence": "bas",      
+      "title": "Sécurité électronique",
+      "content": {     
+        "title": "Sécurité électronique",  
+        "keys": [
+          {"label": "485", "nb": "collaborateurs"},
+          {"label": "18 005", "nb": "installations réalisées"},
+          {"label": "45", "nb": "ans d’expérience"},
+          {"label": "38", "nb": "implantations de proximité"}
+        ],
+        "parts":[
+          {
+            "title":"Solution de sécurité par système électronique",
+            "subParts": [
+              {
+                "title": "PLUS TÔT VOUS ÊTES ALERTÉ D’UN DANGER, PLUS RAPIDEMENT ET INTELLIGEMMENT VOUS POUVEZ INTERVENIR.",
+                "paragraphes": [
+                  {"description": "Pour identifier les menaces avant qu’elles ne compromettent la sécurité des personnes ou la pérennité de votre activité, Onet Sécurité construit, intègre et maintient des systèmes de sécurité électronique sur-mesure, capables de répondre aux besoins des clients les plus exigeants, par la parfaite maîtrise du cycle de vie des installations."},
+                  {"description": "Nos solutions sont fiables et modulables en fonction de vos risques et du niveau de sécurité qu’ils requièrent."},
+                  {"description": "L’investissement consacré en R&D nous permet de proposer des solutions intégrées innovantes pour optimiser à la fois le pilotage et le niveau de sécurité de vos sites."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"ILS LE DISENT SUR LEUR MÉTIER",
+            "paragraphes": [
+              {"description": "« Le SAV c’est vraiment être au service du client. Être disponible, réactif et persévérant sont les maîtres mots de notre quotidien pas toujours facile. Notre métier consiste à réparer un dysfonctionnement, qui plus est, dans le domaine de la haute sécurité. La performance est notre leitmotiv. » Florian P.,  Technicien et Responsable production SAV"},
+              {"description": "« Les chantiers requièrent à la fois réactivité, efficacité et technicité. Prendre du recul est absolument essentiel afin d’opter rapidement pour les solutions qui satisferont le client. Ce qui anime mon quotidien, c’est les relations étroites que j’entretiens précieusement avec mes clients mais aussi avec mon équipe, les architectes, les sous-traitants, etc. La confiance est la base de nos relations et aussi ce qui fait la différence sur notre marché. » Gilles V., Responsable Technique."}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D'INTERVENTION",
+            "parts": [
+              {
+                "points": [
+                  "Détection Intrusion",
+                  "Vidéoprotection",
+                  "Contrôle d’accès",
+                  "Sas et moyens de filtrage",
+                  "Hypervision"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "marqueId": 1,
+      "imgService": "assets/img/services/11.jpg", 
+      "imgMarque": "assets/img/marques/1.jpg",
+      "icon": "\uf06e",
+      "pertinence": "bas",      
+      "title": "Télé(vidéo)surveillance",
+      "content": {     
+        "title": "Télé(vidéo)surveillance",  
+        "keys": [
+          {"label": "3000", "nb": "clients"},
+          {"label": "10 500", "nb": "personnes placées sous surveillance électronique"},
+          {"label": "3500", "nb": "alarmes traitées"},
+          {"label": "7800", "nb": "interventions par an"},
+          {"label": "39", "nb": "opérateurs pour un service 24h/24 et 7j/7"}
+        ],
+        "parts":[
+          {
+            "title":"Solution de sécurité à distance",
+            "paragraphes": [
+              {"descriptionBold": "La gestion des flux d’informations, tels que les alarmes, est la base de tout système de sécurité."},
+              {"description": "Nos centres APSAD P3 nous permettent de maîtriser et analyser en temps réel, 24h/24 et 7j/7, le niveau de sécurité sur vos sites et a la capacité de déclencher des interventions."}
+            ]
+          },
+          {
+            "title": "DOMAINES D'INTERVENTION DE LA TÉLÉSURVEILLANCE ET TÉLÉVIDÉOSURVEILLANCE",
+            "subParts": [
+              {
+                "title": "Gestion des alarmes",
+                "paragraphes": [
+                  {"description": "De la réception du signal, au traitement, puis à la levée de doute et interventions, nos systèmes de télésurveillance garantissent une action instantanée et directe limitant ainsi les risques de propagation ou d'aggravation des incidents."}
+                ]
+              },
+              {
+                "title":"Surveillance et géolocalisation des personnes et des biens",
+                "paragraphes":[
+                  {
+                    "accrPoints": "Onet Sécurité réalise le suivi sécuritaire des personnes et des objets mobiles connectés, par localisation géo satellitaire :",    
+                    "points": [         
+                      {"title": "alarmes de PTI,"},
+                      {"title": "alarmes d’inclusion/exclusion sur zones géographiques,"},
+                      {"title": "tracking d’objets de valeur…"}
+                    ]
+                  } 
+                ]
+              },
+              {
+                "title": "Télé-ronde",
+                "paragraphes": [
+                  {"description": "Au travers de rondes vidéo, nos systèmes de télévidéosurveillance permettent de réaliser de façon automatisée la visualisation et l'analyse des scènes fournies par des caméras implantées stratégiquement."}
+                ]
+              },
+              {
+                "title": "Télé-escorte",
+                "paragraphes": [
+                  {"description": "La télévidéosurveillance d'Onet Sécurité au bénéfice de vos sites assure la sécurisation de vos collaborateurs dans le cadre de situations à risque telles que suivi de progression ou l'accès à des zones sensibles ou de haute sécurité…"}
+                ]
+              },
+              {
+                "title": "Télé-accès piétons et véhicules",
+                "paragraphes": [
+                  {"description": "Onet Sécurité propose l'assistance à distance de votre personnel lors de l’ouverture et de la fermeture de vos sites afin de lutter contre les comités d’accueil."}
+                ]
+              },
+              {
+                "title": "Télé-vidéodétection",
+                "paragraphes": [
+                  {"description": "L'utilisation de caméras optiques et thermiques de haute sécurité associées à de puissants logiciels d’analyse d’image (V.M.S) et intégrées dans la chaîne d’expertise de la vidéosurveillance permet la vidéodétection automatisée à distance."}
+                ]
+              },
+              {
+                "title": "Télé-interpellation par messages sonores",
+                "paragraphes": [
+                  {"description": "L'intervention verbale à distance par nos opérateurs de télévidéosurveillance est un élément fort de la stratégie de dissuasion, sans présence continue d’un agent de sécurité et réduit efficacement les risques d’effraction ou d’intrusion."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"ILS LE DISENT SUR LEUR MÉTIER",
+            "paragraphes": [
+              {"description": "« Plus de trente ans après mes débuts dans la sécurité, j’aime toujours autant mon métier. Un hold-up dans une banque, une agression, un incendie : il faut appliquer la procédure, avec les codes appropriés, appeler sur place, rassurer et réconforter. Le contact humain est la base de mon travail. Il faut savoir garder son sang froid en toute situation, gérer son stress face aux multiples informations que nous recevons et dont le traitement est soumis à un temps minuté pour y répondre. » Didier C., Opérateur en télésurveillance."},
+              {"description": "« Notre métier consiste à suivre les sites télésurveillés, soit en détectant un problème technique, soit en neutralisant une situation à risque et en dépêchant sur place un agent de sécurité, les forces de police ou de gendarmerie. Pour la prestation des bracelets électroniques nous assurons la supervision des alarmes, traitées pour partie par les agents de la pénitentiaire et pour l’autre partie par les opérateurs. Pour cela, nous disposons des technologies les plus performantes du marché et une équipe d’opérateurs hautement qualifiés. » Frédéric V., Directeur des opérations."}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "marqueId": 1,
+      "productIds": [10],
+      "imgService": "assets/img//services/12.jpg", 
+      "imgMarque": "assets/img/marques/1.jpg",
+      "videoId": "3M2-zbgnIIU",
+      "icon": "\uf03d",
+      "pertinence": "bas",      
+      "title": "Vidéoprotection",
+      "content": {     
+        "title": "Vidéoprotection",  
+        "keys": [
+          {"label": "+30", "nb": "ans d’expérience en vidéoprotection"},
+          {"label": "1", "nb": "bureau d’études interne pour une évolution continue"},
+          {"label": "1", "nb": "gamme de stockeurs ultra-performants"}
+        ],
+        "parts":[
+          {
+            "title":"Solution de sécurité par image",
+            "paragraphes": [
+              {"description": "Optimiser l’efficacité d'un système de sécurité avec une solution de vidéoprotection proactive, basée sur l’image utile et notre savoir-faire."},
+              {"description": "Onet Sécurité construit, intègre et maintient des solutions expertes et sur-mesure de vidéoprotection, enrichies des dernières innovations technologiques."},
+              {"descriptionBold": "Notre expérience nous permet aujourd’hui de répondre précisément à vos besoins."}
+            ]
+          },
+          {
+            "title":"ILS LE DISENT SUR LEUR MÉTIER",
+            "paragraphes": [
+              {"description": "« Ce métier est gratifiant car le résultat de nos solutions techniques est explicitement visible. Selon les besoins propres à chacun de nos clients, nous apportons à la bonne personne, au bon moment, l’image la plus pertinente. » François M., Chargé d’affaires"}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D'INTERVENTION",
+            "parts": [
+              {
+                "points": [
+                  "Système de vidéoprotection",
+                  "Détection comportementale",
+                  "Détection d’unicité de passage",
+                  "Contrôle d’accès",
+                  "Lecture de plaque minéralogique",
+                  "Vidéoprotection urbaine"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "marqueId": 1,
+      "imgService": "assets/img//services/13.jpg", 
+      "imgMarque": "assets/img/marques/1.jpg",
+      "icon": "\uf080",
+      "pertinence": "bas",      
+      "title": "Conseil & Audit",
+      "content": {     
+        "title": "Conseil & Audit",  
+        "parts":[
+          {
+            "title":"Solution d'accompagnement en prévention et maîtrise des risques",
+            "paragraphes": [
+              {"description": "Expert en prévention et en maîtrise des risques, nous avons pour vocation de développer, accompagner et évaluer les connaissances et les savoir-faire en Sécurité, sûreté et Hygiène, Sécurité et Environnement (HSE)."},
+              {
+                "accrPoints": "Domaines d'intervention : ",
+                "description": "Nous proposons 2 gammes de prestations pour des missions d'accompagnement à court, moyen et long terme et des solutions périodiques de diagnostics, d'évaluations dans le cadre d'audits et d'études."
+              }
+            ],
+            "subParts": [
+              {
+                "title": "Missions d'accompagnement CT - MT - LT",
+                "paragraphes": [
+                  {
+                    "points": [        
+                      {
+                        "title": "INCENDIE",
+                        "subpoints": [
+                          "Directeur Unique de sécurité",
+                          "Mandataire Sécurité Incendie en IGH",
+                          "Conseiller en prévention incendie"
+                        ]
+                      },
+                      {
+                        "title": "HSE",
+                        "subpoints": [
+                          "Coordonnateur HSE",
+                          "Gestion des entreprises lors de travaux",
+                          "Intervenant en Prévention des Risques Professionnels"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Missions d'Audits - Etudes",
+                "paragraphes": [
+                  {
+                    "points": [        
+                      {
+                        "title": "INCENDIE",
+                        "subpoints": [
+                          "Diagnostic de sécurité incendie et risque de panique",
+                          "Schéma directeur de mise en sécurité incendie",
+                          "Notice descriptive de sécurité - étude de plans"
+                        ]
+                      },
+                      {
+                        "title": "HSE",
+                        "subpoints": [
+                          "Conformité CE",
+                          "Évaluation des risques professionnels - rédaction du Document Unique (DUERP)",
+                          "Diagnostic pénibilité au travail"
+                        ]
+                      },
+                      {
+                        "title": "SURETE",
+                        "subpoints": [
+                          "Diagnostic sûreté",
+                          "Test opérationnel sûreté"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"NOS EXPERTS",
+            "paragraphes": [
+              {"description": "Une équipe de 11 experts aux compétences variées allant du SST à l'ATEX en passant par le SSIAP."}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "marqueId": 2,
+      "imgService": "assets/img//services/14.jpg", 
+      "imgMarque": "assets/img/marques/2.jpg",
+      "icon": "\uf072",
+      "pertinence": "bas",
+      "title": "Aviation générale",
+      "content": {     
+        "title": "Aviation générale",  
+        "intro": [
+          "Les équipes d’Onet Airport Services dédiées à l’aviation générale et à la spécificité de ces services, sont à la disposition de tous les propriétaires d’aéronefs privés et des sites dédiés à la recherche d’une qualité d’assistance exceptionnelle et personnalisée."
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINE D'INTERVENTION",
+            "parts": [
+              {
+                "points":[
+                  "Assistance au sol / passager",
+                  "Nettoyage avion",
+                  "Eau potable",
+                  "Catering",
+                  "Formalités de douane – de sécurité",
+                  "Refueling",
+                  "Conciergerie",
+                  "Transport des passagers"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "marqueId": 2,
+      "imgService": "assets/img/services/15.png", 
+      "imgMarque": "assets/img/marques/2.jpg",
+      "icon": "\uf1b3",
+      "pertinence": "bas",
+      "title": "Full Handling",
+      "content": {     
+        "title": "Full Handling",  
+        "intro": [
+          "Onet Airport Services propose des prestations full handling.",
+          "Son expertise dans le passage, trafic, piste et cargo est garante d'un savoir-faire maîtrisé. Pour assurer une qualité de service optimale, l'ensemble des services est réalisé par les équipes d’ Onet Airport Services. Un interlocuteur unique et dédié est en contact direct avec la compagnie aérienne."
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINE D'INTERVENTION",
+            "parts": [
+              {
+                "title": "Service passage :",
+                "points":[
+                  "information aux passagers,",
+                  "traitement des spécificités,",
+                  "typologie passagers – correspondances – réclamations – irrégularités,",
+                  "billetterie,",
+                  "enregistrement."
+                ]
+              },
+              {
+                "title": "Service opérations :",
+                "points":[
+                  "élaboration des dossiers de vol,",
+                  "plan de chargement,",
+                  "devis de masse,",
+                  "coordination du vol,",
+                  "transport des équipages."
+                ]
+              },
+              {
+                "title": "Service piste :",
+                "points":[
+                  "traitement des bagages,",
+                  "guidage - Marshalling,",
+                  "parking,",
+                  "GPU,",
+                  "climatisation et chauffage (ACU),",
+                  "communication entre sol et poste de pilotage,",
+                  "chargement et déchargement,",
+                  "démarrage (ASU),",
+                  "mesure de sécurité,",
+                  "déplacement de l’avion,",
+                  "nettoyage extérieur,",
+                  "nettoyage intérieur (transit, night stop ou type Z),",
+                  "service vidange toilette,",
+                  "service eau potable,",
+                  "équipement cabine,",
+                  "rangement du matériel cabine,",
+                  "assistance ramp à la restauration/mise à bord,",
+                  "dégivrage."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "marqueId": 2,
+      "imgService": "assets/img/services/16.png", 
+      "imgMarque": "assets/img/marques/2.jpg",
+      "icon": "\uf21a",
+      "pertinence": "bas",
+      "title": "Cargo & Transport",
+      "content": {     
+        "title": "Cargo & Transport",  
+        "intro": [
+          "Onet Airport Services assure la gestion des flux de marchandises et de personnes.  Cela se traduit par l’accompagnement et l’optimisation des process de fret mais également par les transferts pour le personnel navigants ou les passagers entre l’avion et l’aérogare."
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINE D'INTERVENTION POUR LE TRANSPORT",
+            "parts": [
+              {
+                "points":[
+                  "accueil des équipages",
+                  "chargement et déchargement des bagages",
+                  "transfert des équipages (avion <->aérogare <-> hôtel)"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "DOMAINES D’INTERVENTION POUR LE CARGO",
+            "parts": [
+              {
+                "points":[
+                  "assistance piste des avions",
+                  "transfert du fret",
+                  "chargement / déchargement des camions",
+                  "inspection filtrage et sûreté des colis",
+                  "tri des colis",
+                  "contrôle douanier"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "marqueId": 3,
+      "imgService": "assets/img/services/17.jpg", 
+      "imgMarque": "assets/img/marques/3.jpg",
+      "icon": "\uf007",
+      "pertinence": "bas",
+      "title": "Accueil en entreprise et services associés",
+      "content": {     
+        "title": "Accueil en entreprise et services associés",  
+        "parts":[
+          {
+            "title":"ACCÉLÉRATEUR DE RELATIONS, CRÉATEUR DE CONNEXIONS",
+            "paragraphes": [
+              {"description": "L'accueil doit être une expérience agréable, bien sûr."},
+              {"description": "Mais l’accueil d'entreprise doit surtout créer des synergies entre les personnes, simplifier le quotidien des collaborateurs au travail mais aussi apporter plus d’équilibre entre vie personnelle et professionnelle, source d’efficacité et de bien-être."},
+              {"description": "L'accueil peut aussi venir en renfort des fonctions support de l'entreprise (marketing, logistique, administratif...)."}
+            ]
+          },
+          {
+            "title":"NOS SOLUTIONS POUR L'ACCUEIL DE VOTRE ENTREPRISE",
+            "paragraphes": [
+              {
+                "points": [         
+                  {
+                    "title": "Accueillir & Orienter les visiteurs",
+                    "subpoints": ["Accueil physique, téléphonique, sécurité, VIP"]
+                  },
+                  {
+                    "title": "Simplifier le quotidien de vos collaborateurs",
+                    "subpoints": ["Gestion du courrier et des colis, des déplacements en France et à l'étranger, des salles de réunion et restauration, des parkings"]
+                  },
+                  {
+                    "title": "Apporter un support expert",
+                    "subpoints": ["Support technique/services généraux, administratif, marketing/communication/commercial"]
+                  },
+                  {
+                    "title": "Générer du bien-être",
+                    "subpoints": ["Gestion des objets trouvés, des avantages collaborateurs, conciergerie"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"CE QUE NOUS VOUS APPORTONS",
+            "paragraphes": [
+              {
+                "points": [  
+                  {"title": "Des prestations utiles pour vos collaborateurs, vos visiteurs et vos clients, concourant au bon fonctionnement de votre site et à la productivité des équipes,"},
+                  {"title": "Des outils permettant de réaliser des reportings et statistiques pour une gestion optimale de votre accueil,"},
+                  {"title": "Pour aller plus loin, un aménagement multi-sensoriel de l'espace d'accueil (décoration florale et murale, ambiance sonore et olfactive, borne tactile, magazine, affichage interactif, gourmandises...)."},
+                  {"title": "Forte de l’expertise d’ Onet Sécurité sur les sites sensibles, Onet Accueil peut proposer un accueil spécifique et du personnel (hôtes et hôtesses) sensibilisé à la sécurité."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "LE DRESSING DE NOS HOTES(SES)",
+            "paragraphes": [
+              {"description": "Onet Accueil vous propose toute une gamme de tenues afin de vous assurer une prestation à la fois professionnelle et adaptée à votre propre image."},
+              {"description": "Sobres et élégants, nos tailleurs sont en adéquation avec l'image d'Onet Accueil : un accueil professionnel, attentionné, sûr et agréable."},
+              {
+                "points": [
+                  {"title": "Un tailleur sobre et élégant"},
+                  {"title": "Des tops et accessoires personnalisables, des coloris différents"}
+                ]
+              },
+              {
+                "dressing":[
+                  "assets/img/services/dressing/0.jpg",
+                  "assets/img/services/dressing/1.jpg",
+                  "assets/img/services/dressing/2.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "marqueId": 3,
+      "imgService": "assets/img/services/18.jpg", 
+      "imgMarque": "assets/img/marques/3.jpg",
+      "icon": "\uf073",
+      "pertinence": "bas",
+      "title": "Accueil Evènementiel",
+      "content": {     
+        "title": "Accueil Evènementiel",  
+        "subtitle": "Des compétences spécifiques pour chaque évènement",
+        "intro":[
+          "L’expertise et la diversité des compétences de nos hôtes et hôtesses nous permettent de vous offrir une réponse spécifique à tous vos besoins  événementiels - manifestations culturelles ou sportives, congrès, salons, cocktails, road shows, soirées de prestige, tournées promotionnelles – mais également à vos actions de promotion des ventes."
+        ],
+        "parts":[
+          {
+            "title":"NOS SOLUTIONS EN ÉVÉNEMENTIEL",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Accueil, réception, remise de badge, gestion informatique des visiteurs,"},
+                  {"title": "Placement en salle, passage micro,"},
+                  {"title": "Gestion des vestiaires, remise de documents, collation,"},
+                  {"title": "Voituriers, chauffeurs,"},
+                  {"title": "Interprète,"},
+                  {"title": "Billetterie,"},
+                  {"title": "Accueil VIP."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"CE QUE NOUS VOUS OFFRONS",
+            "paragraphes": [
+              {
+                "points": [  
+                  {"title": "Un accompagnement dans la définition de votre dispositif (nombre, profil, tenue des hôtes et hôtesses) comme dans la gestion de votre évènement,"},
+                  {"title": "Une responsable d’exploitation en agence dédiée à chaque évènement pour une disponibilité et une réactivité optimales,"},
+                  {"title": "Une interface web pour chiffrer vos dispositifs en quelques clics,"},
+                  {"title": "ONE : une offre complète au service de vos événements : accueil, sécurité et propreté."}
+                ]
+              }
+            ]
+          },
+          {
+
+            "title": "LE DRESSING DE NOS HOTES(SES)",
+            "paragraphes": [
+              {"description": "Onet Accueil vous propose toute une gamme de tenues afin de vous assurer une prestation à la fois professionnelle et adaptée à votre propre image."},
+              {"description": "Parce que chaque événement est unique, nous vous proposons une sélection de tenues et d'accessoires personnalisables en fonction de l'image que vous souhaitez véhiculer."},
+              {
+                "points": [
+                  {"title": "Des vestes uniques et interchangeables, un choix de coloris varié"}
+                ]
+              },
+              {
+                "dressing":[
+                  "assets/img/services/dressing/3.jpg",
+                  "assets/img/services/dressing/4.jpg",
+                  "assets/img/services/dressing/5.jpg"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "marqueId": 3,
+      "imgService": "assets/img/services/19.jpg", 
+      "imgMarque": "assets/img/marques/3.jpg",
+      "icon": "\uf21d",
+      "pertinence": "bas",
+      "title": "Animation In&Out store",
+      "content": {     
+        "title": "Animation In&Out store",  
+        "parts":[
+          {
+            "title":"FAIRE LA DIFFÉRENCE EST AUJOURD’HUI DIFFICILE",
+            "paragraphes": [
+              {"description": "Pourtant, les objectifs commerciaux et marketing sont toujours plus ambitieux."},
+              {"description": "Il est reconnu que l’acte d’achat est fortement impacté par l’expérience que les marques proposent à leurs prospects. Elles sont désormais dans la nécessité d’aller à la rencontre du consommateur et de lui faire vivre une expérience pour le séduire."},
+              {"description": "Onet Accueil vous propose de nombreuses animations en fonction de vos objectifs, mises en œuvre par des équipes d’animations commerciales performantes."}
+            ]
+          },
+          {
+            "title":"NOS SOLUTIONS",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Street Marketing,"},
+                  {"title": "Échantillonnage,"},
+                  {"title": "Tournées promotionnelles,"},
+                  {"title": "Présentation/démonstration de produits…"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"CE QUE NOUS VOUS OFFRONS",
+            "paragraphes": [
+              {
+                "points": [  
+                  {"title": "Un accompagnement dans la définition et la gestion de votre animation,"},
+                  {"title": "Un(e) responsable d’animation dédié(e) à chaque projet pour une disponibilité et une réactivité optimale,"},
+                  {"title": "Un compte rendu chiffré de l’impact de votre animation."}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "marqueId": 3,
+      "imgService": "assets/img/services/20.jpg", 
+      "imgMarque": "assets/img/marques/3.jpg",
+      "icon": "\uf193",
+      "pertinence": "bas",
+      "title": "Accompagnement de personnes en situation de handicap ou à mobilité réduite",
+      "content": {     
+        "title": "Accompagnement de personnes en situation de handicap ou à mobilité réduite",  
+        "parts":[
+          {
+            "title":"UN ACCUEIL ET UN ACCOMPAGNEMENT SPÉCIFIQUE",
+            "paragraphes": [
+              {"description": "Parce que chaque visiteur doit être accueilli ;"},
+              {"description": "Parce que certains requièrent une attention particulière ou une présence indispensable ;"},
+              {"description": "Onet Accueil propose un accompagnement spécifique aux personnes le nécessitant."},
+              {"description": "Au delà de l’accueil, c’est une véritable prise en charge qui est proposée aux passagers : accueil, assistance, accompagnement, gestion des formalités, des correspondances, transport des bagages..."},
+              {"description": "Chaque année, plus de 65 000 personnes en situation de handicap et à mobilité réduite en bénéficient que ce soit en milieu aéroportuaire ou ferroviaire."}
+            ]
+          },
+          {
+            "title":"NOS SOLUTIONS",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Accueil, orientation et accompagnement de personnes en situation de handicap et à mobilité réduite,"},
+                  {"title": "Prise en charge des bagages,"},
+                  {"title": "Gestion des correspondances, des formalités"},
+                  {"title": "Transport de personnes"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"CE QUE NOUS VOUS OFFRONS",
+            "paragraphes": [
+              {
+                "points": [  
+                  {"title": "Une approche pédagogique adaptée au profil de chaque personne,"},
+                  {"title": "Une organisation flexible et réactive, notamment en adéquation avec la gestion des flux en milieu aéroportuaire et ferroviaire,"},
+                  {"title": "Des solutions et du matériel spécifiques pour l'accompagnement des PSHMR,"},
+                  {"title": "Une image d'entreprise citoyenne, impliquée dans l'intégration de tous."}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "marqueId": 4,
+      "imgService": "assets/img/services/21.jpg", 
+      "imgMarque": "assets/img/marques/4.jpg",
+      "icon": "\uf201",
+      "pertinence": "bas",   
+      "title": "Conseil et ingénierie logistique",
+      "content": {     
+        "title": "Conseil et ingénierie logistique",  
+        "parts":[
+          {
+            "title":"UN BUREAU D’ÉTUDES POUR CONSTRUIRE DES SOLUTIONS LOGISTIQUES ADAPTÉES ET ANTICIPER LES DÉFIS DE DEMAIN",
+            "paragraphes": [
+              {"description": "Conscient des enjeux liés à la performance opérationnelle de nos clients, notre bureau d’études, conçoit des solutions d’externalisation logistique basée sur l’analyse des processus et des organisations."}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D’INTERVENTIONS",
+            "parts": [
+              {
+                "points":[
+                  "Etude et modélisation des processus logistiques",
+                  "Audit de process logistiques opérationnels",
+                  "Suivi et contrôle des performances - ROI",
+                  "Plan d’implantations et mécanisme d’optimisation",
+                  "Etude de première externalisation de votre fonction logistique",
+                  "Plan de progrès – définition et mise en œuvre"
+                ]
+              }
+            ],
+            "conclusion": "Nos études permettent de faire ressortir les aménagements organisationnels et techniques à mettre en œuvre pour rationaliser l’activité et améliorer la performance globale de votre logistique. Elles sont sources d’innovations et de changements."
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "marqueId": 4,
+      "imgService": "assets/img/services/22.jpg", 
+      "imgMarque": "assets/img/marques/4.jpg",
+      "icon": "\uf0ec",
+      "pertinence": "bas",   
+      "title": "Gestion et pilotage des flux physiques et d'informations",
+      "content": {     
+        "title": "Gestion et pilotage des flux physiques et d'informations",  
+        "parts":[
+          {
+            "title":"UN PILOTAGE AGILE DES FLUX ET UNE TRAÇABILITÉ OPTIMALE",
+            "paragraphes": [
+              {"description": "Le pilotage des flux consiste à coordonner les flux physiques et d’informations d'un site."},
+              {"description": "Totalement intégré à vos process, à l’intérieur de vos sites, nous développons une connaissance précise de votre activité et ses enjeux."},
+              {"description": "Couplée à notre expertise et expérience en pilotage et « réalisation » des flux nous répondons de façon complète et adaptée à vos besoins."},
+              {"description": "Notre savoir-faire en ingénierie sociale nous permet de reprendre sereinement des collaborateurs, en limitant tous risques sociaux, tout en les impliquant et motivant sur le long terme."}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D’INTERVENTIONS",
+            "parts": [
+              {
+                "title": "Logistique amont - approvisionnement",
+                "points":[
+                  "Transport routier",
+                  "Logistique - approvisionnement",
+                  "Manoeuvre ferroviaire et exploitation d'installations embranchées",
+                  "Réception, déchargement matières, composants, comsommables et produits finis / pièces de rechanges",
+                  "Conditionnement et emballage",
+                  "Contrôle qualité",
+                  "Gestion de flux physique et d'information (traçabilité...)",
+                  "Contrôle sûreté douanière"
+                ]
+              },
+              {
+                "title": "Gestion des stocks",
+                "points":[
+                  "Gestion des stocks physiques et informatiques",
+                  "Inventaires, suivi administratif",
+                  "Préparation de commande, picking",
+                  "Étiquetage / marquage",
+                  "Tri / contrôle qualité / tests"
+                ]
+              },
+              {
+                "title": "Logistique de production",
+                "points":[
+                  "Approvisionnement et gestion bord de ligne / chaîne de production",
+                  "Assemblage / montage / intervention sur produit / petites opérations industrielles",
+                  "Sortie de production",
+                  "Conditionnement et emballage",
+                  "Logistique déchet de production et d'emballages"
+                ]
+              },
+              {
+                "title": "Logistique aval - Distribution",
+                "points":[
+                  "Conditionnement, emballage",
+                  "Kitting",
+                  "Expédition et achat transport",
+                  "Gestion des échantillons",
+                  "Reverse logistics",
+                  "Opérations douanières (Chargeur Connu, OEA)",
+                  "Transport routier / manœuvre ferroviaire"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "marqueId": 4,
+      "imgService": "assets/img/services/23.jpg", 
+      "imgMarque": "assets/img/marques/4.jpg",
+      "icon": "\uf0d1",
+      "pertinence": "bas",   
+      "title": "Transport routier",
+      "content": {     
+        "title": "Transport routier",  
+        "parts":[
+          {
+            "title":"Transport routier",
+            "paragraphes": [
+              {"description": "Le transport routier est un des maillons essentiels de la chaîne transport et logistique."},
+              {"description" : "En fonction de votre secteur d'activité, vos produits et la capacité de transport dont vous avez besoin, Onet Logistique vous propose une solution adaptée et parfaitement sécurisée."}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D’INTERVENTION TRANSPORT ROUTIER",
+            "parts": [
+              {
+                "points":[
+                  "Transport régional de lot et demi-lot",
+                  "Gestion des navettes intra et inter sites",
+                  "Déchargement de camion - Mise à quais",
+                  "Location avec ou sans chauffeur",
+                  "Mise à disposition de matériel pour des navettes",
+                  "Reconditionnement de lots de marchandises…"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "marqueId": 4,
+      "imgService": "assets/img/services/24.jpg", 
+      "imgMarque": "assets/img/marques/4.jpg",
+      "icon": "\uf238",
+      "pertinence": "bas",   
+      "title": "Manœuvre ferroviaire",
+      "content": {     
+        "title": "Manœuvre ferroviaire",  
+        "parts":[
+          {
+            "title":"Manœuvre Ferroviaire",
+            "paragraphes": [
+              {"description": "Pour offrir à nos clients industriels une solution logistique complète, nous assurons la gestion des Installations terminales Embranchées (ITE)."},
+              {"description" : "Notre expérience dans ce domaine complexe, nos collaborateurs dûment habilités (P1 – P2- P3) et nos moyens de traction nous permettent de répondre de façon adaptée à vos exigences et offrent souplesse et performance à notre prestation de logistique in situ."}
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D’INTERVENTION MANOEUVRE FERROVIAIRE",
+            "parts": [
+              {
+                "points":[
+                  "Exploitation d'Installations terminales Embranchées",
+                  "Gestion des rames : prise en charge (vide/pleine) – Chargement/déchargement (palettisé ou vrac)…",
+                  "Reconstitution et acheminement des rames, mise à disposition à la SNCF"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "marqueId": 5,
+      "subServiceIds": [26,27,28],  
+      "imgService": "assets/img/services/25.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf021",
+      "pertinence": "bas",      
+      "title": "Constructions neuves et modifications d'installations",
+      "content": {     
+        "title": "Constructions neuves et modifications d'installations",  
+        "parts":[
+          {
+            "title":"La réponse à vos enjeux",
+            "paragraphes": [
+              {"description": "Forte de son ingénierie multi-expertises et de sa capacité d'intégrateur, Onet Technologies offre des solutions innovantes, maîtrisées et adaptées aux besoins des fabricants et exploitants de la filière nucléaire."}, 
+              {"description": "Ces solutions s’appuient notamment sur l’expérience acquise au cours d’interventions sur sites et sur les expertises ciblées de ses 400 ingénieurs."}
+            ]
+          },
+          {
+            "title":"Nos savoir-faire",
+            "paragraphes": [
+              {
+                "points": [      
+                  {
+                    "title": "Ingénierie & Conseil",
+                    "subpoints": [
+                      "Design (étude de faisabilité, conception générale et détaillée, support technique, process nucléaires, installations, systèmes téléopérés, climatisation et ventilation, conception électrique, instrumentation et contrôle)",
+                      "Calculs et modélisation : analyse de stress, thermohydraulique, analyse d’éléments finis, analyse sismique, analyse de criticité, radioprotection, multiphysics",
+                      "Études de sûreté, analyse environnementale, analyse des risques",
+                      "Réconciliation des normes et standards internationaux"
+                    ]
+                  }
+                ]
+              },
+              {
+                "points": [      
+                  {
+                    "title": "Conception et qualification d’équipements spéciaux et de sous-systèmes",
+                    "subpoints": [
+                      "Achat",
+                      "Fabrication usine",
+                      "Conduite de chantier",
+                      "Montage mécanique",
+                      "Essais et mise en service"
+                    ]
+                  }
+                ]
+              },
+              {
+                "points": [      
+                  {
+                    "title": "Maîtrise d’œuvre globale",
+                    "subpoints": ["Solutions clés en main"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés",
+            "paragraphes": [
+              {
+                "points": [
+                  {"title": "Installations nucléaires de bases"},
+                  {"title": "Laboratoires de recherches et installations scientifiques"},
+                  {"title": "Installations de traitement/entreposage de déchets nucléaires"},
+                  {"title": "Installations industrielles et ICPE"},
+                  {"title": "Réacteurs de nouvelles génération et réacteurs de recherche"},
+                  {"title": "France et international"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références",
+            "paragraphes": [
+              {
+                "points": [ 
+                  {"title": "Études de redimensionnement du système de ventilation et réfrigération de l’espace entre enceintes d’un bâtiment réacteur EDF"},
+                  {"title": "Études de conception de la machine de chargement du réacteur Jules Horowitz - CEA Cadarache"},
+                  {"title": "Maîtrise d’œuvre d'études et réalisation d'un magasin automatisé de stockage de matière nucléaire - CEA DAM Valduc"},
+                  {"title": "Maîtrise d’œuvre d'études et réalisation d'une installation de traitement de déchets (Trident) - Areva Pierrrelatte"},
+                  {"title": "Études et installation d'entreposage de déchets radioactifs D2 Saluggia - SOGIN, Italie"},
+                  {"title": "Études et assistance pour la construction du site de stockage pour déchets radioactifs - Roumanie"},
+                  {"title": "Fourniture et mise en place d’un atelier de découpe et de décontamination de déchets radioactifs - Centrale de Kozloduy, Bulgarie"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "marqueId": 5,
+      "imgService": "assets/img/services/26.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf0a3",
+      "pertinence": "bas",       
+      "title": "Ingénierie",
+      "content": {     
+        "title": "Ingénierie",  
+        "subtitle": "La maîtrise de l'innovation",
+        "introBold": "400 ingénieurs conçoivent des prestations d’ensemblier sur la totalité du cycle de vie des installations, de la construction neuve au démantèlement en passant par la maintenance et l’inspection en exploitation.",
+        "parts":[
+          {
+            "paragraphes": [
+              {"description": "Onet Technologies propose des solutions innovantes, maîtrisées et adaptées aux besoins des fabricants et exploitants de la filière nucléaire."}, 
+              {"description": "Ces solutions s’appuient notamment sur l’expérience acquise au cours d’interventions sur sites et sur des expertises ciblées."},
+              {
+                "accrPointsBold": "Nos principales compétences :", 
+                "points": [         
+                  {
+                    "title": "Design:",
+                    "subpoints": [
+                      "étude de faisabilité,",
+                      "conception générale et détaillée,",
+                      "support technique,",
+                      "process nucléaires,",
+                      "installations,",
+                      "systèmes téléopérés,",
+                      "climatisation et ventilation,",
+                      "conception électrique,",
+                      "instrumentation et contrôle"
+                    ]
+                  },
+                  {
+                    "title": "Calculs et modélisation :",
+                    "subpoints": [
+                      "analyse de stress,",
+                      "thermohydraulique,",
+                      "analyse d’éléments finis,",
+                      "analyse sismique,",
+                      "analyse de criticité,",
+                      "radioprotection,",
+                      "multiphysics"
+                    ]
+                  },
+                  {"title": "Études de sûreté, analyse environnementale, analyse des risques"},
+                  {"title": "Réconciliation des normes et standards internationaux"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "marqueId": 5,
+      "imgService": "assets/img/services/27.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf1c0",
+      "pertinence": "bas",       
+      "title": "Fourniture de systèmes et d'équipements pour les réacteurs de puissance",
+      "content": {     
+        "title": "Fourniture de systèmes et d'équipements pour les réacteurs de puissance",  
+        "parts":[
+          {
+            "title":"Fourniture clés en main d’équipement élémentaires et de systèmes pour les réacteurs de puissance",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Racks de stockage de combustible"},
+                  {"title": "Revêtement métallique des piscines et cavités"},
+                  {"title": "Equipement de manutention du combustible"},
+                  {"title": "Filtres du système d’aspersion de l’enceinte"},
+                  {"title": "Systèmes pour le HVAC et pour la protection incendie"},
+                  {"title": "Systèmes de traitement des effluents solides, liquides et gazeux"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Fourniture clés en main de systèmes intégrés et d’installations",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Équipements et systèmes internes du bâtiment combustible (manutention, refroidissement, confinement)"},
+                  {"title": "Installation des générateurs de secours"},
+                  {"title": "Systèmes thermofluides dans le bâtiment réacteur (injection de sécurité, aspersion de l’enceinte)"},
+                  {"title": "Systèmes thermofluides pour les auxiliaires nucléaires, les sauvegardes, le hall turbine (alimentation en eau)"},
+                  {"title": "Systèmes et installations pour les services généraux et le Balance Of Plant (BOP)"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "marqueId": 5,
+      "imgService": "assets/img/services/28.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "videoId": "dZ3Ba4y6ztA",
+      "icon": "\uf11c",
+      "pertinence": "bas",       
+      "title": "Fourniture d'installations pour le traitement de déchets radioactifs",
+      "content": {     
+        "title": "Fourniture d'installations pour le traitement de déchets radioactifs",  
+        "parts":[
+          {
+            "title":"Nos références",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Conception, construction et exploitation d'une installation de traitement de déchets, La Rotonde au CEA Cadarache."},
+                  {"title": "Études et assistance pour la construction du site de stockage pour déchets radioactifs à Saligny en Roumanie"},
+                  {"title": "Conception, réalisation et mise en service d'un prototype de pré-empilage de colis de déchets béton, au Centre de la Meuse pour l'Andra"},
+                  {"title": "Fourniture et mise en place d’un atelier de découpe et de décontamination de déchets radioactifs pour la centrale de Kozloduy en Bulgarie"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "marqueId": 5,
+      "imgService": "assets/img/services/29.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf024",
+      "pertinence": "bas",
+      "title": "Assistance à l'exploitation",
+      "content": {     
+        "title": "Assistance à l'exploitation", 
+        "parts":[
+          {
+            "title":"Contribuer à la performance de nos clients",
+            "paragraphes": [
+              {"description": "Nous proposons des prestations globales d’assistance chantier et intervenons en tant qu’opérateurs industriels auprès des CNPE (Centre Nucléaire de Production d’Électricité) comme des installations nucléaires du cycle du combustible."}, 
+              {"description": "C'est au quotidien et sur le terrain qu'Onet Technologies contribue à la performance de ses clients."}
+            ]
+          },
+          {
+            "title":"Nos savoir-faire",
+            "paragraphes": [
+              {
+                "points": [        
+                  {
+                    "title": "Prestations Globales d'assistance chantier",
+                    "subpoints": [
+                      "Prévention de la contamination radiologique",
+                      "Exploitation des systèmes de filtration",
+                      "Tri et conditionnement des déchets radioactifs",
+                      "Manutention de matériels",
+                      "Contrôle radiologique, conformité réglementaire",
+                      "Gestion de la chaîne du linge",
+                      "Maintien en propreté radiologique et conventionnelle",
+                      "Magasinage et distribution d'outillages..."
+                    ]
+                  },
+                  {
+                    "title": "Opérateur industriel d'installations",
+                    "subpoints": [
+                      "Gestion",
+                      "Service-conseil",
+                      "Prise en charge de l'installation"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "L’ensemble des centrales nucléaires françaises"},
+                  {"title": "Les installations nucléaires de base"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Prestations intégrées et coordonnées"},
+                  {"title": "Appropriation des enjeux des clients"},
+                  {"title": "Prestations diversifiées soumises à des contraintes industrielles et réglementaires fortes"},
+                  {"title": "Adaptation à la saisonnalité des activités de maintenance basées sur plus de 1000 CDI"},
+                  {"title": "Forte culture de l’innovation pour l’accroissement de la productivité et de la sécurité"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Contrats pluriannuels d’assistance chantier dans les centrales françaises, notamment lors des travaux de maintenance liés aux arrêts de tranche – EDF"},
+                  {"title": "Contrats d’assistance à l’exploitation des centrales en démantèlement - EDF"},
+                  {"title": "Travaux de maintenance hydrodynamique – EDF"},
+                  {"title": "Exploitation déléguée d’une installation de caractérisation, tri et entreposage de déchets FA/TFA (Rotonde) – CEA Cadarache"},
+                  {"title": "Assistance à l’exploitation de l’installation LECA/STAR, contrôle, traitement, reconditionnement des combustibles sans emploi – CEA Cadarache"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "marqueId": 5,
+      "imgService": "assets/img/services/30.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf013",
+      "pertinence": "bas",
+      "title": "Maintenance",
+      "content": {     
+        "title": "Maintenance", 
+        "parts":[
+          {
+            "title":"20 ans d'interventions sur vos installations",
+            "paragraphes": [
+              {"description": "Nous proposons des prestations intégrées depuis la conception de l’intervention jusqu’à sa réalisation avec un savoir-faire particulier dans la conduite de chantiers multimétiers. Nous vous accompagnons pour la maintenance de vos installations  grâce à nos compétences éprouvées en robotique, soudage, plongée…"}
+            ]
+          },
+          {
+            "title":"Nos savoir-faire",
+            "paragraphes": [
+              {
+                "points": [        
+                  {"title": "Maintenance spécialisée sur les réacteurs et les composants clés des centrales nucléaires"},
+                  {"title": "Modification et remplacement des composants primaires des centrales nucléairese"},
+                  {"title": "Maintenance déléguée sur les installations du cycle du combustible"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "Parc nucléaire français, britannique et belge"},
+                  {"title": "Projets de rénovation Grand Carénage et post-Fukushima"},
+                  {"title": "Installations nucléaires en amont et en aval de la production"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Expertise du parc nucléaire français"},
+                  {"title": "Capacité d’innovation"},
+                  {"title": "Partenaires stratégiques (MHI, GDES…)"},
+                  {"title": "Pionnier sur des marchés spécialisés (PIGV, remplacement des cannes chauffantes, plongée)"},
+                  {"title": "Conception, fabrication et mise en œuvre d’outillages spécialisés"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Modifications des systèmes de fermetures des tampons d’accès matériels des bâtiments réacteurs de centrales nucléaires - EDF"},
+                  {"title": "Remplacement des cannes chauffantes de pressuriseurs – EDF"},
+                  {"title": "Maintenance de l’instrumentation du cœur de réacteurs REP - EDF"},
+                  {"title": "Démantèlement et assainissement par plongeurs du canal convoyeur du bâtiment dégainage du CEA Marcoule. Découpe sous eau et évacuation de 20 tonnes d’inox et d’acier – CEA"},
+                  {"title": "Nettoyage préventif des générateurs de vapeur - EDF"},
+                  {"title": "Etudes et fourniture de générateur de vapeur de replacement (en partenariat avec MHI) - EDF"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "marqueId": 5,
+      "imgService": "assets/img/services/31.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf00c",
+      "pertinence": "bas",
+      "title": "Contrôle non destructif",
+      "content": {     
+        "title": "Contrôle non destructif", 
+        "parts":[
+          {
+            "title":"Une plateforme unique en parfaite adéquation avec vos besoins",
+            "paragraphes": [
+              {"description": "Sur le parc nucléaire mais également sur le marché Oil & Gas en France et à l’international, nous concevons des solutions de contrôle non destructif et d’inspection en service."},
+              {"description": "Une plateforme unique d’experts développe, qualifie et met en œuvre, des outils et des procédés en parfaite adéquation avec vos besoins."}
+            ]
+          },
+          {
+            "title":"Nos savoir-faire",
+            "paragraphes": [
+              {
+                "points": [        
+                  {"title": "Contrôles non destructifs (CND) et inspections en service (END)"},
+                  {"title": "Conception et développement de méthodes et d’outils dédiés"},
+                  {"title": "Interventions sur site"},
+                  {"title": "Inspections UT (Ultrasonic Testing) et ECT (Eddy Current Testing) automatisées (Conventionnel, TOFD (Time Flight Defraction), multiéléments)"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Réalisation de CND manuels et automatiques",
+            "paragraphes": [
+              {
+                "accrPointsBold": "Procédés :",
+                "points": [     
+                  {"title": "UT / PT / MT / ET MANUEL"},
+                  {"title": "PHASED ARRAY / TOFD"},
+                  {"title": "AUT*"},
+                  {"title":"ACFM*"},
+                  {"title":"Étanchéité (TEST HÉLIUM-VIDE)"},
+                  {"title":"Examens télévisuels (ITV)"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "Parc nucléaire"},
+                  {"title": "Marché Oil & Gas"},
+                  {"title": "France et international"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Une plateforme unique d’experts : ingénieurs et techniciens spécialisés dans les techniques CND conventionnelles et avancées"},
+                  {"title": "Des experts certifiés niveau III"},
+                  {"title": "PINC : une Joint Venture avec l’Institut de Soudure"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "END Groupe Turbo Alternateurs (GTA) manuels sur les CNPE et les centrales thermiques – Alstom"},
+                  {"title": "Contrôle CF des barres antivibratoires sur les Générateurs de Vapeur MHI dans le cadre de leurs remplacements - EDF"},
+                  {"title": "Développement d’un contrôle en UT des ébauches forgées du casier cœur du RJH - Aubert & Duval"},
+                  {"title": "Surveillance AUT sur la pose de pipeline - Total/BP, Block 17 et Pazflor"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "marqueId": 5,
+      "imgService": "assets/img/services/32.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf188",
+      "pertinence": "bas",       
+      "title": "Décontamination, démantèlement",
+      "content": {     
+        "title": "Décontamination, démantèlement",
+        "parts":[
+          {
+            "title":"Des solutions adaptées à la complexité de vos projets",
+            "paragraphes": [
+              {"description": "Acteur majeur sur le marché, nous répondons à vos problématiques de décontamination et de démantèlement quelque soit leur complexité, grâce à nos services d’ensemblier."}, 
+              {"description": "Nos solutions sont adaptées à la diversité des secteurs d’activité concernés : production électronucléaire, cycle du combustible, recherche, défense, chimie, pétrochimie…"}
+            ]
+          },
+          {
+            "title": "Nos savoir-faire Décontamination et Démantèlement",
+            "paragraphes": [
+              {
+                "points": [
+                  {
+                    "title" : "INGENIERIE ET CONSEIL",
+                    "subpoints": [
+                      "audit et diagnostic de sites",
+                      "stratégies de démantèlement",
+                      "modification d'installations préalable au démantèlement",
+                      "Développement d’équipements spécifiques",
+                      "études réglementaires et environnementales",
+                      "analyses technico-économiques",
+                      "planification"
+                    ]
+                  },
+                  {
+                    "title": "TRAVAUX DE DEMANTELEMENT",
+                    "subpoints": [
+                      "assainissement",
+                      "découpes (laser, plasma, UHP...)",
+                      "opérations de démantèlement téléopérées",
+                      "démontage mécanique",
+                      "manutention lourde"
+                    ]
+                  },
+                  {
+                    "title": "E.P.C (Engineering Conception Procurment)",
+                    "subpoints":[
+                      "clé en main"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés Décontamination et Démantèlement",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "Parc électronucléaire"},
+                  {"title": "Installations du cycle du combustible"},
+                  {"title": "Laboratoires"},
+                  {"title": "Installation de stockage de déchets radioactifs"},
+                  {"title": "France et international"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée pour vos problèmatiques de sites contaminés ou à démanteler",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Une capacité d'intervention sur tous types de projets et d’installations, y compris les plus complexes"},
+                  {"title": "Un effectif de 1000 personnes spécialisées"},
+                  {"title": "Un retour d’expérience de plus de 40 ans"},
+                  {"title": "Mise en œuvre de techniques innovantes telles que le laser ou la réalité virtuelle..."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références Décontamination, Déconstruction et Démantèlement",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Décontamination du circuit primaire par procédé DFD (traitement chimique, brevet ONET Technologies) -  Bohunice, Slovaquie"},
+                  {"title": "Démantèlement du hall échangeur Chinon A3 - EDF"},
+                  {"title": "Déconstruction de la Station de Traitement des Effluents et des Déchets - CEA"},
+                  {"title": "Assistance à maîtrise d’ouvrage pour la dénucléarisation d’un site complet - CEA Grenoble"},
+                  {"title": "Démantèlement des dissolveurs MAR 200 – Usine UP1 – CEA Marcoule"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "marqueId": 5,
+      "imgService": "assets/img/services/33.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "videoId": "f-aN89vOAI4",
+      "icon": "\uf2c7",
+      "pertinence": "bas",       
+      "title": "Désamiantage",
+      "content": {     
+        "title": "Désamiantage",
+        "parts":[
+          {
+            "title":"Opérations spécifiques ou clé en main",
+            "paragraphes": [
+              {"description": "Dans un contexte de plus en plus exigeant en termes de sécurité, de délais et de qualité, Onet Technologies réalise depuis plus de 30 ans, l'assainissement et la déconstruction dans les milieux à risques ainsi que le traitement des déchets issus de ces opérations."}, 
+              {"description": "Onet Technologies est qualifiée pour retirer tous types d’amiante et intervient dans tous les secteurs d’activité, sur des projets d'envergure comme sur des installations plus classiques."},
+              {"description": "Onet Technologies s'adapte à vos besoins pour des opérations très spécialisées ou des projets clé en main."}
+            ]
+          },
+          {
+            "title": "Nos savoir-faire Amiantes",
+            "paragraphes": [
+              {
+                "points": [
+                  {"title" : "Amiante friable : flocage, calorifuge, isolation d’équipements.."},
+                  {"title": "Amiante non friable : revêtements de sols, éléments en amiante ciment, enveloppe extérieure de bâtiment"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés de désamiantage",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "Intervention dans tous les secteurs d’activités : BTP, Industriels, collectivités locales, hôpitaux…"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée pour vos travaux de désamiantage",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Retrait en milieu conventionnel et ionisant"},
+                  {"title": "Traitement d’équipements radiés : voitures SNCF, Sous-marins, bateaux…"},
+                  {"title": "Grand confinement"},
+                  {"title": "Dépoussiérage à fort volume"},
+                  {"title": "Intervention après sinistre, travaux, chantier"},
+                  {"title": "Offre globale clés en main"},
+                  {"title": "Implantations nationales"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références Désamiantage",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "Dépoussiérage et retrait de calorifuges et tresses sur support. Maintien de l’activité du site pendant l’intervention - Usines Michelin à Vannes et Roanne"},
+                  {"title": "Désamiantage et démolition de l’ancienne usine Henkel à Saint-Fargeau Ponthierry"},
+                  {"title": "Étude et réalisation d’une ICPE dédiée et développement d’un système téléopéré pour le désamiantage de 1 200 voitures – SNCF le Mans"},
+                  {"title": "Retrait des revêtements amiantés – SNA Le Triomphant"},
+                  {"title": "Désamiantage et déconstruction d’alternateurs pour différents sites EDF (Saint-Hilaire (38), Curbains (05)) et d’un barrage Usine CNR Caderousse"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "marqueId": 5,
+      "subServiceIds": [35,36,37],
+      "imgService": "assets/img/services/34.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf0e7",
+      "pertinence": "bas",       
+      "title": "Traitement des déchets",
+      "content": {     
+        "title": "Traitement des déchets",
+        "parts":[
+          {
+            "title":"Maîtrise complète de la filière déchets radioactifs et dangereux",
+            "paragraphes": [
+              {"description": "Nous maîtrisons l’intégralité de la chaîne de gestion des déchets radioactifs et autres déchets dangereux."}, 
+              {"description": "Nous mettons à votre disposition notre propre installation d’entreposage et de traitement de déchets radioactifs Sogeval, ainsi que nos nouveaux conteneurs brevetés."}
+            ]
+          },
+          {
+            "title": "Nos savoir-faire dans la gestion des déchets",
+            "paragraphes": [
+              {
+                "points": [
+                  {"title" : "Collecte, tri, conditionnement, entreposage et traitement de déchets radiologiques"},
+                  {"title": "Assainissement radiologique et chimique des sols"},
+                  {
+                    "title" : "INGENIERIE ET CONSEIL",
+                    "subpoints": [
+                      "Diagnostic, caractérisation et inventaire des déchets radioactifs et dangereux",
+                      "Développement des procédés de traitement/conditionnement",
+                      "Etudes réglementaires et environnementales",
+                      "Analyses technico-économiques"
+                    ]
+                  },
+                  {
+                    "title": "CONCEPTION ET RÉALISATION",
+                    "subpoints": [
+                      "Récupération et retrait des déchets radioactifs ou dangereux",
+                      "Traitement (comprenant aussi la construction des équipements)",
+                      "Conditionnement et Contrôle",
+                      "Transport"
+                    ]
+                  },
+                  {
+                    "title": "E.P.C (Engineering Conception Procurment)",
+                    "subpoints":[
+                      "clé en main"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Nos marchés de gestion et traitement des déchets nucléaires et dangereux",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "Parc électronucléaire"},
+                  {"title": "Installations du cycle du combustible"},
+                  {"title": "Laboratoires"},
+                  {"title": "Installation de stockage de déchets radioactifs"},
+                  {"title": "France et international"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée au sein de la filière déchets",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "SOGEVAL, notre propre installation classée pour le traitement et l’entreposage de déchets radioactifs"},
+                  {"title": "Maîtrise de la filière déchets depuis la caractérisation jusqu’au stockage"},
+                  {"title": "Conteneurs brevetés"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Quelques références Gestion des déchets radioactifs ou dangereux",
+            "paragraphes": [
+              {
+                "points": [         
+                  {"title": "SOGEVAL, notre propre installation d’entreposage et de traitement de déchets radioactifs"},
+                  {"title": "Système de reprise  et traitement d’effluents borés : Conception, construction, installation et mise en service - Kozloduy, Bulgarie"},
+                  {"title": "Maîtrise d’œuvre pour la conception, la réalisation et la mise en service industrielle d’un réacteur de destruction de sodium (Na) et d’alliages spéciaux (NaK) du site de Dessel (bâtiment PAMELA)   – ONDRAF, Belgique"},
+                  {"title": "Reprise de déchets historiques faiblement irradiés – CEA Cadarache"},
+                  {"title": "Conception, construction et réalisation d’une installation de reprise se déchets historiques sur site de Trisaïa – SOGIN, Italie"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "marqueId": 5,
+      "imgService": "assets/img/services/35.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf1f8",
+      "pertinence": "bas",       
+      "title": "Maîtrise de la filière déchets",
+      "content": {     
+        "title": "Maîtrise de la filière déchets",
+        "parts":[
+          {
+            "title":"Services et solutions intégrés sur l’ensemble du cycle de traitement des déchets",
+            "paragraphes": [
+              {"description": "Présents depuis l’inventaire sur site jusqu’à la livraison des déchets conditionnés vers l’exécutoire final, Onet Technologies recherche pour ses clients des solutions pour les déchets exotiques et sans filière."}, 
+              {
+                "accrPointsBold": "Onet Technologies prend en charge pour ses clients toutes les étapes de la chaîne des déchets :", 
+                "points": [      
+                  {"title": "la gestion et l'optimisation sur les sites de ses clients"},
+                  {"title": "la caractérisation"},
+                  {"title": "le choix technico-économique des meilleures filières de traitement"},
+                  {"title": "le conditionnement"},
+                  {"title": "le traitement par des procédés éprouvés ou innovants"},
+                  {"title": "le transport"}
+                ]
+              },
+              {"descriptionBold": "L'expertise acquise par Onet Technologies avec sa propre installation Sogeval, lui permet d’exploiter les installations de ses clients."},
+              {
+                "accrPoints": "Ses principales missions sont alors :", 
+                "points": [      
+                  {"title": "le conseil"},
+                  {"title": "la supervision"},
+                  {"title": "l'encadrement"},
+                  {"title": "le fonctionnement"},
+                  {"title": "la maintenance des process nécessaires dans le respect de la quantité et de la qualité des colis de déchets produits"}
+                ]
+              },
+              {"descriptionBold":"Pégase au CEA Cadarache est une unité de traitement de déchets plutonifères."},
+              {"description": "Après la conception, la construction, cette unité a été mise en service et est exploitée par Onet Technologies."},
+              {"description": "C'était un contrat clés en main comprenant un atelier de mesure et de caractérisation, des transferts sécurisés, un atelier de traitement, le transport vers l'Andra et enfin, l'exploitation."},
+              {"description": "Le chantier a pris fin en mars 2014."}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "marqueId": 5,
+      "imgService": "assets/img/services/36.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf1cb",
+      "pertinence": "bas",       
+      "title": "Installation Sogeval",
+      "content": {     
+        "title": "Installation Sogeval",
+        "subtitle": "Solution externalisée pour vos déchets radioactifs",
+        "intro": ["Avec près de 1000 tonnes de déchets traités annuellement, Onet Technologies met à la disposition de ses clients des capacités uniques de traitement et d’entreposage de déchets, matières et équipements nucléaires, via son installation dédiée Sogeval."],
+        "pointsIntro": [
+          "Surface d'entreposage de 4 200 m² (extension Sogeval 2 en 2017 : 5 200 m²)",
+          "110 conteneurs équivalent 20 pieds",
+          "5 cellules d'intervention reconfigurables sur 450 m²"
+        ],
+        "parts":[
+          {
+            "paragraphes": [
+              {
+                "accrPointsBold": " Un panel de solutions sur mesure :",
+                "points": [
+                  {"title" : "Étude et choix des meilleures filières technico-économiques"},
+                  {"title": "Études de nouvelles filières et R&D associés"},
+                  {"title":"Traitement et reconditionnement"},
+                  {"title":"Élaboration des dossiers d'acceptation et d'agrément"},
+                  {"title":"Entreposage"},
+                  {"title":"Prise en charge depuis le site du producteur jusqu'à l'exutoire final"},
+                  {"title":"Décontamination de matériels et d’emballages"},
+                  {"title":"Traitement de déchets liquides"},
+                  {"title":"Traitement de déchets amiante"}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Notre valeur ajoutée",
+            "paragraphes": [
+              {
+                "points": [     
+                  {"title": "Souplesse industrielle : Sogeval est un maillon dans la chaîne de gestion de vos déchets."},
+                  {"title": "Souplesse logistique : des capacités importantes d’entreposage temporaire permettant de délester et rendre disponible des zones ou locaux nucléaires saturés."},
+                  {"title": "Souplesse investissement : faire appel à Sogeval évite la mobilisation d’un financement dédié pour la construction d’installations ou d’équipements."},
+                  {"title": "Réactivité et gain de temps : une installation avec des capacités de reconfiguration permettant d’apporter réactivité et maîtrise des délais."},
+                  {"title": "Ingénierie dédiée à la gestion des déchets radioactifs."},
+                  {"title": "Diversité des déchets traités : déchets de démantèlement, déchets amiante, déchets DEEE, déchets de laboratoires, super contrôle ANDRA..."}
+                ]
+              }
+            ]
+          },
+          {
+            "title":"La solution surconteneur",
+            "paragraphes": [
+              {"description":"Une prestation clés en main pour prendre en charge les déchets et matériels depuis le site du producteur jusqu'à son traitement dans notre installation Sogeval."}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "marqueId": 5,
+      "imgService": "assets/img/services/37.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf187",
+      "pertinence": "bas",       
+      "title": "Les conteneurs Onet",
+      "content": {     
+        "title": "Les conteneurs Onet",
+        "parts":[
+          {
+            "paragraphes": [
+              {"descriptionBold":"Onet Technologies propose des conteneurs à forte valeur ajoutée pour le transport de matières radioactives."},
+              {"description":"Commercialisés en France et en Europe, ces conteneurs sont une réelle innovation."},
+              {"description":"Conçus par Onet Technologies, ils sont plusieurs fois brevetés."},
+              {"descriptionBold":"Ils sont une exclusivité Onet."},
+              {"description":"Ces conteneurs offrent de hautes performances et répondent aux nombreuses exigences liées au transport de matières radioactives de faible activité (FA/TFA) et aux déchets toxiques."},
+              {"description":"Les conteneurs Onet font déjà leurs preuves au sein de l’installation Sogeval (Installation pour la protection de l'environnement située à Pierrelatte)."}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "marqueId": 5,
+      "imgService": "assets/img/services/38.jpg", 
+      "imgMarque": "assets/img/marques/5.jpg",
+      "icon": "\uf19d",
+      "pertinence": "bas",       
+      "title": "Formations pour l’industrie et le bâtiment",
+      "content": {     
+        "title": "Formations pour l’industrie et le bâtiment",
+        "parts":[
+          {
+            "title":"Un réseau de proximité",
+            "paragraphes": [
+              {"description": "Nos formations s'adressent aussi bien aux particuliers qu'aux salariés d'entreprises."}, 
+              {"description": "Chaque année c'est plus de 25 000 stagiaires qui sont formés par plus de 100 formateurs dont l'expérience sur le terrain est une réelle plus-value."}
+            ]
+          },
+          {
+            "title": "Nos moyens humains et logistiques",
+            "paragraphes": [
+              {"description": "Onet Technologies met tout en oeuvre pour répondre aux besoins de ses clients et des stagiaires présents aux formations."},
+              {
+                "points": [
+                  {"title":"Plus de 100 formateurs"},
+                  {"title":"45 salles de formation réparties sur 10 sites en France"},
+                  {"title":"10 chantiers-école en Prévention des Risques"},
+                  {"title":"10 chantiers-école Qualité Sécurité Environnement"},
+                  {"title":"2 chantiers-école amiante"},
+                  {"title":"1 atelier de formation en robinetterie"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Nos savoir-faire",
+            "paragraphes": [
+              {
+                "points": [
+                  {
+                    "title" : "Formations sur mesure",
+                    "subpoints": [
+                      "Définition des objectifs avec nos clients",
+                      "Détermination du profil des stagiaires",
+                      "Contenu pédagogique et calendrier",
+                      "Retour d’expérience systématique"
+                    ]
+                  },
+                  {"title": "Formations réglementaires et qualifiantes"},
+                  {
+                    "title": "Formations spécifiques à la filière nucléaire",
+                    "subpoints": [
+                      "Radioprotection",
+                      "Sûreté",
+                      "Qualité",
+                      "Stars (Stage Technique d’Appui en Radioprotection Sécurité)",
+                      "Port des EPI Respiratoires"
+                    ]
+                  },
+                  {"title": "Formations pour l’industrie et le bâtiment"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Nos certifications",
+            "paragraphes": [
+              {
+                "points": [
+                  {
+                    "title" : "ISO 9001 / ISO 14001 /OHSAS 18001 - INTERTEK",
+                    "subpoints": [
+                      "Système de Management de la Qualité, de l’Environnement, de la Sécurité au travail",
+                      "Conception & réalisation de formations professionnelles et réglementaires"
+                    ]
+                  },
+                  {
+                    "title": "CEFRI",
+                    "subpoints": [
+                      "Qualification pour la formation à la prévention des risques au personnel de catégories « A » ou « B » travaillant sous rayonnements ionisants en installations nucléaires.",
+                      "Formation PCR niveau 3 secteur RN"
+                    ]
+                  },
+                  {
+                    "title": "EDF",
+                    "subpoints": [
+                      "Formations STARS : Stage Technique d’Appui Radioprotection et Sécurité",
+                      "Formations CIN (Agrément N°41)",
+                      "Formations Savoir Commun du Nucléaire et Complément Sûreté Qualité",
+                      "Formations CIN (Agrément N°41) : Savoir Commun du Nucléaire, Complément Sûreté Qualité et Radioprotection RN"
+                    ]
+                  },
+                  {
+                    "title": "INRS",
+                    "subpoints": [
+                      "Formations Sauveteur Secouriste du Travail",
+                      "Formations Prévention des risques liés à l’activité physique"
+                    ]
+                  },
+                  {
+                    "title": "SFECE – Syndicat Français de l’Échafaudage, du Coffrage et de l’Étaiement",
+                    "subpoints": [
+                      "Formations Échafaudages"
+                    ]
+                  },
+                  {
+                    "title": "I.CERT",
+                    "subpoints": [
+                      "Certification pour dispenser des formations à la prévention des risques liés à l'amiante pour les travailleurs réalisant les activités relevant du 1er alinéa de l'article R.4412-94"
+                    ]
+                  },
+                  {
+                    "title": "GLOBAL CERTIFICATION Formation à la conduite en sécurité - Qualification testeur pour les familles d’équipement :",
+                    "subpoints": [
+                      "R386 –Plates-formes élévatrices mobiles de personnes, catégories 1A-1B-3A-3B",
+                      "R389 – Chariots automoteurs de manutention à conducteur porté, catégories 1-2-3-4-5 "
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "marqueId": 6,
+      "imgService": "assets/img/services/39.jpg", 
+      "imgMarque": "assets/img/marques/6.jpg",
+      "icon": "\uf183",
+      "title": "Intérim",
+      "content": {     
+        "title": "Intérim",  
+        "keys": [
+          {"label": "+ 1500", "nb": "clients"},
+          {"label": "17 000", "nb": "intérimaires"},
+          {"label": "3 461 762", "nb": "heures de délégation"},
+          {"label": "+ 40", "nb": "années d'expérience"}
+        ],
+        "intro": ["Axxis Intérim et Recrutement, développe son expertise en recrutement-placement et dans le domaine de la délégation de personnel intérimaire, avec la conviction que le respect de l’individu, de la réglementation, des engagements permet à chacun d’évoluer dans un environnement plus sûr, propice à l’expression de tous les talents."],
+        "parts":[
+          {
+            "title":"DOMAINES DE SPÉCIALISATION D'AXXIS INTÉRIM ET RECRUTEMENT",
+            "paragraphes": [
+              {
+                "accrPoints": "Axxis Intérim et Recrutement est expert dans les secteurs à fortes contraintes :",
+                "points": [        
+                  {"title": "nucléaire,"},
+                  {"title": "aéroportuaire,"},
+                  {"title": "travaux subaquatiques"},
+                  {"title": "maintenance industrielle."}
+                ]
+              },
+              {
+                "accrPoints": "Il dispose également de savoir-faire dans les domaines suivants:",
+                "points": [        
+                  {"title": "logistique,"},
+                  {"title": "BTP,"},
+                  {"title": "électricité"},
+                  {"title": "services,"},
+                  {"title": "notariat..."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "FORMATION DES INTÉRIMAIRES",
+            "paragraphes" : [
+              {"description": "Afin d'anticiper l'évolution des besoins de nos clients, Axxis Intérim & Recrutement s'engage à faire évoluer ses intérimaires en compétences, à apporter son conseil et à mettre en place les dispositifs de formations adaptées (formation continue ou formation en alternance)."},
+              {
+                "accrPoints": "Par ailleurs, un budget conséquent est alloué à la formation de nos collaborateurs intérimaires afin de :",
+                "points": [        
+                  {"title": "Maintenir à jour certaines habilitations sur des postes très spécifiques (Nucléaire, Aéroportuaire, Maintenance Industrielle ...)"},
+                  {"title": "Manager la prévention des risques (SST, sensibilisation à la sécurité incendie...)"},
+                  {"title": "Faire évoluer nos collaborateurs intérimaires (CACES, pontier, Fimo,...)"}
+                ]
+              },
+              {"description": "Avec le soutien d’ Axxis Formation, nos agences constituent régulièrement des dossiers de formation CDPI, CIPI et contrat de professionnalisation. Nous encourageons et aidons nos collaborateurs intérimaires à bénéficier de formations qualifiantes longues à constituer des dossiers dans le cadre du FAFTT."},
+              {
+                "accrPoints": "Les différents dispositifs de formation à disposition des intérimaires sont :",
+                "points": [        
+                  {"title": "Le Contrat de Développement Professionnel Intérimaire (C.D.P.I.): Dispositif spécifique au travail temporaire, ce contrat permet à des intérimaires peu ou pas qualifiés de compléter leur expérience acquise lors de missions par une formation qualifiante."},
+                  {"title": "Le Contrat de Développement Professionnel Intérimaire (C.D.P.I.): Dispositif spécifique au travail temporaire, ce contrat permet à des intérimaires peu ou pas qualifiés de compléter leur expérience acquise lors de missions par une formation qualifiante."},
+                  {"title": "Le Contrat de Professionnalisation: Ce contrat favorise l'insertion ou la réinsertion professionnelle et permet l'acquisition d'une qualification reconnue. Il s'adresse aux intérimaires et aux permanents des entreprises de travail temporaire."},
+                  {"title": "Le Contrat d’apprentissage: L’apprentissage en intérim devient possible. Une entreprise de travail temporaire peut mettre à disposition d’une entreprise utilisatrice un apprenti. L’objectif : acquérir des compétences en milieu professionnel."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Le réseau national COALYS",
+            "paragraphes" : [
+              {"description": "En septembre 2010, Axxis Intérim et Recrutement, s'est rapprochée des deux entreprises de travail temporaire – Triangle et DLSI - afin de créer Coalys."},
+              {"description":"En janvier 2012, un quatrième partenaire, Régional Intérim rejoint Coalys afin de compléter la couverture nationale."},
+              {"description": "Par l'intermédiaire de ce réseau de plus de 200 agences de travail temporaire, les membres de Coalys proposent une offre couvrant le territoire national."},
+              {"description": "Coalys allie les qualités de la taille humaine de ses acteurs (proximité, réactivité, ...) et les qualités des Majors de la profession (Couverture nationale, éventail des spécialités, outils et méthodologies,...)."}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "marqueId": 6,
+      "imgService": "assets/img/services/40.jpg", 
+      "imgMarque": "assets/img/marques/6.jpg",
+      "icon": "\uf19d",
+      "pertinence": "bas",      
+      "title": "Recrutement",
+      "content": {     
+        "title": "Recrutement",  
+        "subtitle": "Le recrutement, clé de la réussite de votre entreprise",
+        "intro": [
+          "Le recrutement, clé de la réussite de votre entreprise, répond à une méthodologie rigoureuse.",
+          "Axxis Intérim et Recrutement propose au choix, une prestation complète de recrutement ou une prestation à la carte selon vos besoins :"
+        ],
+        "pointsIntro": [
+          "analyse de postes,",
+          "sourcing,",
+          "rédaction et publication d’annonces,",
+          "tri de CV,",
+          "pré-qualification téléphonique,",
+          "entretien,",
+          "contrôle de références,",
+          "etc."
+        ],
+        "parts":[
+          {
+            "title":"Axxis Intérim et Recrutement, le recrutement CDD et CDI",
+            "paragraphes": [
+              {"description": "Notre réseau d'agences propose également une gamme complète de solutions pour accompagner les entreprises dans leurs recrutements en CDD ou CDI."}
+            ],
+            "subParts": [
+              {
+                "title": "CE QUE NOUS VOUS OFFRONS",
+                "paragraphes": [
+                  {
+                    "points": [        
+                      {"title": "La connaissance du marché de l’emploi, des spécificités de nos clients, des secteurs d’activités avec lesquels nous travaillons."},
+                      {"title": "La réactivité acquise dans notre métier d’origine, le travail temporaire, et transposée au recrutement CDD/CDI."},
+                      {"title": "Le réseau de proximité en relation permanente avec les candidats qui nous permet de vous proposer dans les meilleurs délais les profils les plus adaptés."},
+                      {"title": "Le savoir-faire et le professionnalisme de spécialistes du recrutement pour tout type de profil, de l’ouvrier au Cadre."},
+                      {
+                        "title": "Le sourcing candidat performant :",
+                        "subpoints": [
+                          "une base de données nationale et partagée,",
+                          "notre site Internet,",
+                          "nos partenariats Pôle Emploi,",
+                          "Cadremploi,",
+                          "APEC,",
+                          "missions locales,",
+                          "écoles…"
+                        ]
+                      }
+                    ]
+                  },
+                  {"description": "Notre réseau d’agences bénéficie du soutien des consultants experts de sa filiale Société Européenne de Sélection (SES)."},
+                  {"description": "SES bénéficie de plus de 25 ans d’expérience dans le conseil RH et le recrutement."},
+                  {"description": "Notre expertise et notre expérience nous permettent de répondre à l’ensemble des projets sur tous les secteurs d’activité, de la TPE au grand groupe."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Amea, le recrutement des cadres et cadres dirigeants",
+            "paragraphes": [
+              {"description": "Implanté à Aix en Provence depuis sa création, notre Cabinet intervient dans le secteur Privé (PME et Grands Groupes de services) et dans le secteur Public (Collectivités Territoriales, EPA, EPIC, SEM)."},
+              {"description": "AMEA Conseil est spécialisé dans le conseil en ressources Humaines et le recrutement de Cadres et Cadres Dirigeants."},
+              {"description": "L’expérience des Consultants d’AMEA Conseil, issus du monde de l’entreprise où ils ont exercé des responsabilités opérationnelles est un gage de réelle compréhension des besoins des clients qui leur ont accordé leur confiance sur la durée."},
+              {"description": "Notre engagement, vis-à-vis de nos clients et des candidats est bâti sur une relation de confiance qui s’affirme dans la durée."},
+              {"description": "AMEA Conseil, adhérent à la charte de déontologie de Syntec, s'engage à respecter la déontologie de la profession, notamment les règles de confidentialité."}
+            ]
+          },
+          {
+            "title": "Diversité",
+            "paragraphes": [
+              {"description": "L’emploi des seniors, la non-discrimination à l’embauche et l’insertion professionnelle des personnes handicapées sont les axes sociaux sur lesquels nous nous engageons."},
+              {"description": "Cette volonté se concrétise par la signature de la Charte de la Diversité, et par l’adhésion à la charte de déontologie de la Fédération Syntec Conseil en Recrutement (respect de la déontologie de la profession, notamment des règles de confidentialité). "}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "marqueId": 6,
+      "imgService": "assets/img/services/41.jpg", 
+      "imgMarque": "assets/img/marques/6.jpg",
+      "icon": "\uf27e",
+      "pertinence": "bas",       
+      "title": "Formation",
+      "content": {     
+        "title": "Formation",  
+        "subtitle": "Axxis Formation",
+        "keys": "",
+        "parts":[
+          {
+            "paragraphes": [
+              {"description": "Axxis Formation intervient dans les domaines d’activités couverts par le groupe Onet pour la formation des intérimaires et plus largement auprès d’entreprises de toutes tailles pour les aider à élaborer et mettre en œuvre un plan cohérent de développement des compétences."},
+              {"description": "Axxis Formation est un organisme de formation certifié ISO 9001, couvrant le territoire national."},
+              {"description": "Nos formations ont pour objectif de développer les compétences des collaborateurs et/ou faciliter l’accès à l’emploi."},
+              {
+                "accrPoints": "Nous intervenons en amont des projets de formation pour :",
+                "points": [
+                  {"title": "Optimiser le montage financier des dispositifs"},
+                  {"title": "Proposer une formation sur mesure élaborée par un consultant expert du domaine"},
+                  {"title": "Réunir les conditions nécessaires à l’atteinte des objectifs avec validation des acquis"}
+                ]
+              },
+              {"description": "L’ingénierie de formation que nous développons depuis plus de 20 ans, permet de proposer aux clients une approche basée sur l’accompagnement et le conseil."},
+              {"description": "Les dispositifs formation sont élaborés en tenant compte des enjeux du client avec l’objectif d’optimiser les budgets emploi/formation."}
+            ]
+          },
+          {
+            "title": "Un conseil sur-mesure pour chaque problématique de formation",
+            "paragraphes": [
+              {"description": "Après entretien avec le dirigeant, notre consultant évalue les besoins en compétences et en formation de l’entreprise et présente les réponses pouvant être apportées."},
+              {
+                "accrPoints": "Avec un regard objectif et professionnel, nos consultants formation appuient leur démarche sur :",
+                "points": [ 
+                  {"title": "L’appréhension du projet d’entreprise et des priorités d’évolution"},
+                  {"title": "L'identification des problématiques formation"},
+                  {"title": "L’élaboration d’une réponse en lien avec les points forts et les axes d’amélioration de l’entreprise dans le cadre d’un budget maitrisé"}
+                ]
+              },
+              {"description": "Expert du conseil en formation, ils vous livreront des pistes d’amélioration, vous conseilleront dans le choix des solutions à mettre en place et vous accompagneront dans l’optimisation de votre plan de développement des compétences."}
+            ]
+          },
+          {
+            "title": "Une démarche d'amélioration continue",
+            "paragraphes": [
+              {"description": "A l’issue de chaque formation, nous réalisons des évaluations qualité auprès des stagiaires et du formateur. Les résultats sont systématiquement communiqués au client."},
+              {"description": "Une enquête de satisfaction client est réalisée chaque trimestre. Ces résultats sont exploités dans le cadre de notre démarche d’amélioration continue."}
+            ],
+            "subParts": [
+              {
+                "title": "ENQUÊTE DE SATISFACTION CLIENTS AXXIS FORMATION JANVIER 2016 (BASE : 32% DE CLIENTS AYANT RÉPONDU À L’ENQUÊTE)",
+                "paragraphes": [
+                  {"descriptionBold": "100% des clients recommanderaient Axxis Formation"},
+                  {
+                    "accrPoints": "Détail des résultats :",
+                    "points": [         
+                        {"title": "Qualité de la réponse pédagogique en fonction du contexte : note 3,8/4 soit 95% de clients satisfaits"},
+                        {"title": "Bonne identification des objectifs de la formation : note 4/4 soit 100% de clients satisfaits"},
+                        {"title": "Qualité de la prise en charge et suivi administratif de la session de formation : note 3,6/4 soit 90% de clients satisfaits"},
+                        {"title": "Bonne adéquation des moyens pédagogiques, techniques et d'encadrement : note 3,7/4 soit 92% des clients satisfaits"},
+                        {"title": "Respect des engagements (Qualité/délai) : note 3,7/4 soit 94% de clients satisfaits"},
+                        {"title": "Qualité de l'intervenant : note 3,9/4 soit 98% des clients satisfaits."}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Témoignage Client",
+            "paragraphes": [
+              {"description": "« J’ai pu apprécier la capacité d’Axxis Formation à nous accompagner grâce à la qualité de son ingénierie de formation. Nous avons ressenti une véritable écoute qui a permis à Axxis Formation d’élaborer des parcours en Management de proximité et gestion du temps prenant réellement en compte les spécificités de notre contexte. Les deux formatrices Axxis Formation ont été, en outre, très efficaces ». Joel Budanic Responsable Ressources Humaines d’EveRé"}
+            ]
+          },
+          {
+            "title": "Éléments clés d'Axxis Formation ",
+            "paragraphes":[
+              {
+                "points": [         
+                  {"title": "20 ans d’expérience"},
+                  {"title": "Une méthodologie découpée en 5 axes pour placer le client au centre du process  (l’identification des objectifs, l’adaptation des dispositifs, l’adéquation des moyens pédagogique, l’évaluation et le suivi des actions post formation)"},
+                  {"title": "L'expertise des consultants dans l'élaboration de dispositifs de formation"},
+                  {"title": "Des formateurs systématiquement évalués"},
+                  {"title": "Certifications (ISO, TOEIC, PCIE, titre professionnel gestion de la paie"},
+                  {"title": "Un maillage national avec un réseau de consultants et de formateurs en proximité"}
+                ]
+              }
+            ]
+          }
+        ],
+        "areas":
+        [
+          {
+            "title": "DOMAINES D'INTERVENTION",
+            "parts": [
+              {
+                "points":[
+                  "Aéroportuaire",
+                  "Management",
+                  "Développement personnel",
+                  "Commercial",
+                  "Droit",
+                  "Ressources humaines",
+                  "Bureautique (certification PCIE)",
+                  "Langues étrangères (certification TOEIC)",
+                  "Formations réglementaires"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

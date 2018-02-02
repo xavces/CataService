@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams, ToastController, Platform } from 'ionic-angular';
 import { Http } from '@angular/http';
+import { File } from '@ionic-native/file';
 import 'rxjs/add/operator/map';
 
 import { ImageViewerController } from "ionic-img-viewer";
@@ -30,6 +31,7 @@ export class ProductDetailsPage {
   services: any[];
   news: any[];
   marques: any[];
+  pathFile: any;
   // The account fields for the login form.
   // If you're using the username field with or without email, make
   // sure to add it to the type
@@ -43,7 +45,7 @@ export class ProductDetailsPage {
   // Our translated text strings
   // private loginErrorString: string;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, platform: Platform,
+  constructor(public navCtrl: NavController, public navParams: NavParams, public platform: Platform, private file: File,
     public toastCtrl: ToastController, http:Http, private youtube: YoutubeVideoPlayer, private documentView: DocumentViewer, public imageViewerCtrl: ImageViewerController) {
     
     this.tabBarElement = document.querySelector('.tabbar.show-tabbar');
@@ -96,8 +98,18 @@ export class ProductDetailsPage {
     const options: DocumentViewerOptions = {
       title: productId
     }
-    
-    this.documentView.viewDocument('assets/img/products/pdf/'+productId+'.pdf', 'application/pdf', options)
+    var path ="file:///android_asset/www/assets/img/products/pdf/"
+    console.log(this.file.documentsDirectory)
+    console.log(this.file.dataDirectory)
+    console.log(this.file.externalDataDirectory)
+    if (this.platform.is("ios")) {
+      this.pathFile = this.file.documentsDirectory;
+    }
+    else{
+      this.pathFile = path;
+    }
+    this.documentView.viewDocument(this.pathFile+productId+'.pdf', 'application/pdf', options)
+    //this.documentView.viewDocument('assets/img/products/pdf/'+productId+'.pdf', 'application/pdf', options)
   }
 
   openImg(imageToView) {

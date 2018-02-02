@@ -4,6 +4,7 @@ import { ProductDetailsPage } from './productDetails';
 import { IonicImageViewerModule } from 'ionic-img-viewer';
 import { YoutubeVideoPlayer } from '@ionic-native/youtube-video-player';
 import { DocumentViewer } from '@ionic-native/document-viewer';
+import { File } from '@ionic-native/file';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { DocumentViewer } from '@ionic-native/document-viewer';
   ],
   providers: [
     YoutubeVideoPlayer,
-    DocumentViewer
+    DocumentViewer,
+    File
   ],
   exports: [
     ProductDetailsPage,

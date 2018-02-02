@@ -20,22 +20,22 @@
 
 
 <ion-content>
-    <div *ngFor="let application of applications; let i=index" style="display : inline;">
+    <div *ngFor="let application of applications; let i=index">
         <div class="slider">
             <div>
                 <br>
                 <p class="titleSlide">{{application.name}}</p>
-                <ion-buttons end style="margin-top: -50px;">
+                <ion-buttons end style="margin-top: -47px;">
                         <button ion-button outline icon-right style="border-style: none" (click)="viewAll(application);"><ion-icon name="add"></ion-icon></button> 
                     </ion-buttons>
                     <ion-slides slidesPerView="3">
                             <div *ngFor="let objet of application.objets;">
                                 <ion-slide>
                                     <ion-card class="card">
-                                            <ion-card-content>
-                                                <img class="imageService" (click)="serviceDetail(objet);" [src]="objet.img" \>
-                                                <p class="nameService">{{objet.name}}</p>
-                                            </ion-card-content>
+                                        <ion-card-content>
+                                            <img class="imageService" (click)="serviceDetail(objet);" [src]="objet.img" \>
+                                            <p class="nameService">{{objet.name}}</p>
+                                        </ion-card-content>
                                     </ion-card>                           
                                 </ion-slide>      
                             </div>

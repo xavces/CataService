@@ -98,67 +98,67 @@ webpackEmptyAsyncContext.id = 119;
 
 var map = {
 	"../pages/all-service/all-service.module": [
-		309,
+		310,
 		6
 	],
 	"../pages/application/application.module": [
-		310,
+		324,
 		14
 	],
 	"../pages/chat2/chat2.module": [
-		311,
+		309,
 		12
 	],
 	"../pages/marqueDetails/marqueDetails.module": [
-		312,
+		311,
 		10
 	],
 	"../pages/news/news.module": [
-		313,
+		312,
 		5
 	],
 	"../pages/newsDetails/newsDetails.module": [
-		314,
+		313,
 		11
 	],
 	"../pages/productDetails/productDetails.module": [
-		315,
+		314,
 		8
 	],
 	"../pages/result/result.module": [
-		316,
+		315,
 		0
 	],
 	"../pages/serviceDetails/serviceDetails.module": [
-		317,
+		316,
 		9
 	],
 	"../pages/signup/signup.module": [
-		318,
+		317,
 		7
 	],
 	"../pages/simple-form/simple-form.module": [
-		319,
+		318,
 		2
 	],
 	"../pages/simple-form1/simple-form1.module": [
-		320,
+		319,
 		4
 	],
 	"../pages/simple-form2/simple-form2.module": [
-		321,
+		320,
 		3
 	],
 	"../pages/tabs/tabs.module": [
-		322,
+		321,
 		13
 	],
 	"../pages/tinderQ2/tinderQ2.module": [
-		323,
+		322,
 		1
 	],
 	"../pages/welcome/welcome.module": [
-		324,
+		323,
 		15
 	]
 };
@@ -292,9 +292,8 @@ AppModule = __decorate([
             __WEBPACK_IMPORTED_MODULE_10_angular2_swing__["SwingModule"],
             __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["l" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* MyApp */], {}, {
                 links: [
-                    { loadChildren: '../pages/all-service/all-service.module#AllServicePageModule', name: 'AllServicePage', segment: 'all-service', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/application/application.module#ApplicationPageModule', name: 'ApplicationPage', segment: 'application', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/chat2/chat2.module#Chat2PageModule', name: 'Chat2Page', segment: 'chat2', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/all-service/all-service.module#AllServicePageModule', name: 'AllServicePage', segment: 'all-service', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/marqueDetails/marqueDetails.module#MarqueDetailsPageModule', name: 'MarqueDetailsPage', segment: 'marqueDetails', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/news/news.module#NewsPageModule', name: 'NewsPage', segment: 'news', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/newsDetails/newsDetails.module#NewsDetailsPageModule', name: 'NewsDetailsPage', segment: 'newsDetails', priority: 'low', defaultHistory: [] },
@@ -307,7 +306,8 @@ AppModule = __decorate([
                     { loadChildren: '../pages/simple-form2/simple-form2.module#SimpleFormPageModule', name: 'SimpleForm2Page', segment: 'simple-form2', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/tabs/tabs.module#TabsPageModule', name: 'TabsPage', segment: 'tabs', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/tinderQ2/tinderQ2.module#TinderQ2PageModule', name: 'TinderQ2Page', segment: 'tinderQ2', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/welcome/welcome.module#WelcomePageModule', name: 'WelcomePage', segment: 'welcome', priority: 'low', defaultHistory: [] }
+                    { loadChildren: '../pages/welcome/welcome.module#WelcomePageModule', name: 'WelcomePage', segment: 'welcome', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/application/application.module#ApplicationPageModule', name: 'ApplicationPage', segment: 'application', priority: 'low', defaultHistory: [] }
                 ]
             })
         ],

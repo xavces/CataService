@@ -10,7 +10,7 @@
         <button ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon></button> 
         </ion-buttons>
         <ion-title>
-          Onet Portfolio
+          {{application.name}}
         </ion-title>
         <!--
         <ion-buttons end>
@@ -22,7 +22,6 @@
 
 <ion-content padding>
   <div class="container">
-    <p class="nameApplication">{{application.name}}</p>
     <div>
         <ion-card class="card"  *ngFor="let objet of application.objets;">
                 <ion-card-content>

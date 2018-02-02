@@ -25857,7 +25857,7 @@ ion-auto-complete {
 }
 
 page-all-service .imageService {
-  width: 25vh;
+  width: 10vh;
   height: 10vh;
 }
 
@@ -25873,12 +25873,13 @@ page-all-service .slider {
   background: white;
   margin-right: 20px;
   margin-left: 20px;
-  margin-top: 50px;
+  margin-top: 20px;
   border-radius: 10px 0;
 }
 
 page-all-service .titleSlide {
   margin-left: 10px;
+  margin-top: 0px !important;
   font-size: 15px;
 }
 
@@ -25889,7 +25890,13 @@ page-all-service .nameService {
 }
 
 page-all-service .card {
-  margin-top: 10px;
+  margin-top: 5px;
+  height: 20vh;
+}
+
+page-all-service br {
+  display: block;
+  margin: 2px 0;
 }
 
 page-application .content-md, page-application .content-ios {
@@ -25898,7 +25905,7 @@ page-application .content-md, page-application .content-ios {
 
 page-application .card {
   width: 20vh;
-  height: 25vh;
+  height: 30vh;
   display: inline-block;
 }
 

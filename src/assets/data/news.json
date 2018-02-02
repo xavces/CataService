@@ -1,0 +1,333 @@
+{
+  "news": [
+    {
+      "id": 0,
+      "marqueId": 0,
+      "img": "assets/img/news/0.jpg",
+      "date": "November 30, 2017",
+      "title": "Onet au top 1% des fournisseurs évalués par Ecovadis sur le thème Environnement",
+      "content": {
+        "title": "Onet au top 1% des fournisseurs évalués par Ecovadis sur le thème Environnement",
+        "intro": [
+          "Inscrit depuis plusieurs années déjà dans une démarche écoresponsable, Onet a récemment fait de l’utilisation de produits éco labellisés et issus des biotechnologies un axe prioritaire de ses prestations de nettoyage."
+        ],
+        "introBold": "Retour sur le déploiement de cette solution, basée sur l'utilisation de  produits de nettoyage professionnel de qualité et de haute performance environnementale.",
+        "parts": [
+          {
+            "title": "TrioKleen : la combinaison durable & performante",
+            "paragraphes": [
+              { "description": "Nos équipes RSE ont déployé le concept TrioKleen d’ Innuscience au sein des 180 agences Onet Propreté et Services." },
+              { "description": "Ce concept combine l'utilisation de trois produits hautement concentrés pour accomplir la plupart des taches relatives à la propreté." },
+              { "description": "Les produits de cette gamme sont performants, éco-labellisés, ultra concentrés, multitâches et respectant la santé et la sécurité de tous (sans composés organiques volatils, sans allergènes et non corrosifs)." }
+            ]
+          },
+          {
+            "title": "Une dilution maîtrisée et des procédures simplifiées",
+            "paragraphes": [
+              { "description": "Le  système de dilution a été spécialement élaboré pour les besoins d’Onet Propreté et Services : le Dilumob." },
+              { "description": "Le Dilumob est une centrale de dilution mobile livrée en agence ou chez le client. Véritable centrale d’embouteillage mobile, elle s’installe facilement sur nos sites et permet un dosage optimal tout en assurant un contrôle des coûts. Ce procédé a nécessité la mise en œuvre de nouveaux outils à destination des agents de propreté. Il offre une rapidité de formation, une facilité d’utilisation et une meilleure sécurisation des agents." }
+            ]
+          },
+          {
+            "title": "Une solution logistique intégrée, de la commande jusqu’à l’utilisation du produit sur site",
+            "paragraphes": [
+              { "description": "Les produits, dont l’acquisition est centralisée notre filiale de Distribution de matériel de nettoyage Prodim, sont livrés directement aux agences en format ultra-concentré. Ce procédé simplifie ainsi la gestion des commandes, tout en réduisant la fréquence des livraisons et le nombre de références produits. Une fois en agence, les bidons sont assemblés directement sur le Dilumob. A chaque nouvelle livraison des produits, les bidons vides sont récupérés pour un nouveau remplissage, diminuant significativement l’empreinte écologique liée au rejet de plastique." }
+            ]
+          },
+          {
+            "title": "Un projet d’entreprise global",
+            "paragraphes": [
+              { "description": "Ce projet a mobilisé de nombreuses compétences du groupe pour fournir à nos clients une solution opérationnelle, fonctionnelle et efficace." },
+              { "description": "Il s’inscrit dans la politique Développement responsable d'Onet qui s’appuie sur 4 axes fondamentaux : la protection de l'environnement, l'équité sociale, la responsabilité sociétale et la performance économique." }
+            ]
+          },
+          {
+            "title": "Ecovadis place Onet dans le top 1% et lui décerne le statut Gold",
+            "paragraphes": [
+              { "description": "Cette démarche globale a permis d’hisser Onet dans le top 1% des fournisseurs évalués par Ecovadis sur le thème Environnement." },
+              { "description": "Ecovadis est une plateforme de notation de la performance sociale et environnementale des chaînes d'approvisionnement mondiales. Celle-ci évalue la responsabilité sociétale des entreprises et a décerné à Onet le statut Gold. Pour la totalité de ses actions, Onet se situe dans le TOP 2% des fournisseurs évalués par Ecovadis dans toutes les catégories." }
+            ]
+          }                 
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "marqueId": 1,  
+      "img": "assets/img/news/1.jpg",
+      "date": "October 24, 2017",
+      "title": "Sécurisation des chantiers : quelles solutions pour renforcer la prévention ?",
+      "content": {
+        "title": "Sécurisation des chantiers : quelles solutions pour renforcer la prévention ?",
+        "intro": [ "Le coût des vols et autres actes délictueux sur les chantiers est évalué à plus d'un milliard d'euros, soit environ 1 % du chiffre d’affaires du secteur.*"],
+        "introBold": "En réponse à ce sujet, qui gangrène le secteur depuis de nombreuses années, la Fédération Française du Bâtiment (FFB) a engagé un programme d’actions prioritaires visant à réduire les risques de vols et d'actes de malveillance par la signature d’un protocole d’accord avec le ministère de l’Intérieur.",
+        "parts": [
+          {
+            "title": "Une politique nationale de prévention",
+            "paragraphes": [
+              {
+                "accrPoints": "Dans ce protocole, la FFB s’engage à :",
+                "points": [
+                  { "title": "mettre en relation les « référents sûreté » avec un correspondant local de la Fédération départementale," },
+                  { "title": "sensibiliser les entreprises à la sécurisation des chantiers," },
+                  { "title": "former leurs personnels aux enjeux de la sûreté," },
+                  { "title": "encourager les mesures de prévention et de protection améliorant la sûreté d’un chantier."}
+                ]
+              },
+              {
+                "description": "Par ailleurs, l'organisation propose à ses adhérents un questionnaire permettant aux entreprises de savoir où elles en sont en matière de prévention contre les vols sur chantier."
+              }
+            ]
+          },
+          {
+            "title": "Exosphère, la solution Onet Sécurité au service de la protection des chantiers",
+            "paragraphes": [
+              { "description": "Conscient des enjeux, Onet Sécurité a développé la solution Exosphère, particulièrement adaptée à la protection des chantiers isolés." },
+              { "descriptionBold": "La solution Exosphère comprend un PC mobile et autonome, équipé des dernières technologies de vidéosurveillance, un aérostat d’observation aérienne relié à la station sol et une équipe de personnes hautement qualifiées et formées. "},
+              {
+                "accrPoints": "Les atouts du dispositif :",
+                "points":[
+                  {
+                    "title": "Mobilité et autonomie",
+                    "subpoints": [
+                      "Déplacement sur tout type de terrain",
+                      "Autonomie électrique"
+                    ]
+                  },
+                  {
+                    "title": "Modularité",
+                    "subpoints": [
+                      "Vidéosurveillance de zone ou de proximité",
+                      "Reprise de signaux d’un PC fixe",
+                      "Gestion des alarmes"
+                    ]
+                  },
+                  {
+                    "title": "Qualité de l’observation",
+                    "subpoints": [
+                      "Mât télescopique : vision à 8,5 m de hauteur",
+                      "Aérostat : vision à 150 m au-dessus du sol"
+                    ]
+                  }   
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Une solution logistique intégrée, de la commande jusqu’à l’utilisation du produit sur site",
+            "paragraphes": [
+              { "description": "Les produits, dont l’acquisition est centralisée notre filiale de Distribution de matériel de nettoyage Prodim, sont livrés directement aux agences en format ultra-concentré. Ce procédé simplifie ainsi la gestion des commandes, tout en réduisant la fréquence des livraisons et le nombre de références produits. Une fois en agence, les bidons sont assemblés directement sur le Dilumob. A chaque nouvelle livraison des produits, les bidons vides sont récupérés pour un nouveau remplissage, diminuant significativement l’empreinte écologique liée au rejet de plastique." }
+            ]
+          },
+          {
+            "title": "Un projet d’entreprise global",
+            "paragraphes": [
+              { "description": "Ce projet a mobilisé de nombreuses compétences du groupe pour fournir à nos clients une solution opérationnelle, fonctionnelle et efficace." },
+              { "description": "Il s’inscrit dans la politique Développement responsable d'Onet qui s’appuie sur 4 axes fondamentaux : la protection de l'environnement, l'équité sociale, la responsabilité sociétale et la performance économique." }
+            ]
+          },
+          {
+            "title": "Ecovadis place Onet dans le top 1% et lui décerne le statut Gold",
+            "paragraphes": [
+              { "description": "Cette démarche globale a permis d’hisser Onet dans le top 1% des fournisseurs évalués par Ecovadis sur le thème Environnement." },
+              { "description": "Ecovadis est une plateforme de notation de la performance sociale et environnementale des chaînes d'approvisionnement mondiales. Celle-ci évalue la responsabilité sociétale des entreprises et a décerné à Onet le statut Gold. Pour la totalité de ses actions, Onet se situe dans le TOP 2% des fournisseurs évalués par Ecovadis dans toutes les catégories." }
+            ]
+          }                 
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "marqueId": 2,
+      "img": "assets/img/news/2.jpg",
+      "date": "May 23, 2017",
+      "title": "Orly : services aéroportuaires et gestion des bagages pour le compte d’Air France-KLM",
+      "content": {
+        "title": "Orly : services aéroportuaires et gestion des bagages pour le compte d’Air France-KLM",
+        "intro": ["Le 1er avril 2017, l’activité Airport Services d’Onet a débuté un contrat de sept ans avec Air France-KLM portant sur la gestion des bagages et le déploiement des passerelles à Orly. Ce nouveau contrat confirme la dynamique de développement du groupe de services et d’ingénierie Onet dans cette activité."],
+        "parts": [
+          {
+            "title": "ONET ET AIR FRANCE-KLM : UN CONTRAT SIGNÉ POUR UNE DURÉE DE SEPT ANS",
+            "paragraphes": [
+              { "description": "Le nouveau marché obtenu à Orly permet à Onet de franchir un nouveau cap dans le développement de son  activité de services aéroportuaires. Onet intervient pour le compte d’Air France-KLM sur la gestion des bagages et le déploiement des passerelles. D’autres missions, comme la préparation du circuit arrivée des passagers ainsi que la mise en place des mesures anti échappement en piste (débarquement des passagers au pied de l’avion) font également partie du contrat qui lie les deux sociétés." },
+              { 
+                "temoignage": {
+                  "author": "Thierry Brunel",
+                  "authorImg": "assets/img/profiles/0.jpg",
+                  "function": "Directeur des métiers nationaux Onet",
+                  "content": "« Ce nouveau contrat confirme notre position d’acteur majeur des services aéroportuaires et d’expert dans le traitement des bagages sur les plus grosses plateformes françaises. Notre stratégie consiste à mettre la satisfaction des clients au centre de la démarche, en logistique bagages, comme en full handling »"
+                }
+              }
+            ]
+          },
+          {
+            "title": "ONET AIRPORT SERVICES : UNE STRATÉGIE DE DÉVELOPPEMENT AMBITIEUSE",
+            "paragraphes": [
+              { "description": "Déjà présent sur les grands aéroports français (Paris, Strasbourg, Lyon, Marseille, Biarritz, Saint-Etienne, Clermont-Ferrand et Saint-Nazaire), Onet confirme avec ce nouveau contrat une trajectoire importante de développement ces derniers mois de son activité de services aéroportuaires. En 2016, le groupe signait avec Volotea pour des opérations de full handling sur l’aéroport de Strasbourg, et déjà avec Air France-KLM pour gérer le trieur du terminal E de l’aéroport Roissy-Charles de Gaulle, un site stratégique par lequel transitent chaque jour plusieurs dizaines de milliers de valises." }
+            ]
+          },
+          {
+            "title": "DES PRESTATIONS RECONNUES ET CERTIFIÉES",
+            "paragraphes": [
+              { "description": "Acteur français historique de l’assistance en escale depuis plus de 45 ans, l’expérience d’Onet Airport Services est reconnue dans l’assistance piste des avions passagers et cargo, et dans la gestion des flux logistiques sur les hubs de correspondance." },
+              {
+                  "accrPoints": "Afin de contribuer au développement et à l’attractivité des aéroports, Onet propose les services aéroportuaires suivants :",
+                  "points": [
+                    { "title": "Aviation générale"},
+                    { "title": "Full handling"},
+                    { "title": "Cargo & Transport"}
+                  ]
+              },
+              { "description": "Pour ses clients, le renouvellement en 2016 pour une période de deux ans, sur l’ensemble de ses activités de la certification ISAGO (IATA Safety Audit for Ground Operations) est un gage supplémentaire de la qualité et de la sécurité des opérations effectuées par Onet."}
+            ]
+          },
+          {
+            "title": "Informations clés de l’activité Airport Services d’Onet :",
+            "points":[
+              "750 collaborateurs",
+              "+ de 20 millions de bagages gérés par an",
+              "ISO 9001 & ISAGO",
+              "61 500 opérations autour des avions par an"
+            ]
+          }                
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "marqueId": 3,
+      "img": "assets/img/news/3.jpg",
+      "date": "January 16, 2018",
+      "title": "Onet Accueil : 2ème Job Dating pour l’Olympique Lyonnais",
+      "content": {
+        "title": "Onet Accueil : 2ème Job Dating pour l’Olympique Lyonnais",
+        "intro": [
+          "Face au succès du 1er Job Dating organisé fin 2015, Onet Accueil a renouvelé l’expérience en 2017, en partenariat avec l’Olympique Lyonnais, le Pôle Emploi et Job & Cités. L’objectif était de recruter une centaine d’agents d’accueil et d’animation en CDI intermittents ou en CDD.",
+          "Mission accomplie pour Onet Accueil qui a pu recruter 88 personnes sur les 200 candidats qui se sont présentés !",
+          "Cette opération s’inscrit dans une démarche d’insertion souhaitée et sponsorisée par l’Olympique Lyonnais via l’association Job & Cités. Cette journée de recrutement a ainsi eu lieu dans les locaux de la Cité des Entreprises pour l’Emploi directement au sein du Groupama Stadium.",
+          "Onet Accueil répond à travers cette opération à ses objectifs de RSE et d’insertion."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "marqueId": 4,
+      "img": "assets/img/news/4.jpg",
+      "date": "May 14, 2017",
+      "title": "Logistique In Situ : comment variabiliser les coûts fixes ?",
+      "content": {
+        "title": "Logistique In Situ : comment variabiliser les coûts fixes ?",
+        "intro": [
+            "Véritable enjeu d’agilité pour les  entreprises, la logistique In Situ offre de nombreuses solutions.",
+            "Retour sur ce métier."
+        ],
+        "parts":[
+          {
+            "title": "Qu’est-ce que la logistique In Situ ?",
+            "paragraphes": [
+              { "description": "Elle consiste à confier à un prestataire la gestion des flux physiques et d’information d’une entreprise au sein même de ses infrastructures. Elle se distingue d'une logistique classique (ex-situ) où le prestataire gère ces flux dans ses propres entrepôts."},
+              { "description": "Le périmètre d’externalisation des activités logistiques In Situ peut comprendre tout ou partie des activités logistiques. Elle peut ainsi englober un grand nombre de prestations comme l’approvisionnement en bord de chaîne à la sortie de production, ou la manutention lourde à la distribution interne." }
+            ]
+          },
+          {
+            "title": "Remobiliser les moyens sur les activités des entreprises",
+            "paragraphes": [
+              { "description": "La logistique in Situ est une réelle opportunité pour les entreprises d’améliorer leur performance et de rationaliser leurs coûts."},
+              { "description": "En effet, elle permet aux entreprises de se focaliser sur leur cœur de métier tout en bénéficiant de méthodes éprouvées. L’expérience de spécialistes et le développement d’outils adaptés à la logistique, combinées à la proximité des activités du client, favorisent l’amélioration continue du service – productivité, santé et sécurité au travail, et qualité de service." },
+              { "description": "En outre, ce service a des impacts positifs sur l’économie locale puisqu’elle pérennise les emplois de proximité et rentabilise le foncier existant."}
+            ]
+          },
+          {
+            "title": "Prise en compte des enjeux par les prestataires de logistique",
+            "paragraphes": [
+              { "description": "Depuis de nombreuses années, Onet Logistique propose son expertise en logistique In Situ. Fort des constats évoqués précédemment, Onet Logistique a intégré les problématiques clients à ses offres : conseil et ingénierie logistique, gestion et pilotage des flux physiques et d'informations, transport routier et manœuvres ferroviaires, contrôle sûreté douanière, ce qui lui a permis de recueillir un score de 92%, lors de sa dernière enquête de satisfaction et de participer à la performance de ses clients : Safran, Michelin, Air France Industries KLM E&M…"},
+              { 
+                "temoignage": {
+                  "author": "Sébastien Pillet",
+                  "authorImg": "assets/img/profiles/1.jpg",
+                  "function": "Directeur d'Onet Logistique",
+                  "content": "« Pour chaque prestation réalisée, Onet Logistique a à cœur d'accompagner ses clients pour leur permettre d'améliorer leur performance globale et réduire leurs coûts. »"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "marqueId": 5,
+      "img": "assets/img/news/5.jpg",
+      "date": "August 17, 2017",
+      "title": "Onet Technologies remplace sa 2500e canne chauffante !",
+      "content": {
+        "title": "Onet Technologies remplace sa 2500e canne chauffante !",
+        "intro": [
+          "Depuis 1991, les équipes d’Onet Technologies ont remplacé 2 500 cannes chauffantes en centrale nucléaire, à l’occasion d’un total de 112 interventions sur 43 des 58 tranches que compte le parc de réacteurs en exploitation.",
+          "Le chiffre symbolique de 2 500 reflète le fruit d’un travail de longue durée et de l’excellence opérationnelle mise en œuvre. En effet, l’équivalent de la moitié des cannes chauffantes équipant le parc a ainsi été remplacé."
+        ],
+        "parts":[
+          {
+            "title": "Un projet d'envergure",
+            "paragraphes": [
+              { "description": "Cette prestation historique consiste à retirer les cannes chauffantes défectueuses lors des arrêts de tranches, c’est-à-dire au moment où les réacteurs sont arrêtés pour être révisés. Les cannes sont de grandes résistances chauffantes de plusieurs mètres de long, présentes par dizaine à l’intérieur du pressuriseur. Elles participent à maintenir sous pression l’eau qui circule dans le circuit primaire du réacteur nucléaire." },
+              { "description": "Les collaborateurs d’Onet Technologies interviennent sous le pressuriseur pour en retirer les cannes défectueuses en posant l’outillage nécessaire à la réalisation de l’opération pour une manipulation par téléopération (à distance). Ces interventions sont délicates car réalisées en environnement irradiant ; cela nécessite de travailler avec minutie, agilité et rapidité pour ne pas que les équipes soient exposées trop longtemps aux rayons irradiants dégagés par la partie inférieure du pressuriseur."},
+              { "descriptionBold": "Après 20 ans de prestation, Onet Technologies avait fêté le remplacement de sa 1 000e canne fin 2010. Six ans après, 1 500 cannes supplémentaires ont été remplacées !" }
+            ]
+          },
+          {
+            "title": "Un procédé inédit",
+            "paragraphes": [
+              { "description": "Au fil des renouvellements de ce contrat d’exploitation, les ingénieurs sur le projet ont développé des équipements et des procédés de plus en plus performants. En 2014, EDF n’a pas hésité, une fois de plus, à consulter Onet Technologies lorsque des difficultés ont été rencontrées dans le retrait de certaines de ces cannes abîmées." },
+              { "description": "La Direction de l’ingénierie d’Onet Technologies a tout mis en œuvre pour la réalisation de cette prestation exceptionnelle. Un nouveau procédé a été développé et testé pour l’extraction de cannes en urgence, cette fois-ci depuis le haut du pressuriseur : des outillages sont introduits dans le pressuriseur par l’accès à l’intérieur « le trou d’homme » et sont mis en œuvre depuis une hauteur de 10 mètres correspondant à la distance séparant le trou d’homme de l’endroit où sont localisées les cannes abimées. L’utilisation en téléopération des outillages assurent le découpage des cannes bloquées et leur extraction également par le trou d’homme."}
+            ]
+          },
+          {
+            "title": "Une ingénierie et une expertise reconnues",
+            "paragraphes": [
+              { "description": "Pionnier sur le marché du remplacement de cannes chauffantes, Onet Technologies a été le seul acteur en mesure de finaliser une telle prestation dans son intégralité et dans le délai imparti, malgré l’arrivée de concurrents en 2012. L’un des principaux atouts d’Onet Technologies étant sa connaissance du parc nucléaire français et sa capacité à concevoir, fabriquer et mettre en œuvre des outils spécifiques." }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id":6,
+      "marqueId": 6,
+      "img": "assets/img/news/6.jpg",
+      "date": "July 03, 2017",
+      "title": "Axxis Formation remet les premiers diplômes CQP « Assistant piste » à Lyon",
+      "content": {
+        "title": "Axxis Formation remet les premiers diplômes CQP « Assistant piste » à Lyon",
+        "intro": [
+          "Vendredi 23 juin dernier a eu lieu la première remise de diplôme CQP « Assistant piste » d’Axxis Formation, filiale formation du groupe Onet, une compétence indispensable à l‘aéroport et pourtant difficile à recruter.  "
+        ],
+        "parts":[
+          {
+            "title": "Une formation diplômante pour répondre à une nécessité métier dans la région Rhône-Alpes",
+            "paragraphes": [
+              { "description": "2016 a été une année de croissance soutenue pour l’aéroport de Lyon qui a bénéficié de l’ajout de 30 nouvelles lignes dont 20 nouvelles destinations. En conséquence, l’aéroport a vu transiter plus de 9 millions de passagers en 2016, soit une augmentation de 9,8 % du taux de fréquentation par rapport à 2015.  "},
+              { "description": "Face au dynamisme de l’aéroport, la région Rhône-Alpes a toutefois dû faire face à un déficit de personnels qualifiés sur les postes d’assistant piste, une ressource pourtant cruciale au bon fonctionnement d’un aéroport. Pour faire face à ce déficit de personnels, Axxis Formation a proposé un CQP, Certificat de Qualification Professionnelle, aux personnels entrant sur la totalité des fonctions de l’assistant piste, une formation auparavant uniquement accessible par la voie professionnelle."},
+              { "description": "Cette initiative permet de proposer une formation qualifiante dans un secteur qui recrute et qui contribue à l’attractivité régionale."}
+            ]
+          },
+          {
+            "title": "Une formation unique en France et reconnue par la profession",
+            "paragraphes": [
+              { "description": "Cette formation, unique en France et reconnue par la Commission Paritaire Nationale pour l’Emploi – Personne au Sol (CPNE PS), s’étend sur 560 heures et 14 mois au total. Dans le cadre de la préparation opérationnelle à l’emploi collective (POEC), Pôle Emploi assure une pré-formation des stagiaires pendant les deux premiers mois de leur cursus. Grâce à un contrat de professionnalisation de douze mois, Axxis Formation assure 280 heures de formation complémentaires. Ce parcours permet de former des professionnels capables d’assurer, en autonomie, les opérations liées à l’activité de chargement et les activités d’assistance à l’avion. Les stagiaires sont ainsi préparés à la maitrise des compétences leur permettant d’être efficace en situation et de s’adapter aux différents types de scénarios qu’implique le métier."},
+              { "description": "Ce sont donc 16 stagiaires qui ont reçu leur diplôme à l’aéroport de Lyon en présence de Pôle Emploi, Opcalia (Organisme paritaire collecteur agréé), d’Axxis Formation et de représentants de l’activité Airport services d’Onet, qui connait une forte croissance sur les activités de full-handling."},
+              { 
+                "temoignage": {
+                  "author": "Ronan Graczyk",
+                  "authorImg": "assets/img/profiles/2.jpg",
+                  "function": "Responsable formation aéroportuaire Axxis Formation",
+                  "content": "« Cette formation répond à la fois à un besoin sur le marché du travail et à une nécessité de former des professionnels sur ce métier. Nous sommes très fiers de cette première promotion qui a désormais toutes les clés en main pour apporter leurs compétences sur le marché de l’aéroportuaire. »"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }                           
+  ]
+}

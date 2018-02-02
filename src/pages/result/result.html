@@ -1,0 +1,52 @@
+
+    <ion-header no-border>
+    <ion-navbar color="primary" hideBackButton="true">
+        <ion-buttons start>
+            <button ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon></button> 
+        </ion-buttons>
+        <ion-title>
+        Recherche
+        </ion-title>
+    <!--
+    <ion-buttons end>
+      <button ion-button icon-left (click)="login()"><ion-icon name="contact"></ion-icon></button>
+    </ion-buttons>-->
+    </ion-navbar>
+    <form>
+    <ion-auto-complete [dataProvider]="completeTestService" (itemSelected)="getVal($event)" [(ngModel)]="placeholder" name="placeholder"></ion-auto-complete>
+    </form>
+    </ion-header>
+    <ion-content *ngIf="services != null">
+        <div class="splash-relative">
+            <p class="white-text margin-plus" text-center style="font-size: 1.2em;">Nous avons déterminé votre besoin !</p>
+            <div class="splash-info" center>
+                <div class="splash-form">
+                    <div class="chart-container">
+                        <p text-center style="background-color: rgba(255, 255, 255, 0.7); border-radius:15px;margin: 0 20% 0 20%; padding:5px 5px 5px 5px; position:fixed; top: calc(20% - 1px); left:0; width:60%; z-index:1000;"><small><span style="color:#0eae15">Propreté et Services</span> - <span style="color:#d01717">Sécurité</span> - <span style="color:#386ecd">Services aéroportuaires</span> - <span style="color:#cbc40e">Accueil</span> - <span style="color:#cc7136">Logistique</span> - <span style="color:#962ac8">Technologies</span> - <span style="color:#d42649">AXXIS: Intérim, Recrutement et Formation</span></small></p>
+                        <div class="network-canvas" [visNetwork]="visNetwork" [visNetworkData]="visNetworkData" [visNetworkOptions]="visNetworkOptions" (initialized)="networkInitialized()"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+    <ion-footer class="footer" hidden>
+        <ion-grid>
+          <ion-row>
+            <ion-col text-center col-9 *ngIf="myServiceId != null" class="valignCenter">
+                <h4 style="color:#0eae15; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 0">{{services[myServiceId].content.title}}</h4>
+                <h4 style="color:#d01717; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 1">{{services[myServiceId].content.title}}</h4>
+                <h4 style="color:#386ecd; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 2">{{services[myServiceId].content.title}}</h4>
+                <h4 style="color:#cbc40e; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 3">{{services[myServiceId].content.title}}</h4>
+                <h4 style="color:#cc7136; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 4">{{services[myServiceId].content.title}}</h4>
+                <h4 style="color:#962ac8; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 5">{{services[myServiceId].content.title}}</h4>
+                <h4 style="color:#d42649; width: 100%;" no-margin *ngIf="services[myServiceId].marqueId == 6">{{services[myServiceId].content.title}}</h4>
+            </ion-col>
+            <ion-col text-center col-3 class="valignCenter">
+                <button style="background-color:rgba(0,0,0,0.2); border-radius:40px; width:40px; height:40px;" (click)="more()">
+                    <ion-icon name="information" style="color: rgba(0,0,0,0.3)" class="footer-btn"></ion-icon>
+                </button>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+    </ion-footer>
+

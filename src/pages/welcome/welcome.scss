@@ -1,0 +1,94 @@
+page-welcome {
+  ion-content {
+    background: #b2284e; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #b2284e, #2a73d3); /* Standard syntax */
+    height: 100%;
+  }
+
+  .splash-relative{
+    position: absolute;
+    width: 60%;
+    margin-right: 20%;
+    margin-left:20%;
+    height:100%;
+  }
+  .splash-logo {
+    margin: auto;
+    background: url('../assets/img/logo2.png') repeat transparent;
+    background-size: 100%;
+    width: 128px;
+    height: 128px;
+  }
+
+  .splash-intro{
+    text-align:center;
+    color: white;
+    font-size: 2em;
+  }
+  .splash-new{
+    position: relative;
+    font-size: 20px;
+  }
+  .splash-end{
+    position:fixed;
+    bottom: 20px;
+    width:60%;
+    text-align: center;
+  }
+
+  .splash-end a{
+    color: white;
+  }
+
+  .item-md, .item-ios{
+    background-color: transparent;
+  }
+
+  button.login {
+    margin-top: 25px;
+    max-width: 180px;
+    background-color: transparent;
+    border: 1px solid white;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+    color: #ffffff;
+    &.activated {
+      background-color: rgb(220, 220, 220);
+    }
+  }
+
+  input{
+    color: white;
+  }
+
+  .white-text{
+    color:white;
+  }
+
+  .item-input ion-label{
+    width:20px;
+  }
+
+  .item-md{
+    padding-left: 0;
+  }
+
+  .item-md.item-block .item-inner{
+    padding-right:0;
+  }
+
+  .scroll-content{
+    padding-top: 0;
+  }
+
+  .toolbar-ios-primary .toolbar-background-ios{
+    background: transparent;
+  }
+
+  .toolbar-md-primary .toolbar-background-md{
+    background: transparent;
+  }
+
+}

@@ -1,0 +1,481 @@
+{
+  "marques": [
+    {
+      "id": 0,
+      "servicesId":[0, 1, 2, 3, 4, 5, 6, 7, 8],
+      "newsId": [0],
+      "imgCover": "assets/img/marques/0.jpg",
+      "imgProfile": "assets/img/marques/profile/0.png",
+      "videoId": "pSbLUVvn2lU",
+      "title": "Propreté et Services",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "http://www.onet-propreteetservices.com"
+      },
+      "content": {
+        "title": "Propreté et Services",
+        "citation": "Leader historique en France de la propreté",
+        "keys": [
+          {"label": "collaborateurs", "nb": "44 500"},
+          {"label": "implantations", "nb": "180"},
+          {"label": "millions de m² gérés", "nb": "40"},
+          {"label": "clients", "nb": "2000"},
+          {"label": "certifications", "nb": "6"}
+        ],
+        "parts": [
+          {
+            "title": "Préserver l’hygiène et la propreté de votre environnement de travail",
+            "paragraphes": [
+              { "description": "Onet est l’acteur référent en France et en Europe de la propreté et des services associés. Cette position est le fruit d'un développement harmonieux, prudent mais ambitieux, au côté de nos clients et actionné par nos collaborateurs." },
+              { "descriptionBold": "Rendre les espaces de travail, de passage, de loisir, de production, de transport..., propres, sains et agréables est notre leitmotiv, celui de nos agences !" }
+            ]
+          },
+          {
+            "title": "Nos atouts en propreté et services associés",
+            "paragraphes":[
+              { 
+                "accrPointsBold": "Une organisation pour répondre de façon unique à chaque client :",
+                "points": [
+                  { "title": "Des experts métiers par secteur d'activités" },
+                  { "title": "Un réseau d'agences fort et en proximité des sites, qui a toute latitude pour adapter les process et méthodes de travail aux besoins locaux." },
+                  { "title": "Une structure dédiée à nos clients multi-sites : centralisation de la relation client, reportings dédiés, support hotline, … pour garantir des prestations homogènes et de qualité." }
+                ]
+              },
+              { 
+                "accrPointsBold": "Des collaborateurs motivés et impliqués :",
+                "points": [
+                  { "title": "Un programme de développement des compétences (école interne de formation depuis 1982, e-learning, plan de de formation individuel…)" },
+                  { "title": "Un environnement de travail sûr : EPI,  lutte contre les Troubles Musculo-Squelettiques (TMS), Visite Comportementale de Sécurité…" },
+                  { "title": "Un management de proximité respectueux, raisonnable et à l’écoute de ses collaborateurs." }
+                ]
+              },
+              { 
+                "accrPointsBold": "Une prestation de qualité, maitrisée sur la durée :",
+                "points": [
+                  { "title": "Une application Blue Quality, disponible sur tablette numérique, pour des contrôles en ligne, permettant un suivi précis des prestations et un reporting performant" },
+                  { "title": "Un portail client permettant une réactivité et traçabilité optimale en cas de dysfonctionnement" }, 
+                  { "title": "Une politique de contrôle assidue pour un niveau de propreté conforme aux exigences de nos clients" }
+                ]
+              },
+              { 
+                "accrPointsBold": "R&D - ingénierie de services :",
+                "points": [
+                  { "title": "Nos experts « outils métier » travaillent des procédés techniques et de nouveaux produits pour améliorer ou proposer de nouveaux services. Nous développons ainsi une véritable ingénierie de services" },
+                  { "title": "Une veille permanente sur les dernières avancées du marché est conduite et exploitée afin d’être dans l’anticipation avec nos clients" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "servicesId":[9, 10, 11, 12, 13],
+      "newsId": [1],
+      "imgCover": "assets/img/marques/1.jpg",
+      "imgProfile": "assets/img/marques/profile/1.jpg",
+      "title": "Sécurité",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "https://fr.groupeonet.com"
+      },
+      "content": {
+        "title": "Sécurité",
+        "keys": [
+          {"label": "collaborateurs", "nb": "4650"},
+          {"label": "années d'expérience", "nb": "+40"},
+          {"label": "implantations en France", "nb": "+50"},
+          {"label": "collaborateurs en CDI", "nb": "91%"},
+          {"label": "certifications", "nb": "3"}
+        ],
+        "parts": [
+          {
+            "title": "Des solutions de sécurité agiles",
+            "paragraphes": [
+              { 
+                "accrPointsBold": "La proposition de valeur d'Onet dans la sécurité se fonde sur :",
+                "points": [
+                  { "title": "son expertise sécurité et sa capacité à analyser les besoins et risques propres à ses clients," },
+                  { "title": "sa parfaite maîtrise des solutions humaines et électroniques de l’ingénierie à l’exploitation, jusqu'au pilotage." }
+                ]
+              },
+              { "description": "Le savoir-faire et l’expérience nous permettent de répondre aux exigences les plus strictes de nos clients sur les niveaux de sûreté et sécurité requis pour chaque typologie de site (tertiaire, ERP, SEVESO, évènementiel…)." },
+              { "description": "La satisfaction de nos clients (satisfaction globale moyenne de 93%), de nos collaborateurs (satisfaction globale de 86%) et la qualité de nos systèmes d'exploitations approuvées par des certifications telles que NF Service, MASE, Apsad, label Origine France Garantie, Qualifelec...démontrent de l'efficacité de nos actions." },
+              { "description": "Elles sont le gage de la solide réputation de fiabilité et honnêteté de notre entreprise." }
+            ]
+          },
+          {
+            "title": "Nos atouts en propreté et services associés",
+            "paragraphes":[
+              {
+                "points": [
+                  { "title": "La maîtrise de l’ensemble des métiers de la sécurité, qu’il soit basé sur l’humain ou sur des systèmes électroniques," },
+                  { "title": "Notre aptitude à intervenir à tout niveau de la chaîne de production, en amont sur l’ingénierie sécurité et sûreté, en exploitation et en pilotage de plusieurs activités," },
+                  { "title": "Une démarche risk-management pour une solution réellement pertinente et adaptée," },
+                  { "title": "Une gestion globale de votre « problématique sécurité / sûreté »," },
+                  { "title": "Un encadrement terrain réactif et compétent pour une proximité client forte," },
+                  { "title": "Des outils et systèmes fédérateurs et ouverts, synonymes d’efficacité et de transparence," },
+                  { "title": "Une gamme de produits constructeur- Belledonne -  fiable, robuste et performante, labélisée Origine France Garantie," },
+                  { "title": "La qualité de nos missions, reconnue par les certifications métiers les plus pointues," },
+                  { "title": "Un maillage du territoire français complété par un vivier de compétences qualifiées et agréées afin de permettre une mobilisation rapide de nombreuses personnes formées et à potentiel." }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "servicesId":[14, 15, 16],
+      "newsId": [2],
+      "imgCover": "assets/img/marques/2.jpg",
+      "imgProfile": "assets/img/marques/profile/2.jpg",
+      "videoId": "GYs9s2yvj9M",
+      "title": "Services aéroportuaires",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "https://fr.groupeonet.com"
+      },
+      "content": {
+        "title": "Services aéroportuaires",
+        "keys": [
+          {"label": "collaborateurs", "nb": "750"},
+          {"label": "personnels transportés /an", "nb": "110 000"},
+          {"label": "bagages gérés /an", "nb": "+20M"},
+          {"label": "Opérations autour des avions", "nb": "61 500"},
+          {"label": "certifications", "nb": "2"}
+        ],
+        "parts": [
+          {
+            "title": "Une réponse opérationnelle et innovante aux attentes des gestionnaires d'aéroports et des compagnies aériennes.",
+            "paragraphes": [
+              { "description": "ONET Airport Services est un acteur français historique de l’assistance en escale depuis plus de 45 ans. Son expérience est reconnue dans l’assistance piste des avions passagers et cargo, et dans la gestion des flux logistiques sur les hubs de correspondance." },
+              { "description": "Chaque client est unique. Nos équipes sont flexibles et s’adaptent aux procédures des compagnies aériennes clientes." },
+              { "description": "Onet Airport Services contribue également au développement et à l’attractivité des aéroports. Les organisations sont agiles, évolutives, adaptives et anticipent continuellement les situations à venir." },
+              {
+                "accrPointsBold": "La stratégie d’Onet Airport Services s'articule autour d'enjeux majeurs :",
+                "points": [
+                  { "title": "Une fidélisation des clients et le développement du réseau commercial de nos partenaires." },
+                  { "title": "Une offre de services étendue" },
+                  { "title": "Le développement de nouveaux services et la mise en place d'organisations innovantes." },
+                  { "title": "La maîtrise des risques et la gestion du plan de continuité d'activité." },
+                  { "title": "La maitrise des process QSSE." }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Les atouts de nos services aéroportuaires",
+            "subparts": [
+              {
+                "title": "Ressources humaines",
+                "paragraphes":[
+                  { "description": "Nous savons que la qualité du dialogue social et l'anticipation sont des facteurs de réussite sur les plateformes aéroportuaires." },
+                  { "description": "La professionnalisation de nos salariés apporte aux compagnies aériennes un excellent niveau de qualité de service et l'assurance de la prise en compte des problématiques sécurité / sûreté / environnement." }
+                ]
+              },
+              {
+                "title": "Qualité",
+                "paragraphes":[
+                  { "description": "Les process QSSE constituent l'architecture opérationnelle des escales. Ils reposent sur un Système de Management Intégré (SMI). La place de la qualité dans nos organisations est centrale. La sécurité et la sûreté des vols sont au cœur des préoccupations de nos collaborateurs." },
+                  { "description": "En ce sens, l'entreprise est certifiée ISO 9001 et ISAGO." },
+                  { "description": "Pour éliminer les risques de chocs avions, et optimiser la sécurité des personnes, nous mettons en place une politique Facteur Humain (FH) ainsi qu'un Système de Gestion de la Sécurité des vols." },
+                  { "description": "En matière d'environnement, Onet Airport Services s'inscrit pleinement dans la politique des aéroports, et y contribue avec la mise en place de matériels électriques et la diminution de l'utilisation du papier par le biais de nouvelles technologies." }
+                ]
+              }             
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "servicesId":[17, 18, 19, 20],
+      "newsId": [3],
+      "imgCover": "assets/img/marques/3.jpg",
+      "imgProfile": "assets/img/marques/profile/3.jpg",
+      "videoId": "3aRL1cQZX7A",
+      "title": "Accueil",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "https://fr.groupeonet.com"
+      },
+      "content": {
+        "title": "Accueil",
+        "keys": [
+          {"label": "collaborateurs", "nb": "580"},
+          {"label": "clients satisfaits", "nb": "89%"},
+          {"label": "visiteurs accueillis /an", "nb": "385 000"},
+          {"label": "Hôtes formés /an", "nb": "+200"},
+          {"label": "certifications", "nb": "2"}
+        ],
+        "parts": [
+          {
+            "title": "Une autre vision de l'accueil",
+            "paragraphes": [
+              { "description": "Parce que chaque visiteur est potentiellement contributeur à la performance de l’entreprise: actionnaires, occupants, clients, prospects, candidats, fournisseurs, partenaires… Onet a développé une approche spécifique de son métier. " },
+              {
+                "accrPoints": "3 Convictions émanent de ce constat :",
+                "points": [
+                  { "title": "L'accueil doit être une expérience agréable mais surtout utile" },
+                  { "title": "L'accueil doit faciliter les relations et créer des connexions efficaces et efficientes entre les différents secteurs"},
+                  { "title": "L'accueil est un appui opérationnel aux fonctions supports de l'entreprise et concourt à un meilleur fonctionnement du site" }
+                ],
+                "description": "Et fondent le socle de notre positionnement différenciateur :",
+                "descriptionBold": "Onet Accueil offre des prestations qui ont une réelle utilité opérationnelle et qui créent des connexions intelligentes entres les différents acteurs et le lieu."
+              }
+              
+            ]
+          },
+          {
+            "title": "Nos atouts dans les métiers de l'accueil",
+            "paragraphes": [
+              {
+                "accrPointsBold": "Professionnel de l’accueil « Utile » et « Connecté »",
+                "points": [
+                  { "title": "Des prestations utiles, concourant au bon fonctionnement de votre site," },
+                  { "title": "Une gamme dédiée à un meilleur équilibre vie privée et professionnelle pour vos collaborateurs," },
+                  { "title": "Un système d’offre commerciale non packagée," },
+                  { "title": "Des formations métier de qualité (communication, anglais, gestion des conflits…)," },
+                  { "title": "Des outils/solutions connectés et pertinents, producteurs de valeur ajoutée," },
+                  { "title": "Des supports et documents de travail intelligents et modulables." }
+                ]
+              },
+              {
+                "accrPointsBold": "Ambassadeur de votre image",
+                "points": [
+                  { "title": "Des tenues personnalisables," },
+                  { "title": "Un sens affirmé du service," },
+                  { "title": "Une approche multi-sensorielle pour un accueil réellement propice au développement de votre entreprise." }
+                ]
+              },
+              {
+                "accrPointsBold": "Garant de votre satisfaction",
+                "points": [
+                  { "title": "Un process d’exploitation éprouvé," },
+                  { "title": "Des collaborateurs motivés et impliqués avec une politique sociale forte," },
+                  { "title": "Une relation client basée sur la performance, l’amélioration continue et la transparence," },
+                  { "title": "Une expertise large sur l’ensemble des métiers de l’accueil" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "servicesId":[21, 22, 23, 24],
+      "newsId": [4],
+      "imgCover": "assets/img/marques/4.jpg",
+      "imgProfile": "assets/img/marques/profile/4.jpg",
+      "title": "Logistique",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "https://fr.groupeonet.com"
+      },
+      "content": {
+        "title": "Logistique",
+        "keys": [
+          { "label": "m² d'entrepôts gérés", "nb": "+450 000" },
+          { "label": "collaborateurs", "nb": "740" },
+          { "label": "tonnes manutentionnés /jr", "nb": "+3000" },
+          { "label": "km parcourus", "nb": "+3M" },
+          { "label": "agences", "nb": "17" }
+        ],
+        "areas": [
+          {
+            "title": "SECTEURS D'ACTIVITES",
+            "parts":[
+              {
+                "points":[
+                  "Aéronautique",
+                  "Industrie automobile",
+                  "Industrie lourde",
+                  "Grande distribution et distribution spécialisée",
+                  "Transporteur messagerie",
+                  "Transport logistique",
+                  "Santé"
+                ]
+              } 
+            ]
+          } 
+        ],
+        "parts": [
+          {
+            "title": "Construire avec nos clients des solutions logistiques intégrées au cœur de leurs process et infrastructures",
+            "paragraphes": [
+              { "description": "Dans un monde où les échanges s'amplifient, les opérations logistiques remplissent un rôle fondamental. De l'approvisionnement en matières premières à la fiabilité de la distribution, nous maîtrisons les process logistique, contribuant ainsi au développement de l’activité de nos clients." },
+              { "description": "En implant directement chez nos clients nous adaptons notre organisation aux process de l’entreprise. En intégrant les nouvelles technologies, nous apportons notre expertise pour des prestations sur-mesure en logistique et manutention aux entreprises conscientes de l'importance de ces tâches dans leur fonctionnement quotidien." },
+              { "description": "Nous offrons toute la souplesse nécessaire à l’absorption de variation des flux. La relation de proximité que nous entretenons avec nos clients garantit leur performance et la continuité de leurs activités avec une réactivité optimale." },
+              { "description": "L'expertise et l'expérience acquises sur des secteurs à très haut niveau d'exigence comme l'aéronautique légitime notre ambition : Etre l'acteur responsable référent sur le métier de la logistique in situ." }
+            ]
+          },
+          {
+            "title": "Nos atouts en logistique",
+            "points": [
+              { "title": "Une parfaite maîtrise des techniques du métier (process, méthodes, outils…) reconnue par des certifications strictes ISO 9001, ISO 14 001 – EN 9120 (secteur aéronautique)" },
+              { "title": "Un management responsable des collaborateurs, dont la santé et la sécurité sont la priorité (lutte contre les Troubles Musculo-Squelettiques, Visite Comportementale de Sécurité, démarche POP…) dans un secteur soumis à un niveau de risques élevés" },
+              { "title": "Une expertise reconnue en ingénierie sociale" },
+              { "title": "Une montée dans la chaîne de valeur de nos clients avec de l’ingénierie logistique" },
+              { "title": "Un partenaire reconnu pour sa fiabilité, notamment au travers de son statut Opérateur Economique Agrée (OEA), son agrément Chargeur connu, badge rouge" },
+              { "title": "Une entreprise de transport engagé Objectif CO2 (Charte d'engagements volontaires de réduction des émissions de CO2 du transport routier de marchandises)" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "servicesId":[25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38],
+      "newsId": [5],
+      "imgCover": "assets/img/marques/5.jpg",
+      "imgProfile": "assets/img/marques/profile/5.jpg",
+      "videoId": "Pns_4yzGUIw",
+      "title": "Technologies",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "https://fr.groupeonet.com"
+      },
+      "content": {
+        "title": "Technologies",
+        "keys": [
+          { "label": "collaborateurs", "nb": "2 760" },
+          { "label": "ingénieurs", "nb": "400" },
+          { "label": "implantation en France", "nb": "30" }
+        ],
+        "parts": [
+          {
+            "title": "Accompagner nos clients tout au long du cycle de vie de leurs installations nucléaires et industrielles",
+            "paragraphes": [
+              { "description": "Onet Technologies dispose d'une maîtrise technologique sur l'ensemble du cycle de vie des installations nucléaires et industrielles. Présent sur le marché depuis une quarantaine d'années, Onet Technologies est spécialisé dans l' ingénierie et la maintenance des réacteurs, le démantèlement et le traitement des déchets nucléaires." },
+              { "description": "Onet Technologies dispose de ses propres installations industrielles pour l’intégration et la qualification des équipements spéciaux. Grâce à SOGEVAL, installation classée pour l’environnement (ICPE), Onet Technologies délivre des services externalisés en gestion des déchets radioactifs." },
+              { "description": "Onet Technologies développe des partenariats structurants, et investit dans le développement de technologies dans les domaines de la conception d’équipements, de l’ inspection et du contrôle des installations, du démantèlement haute activité ainsi que dans le domaine des technologies de l’information appliquées aux services nucléaires." },
+              { "description": "Disposant d’une ingénierie de plus de 400 ingénieurs et spécialistes, partenaire du label « Nuclear Expertise from France », Onet Technologies exporte son savoir-faire à l’international en Europe, au Japon et plus récemment aux États-Unis dans le cadre de l’acquisition par le Groupe Onet de la société EPM, Engineering Planning and Management, Inc. spécialisée dans l’ingénierie en analyse de sûreté et protection incendie." },
+              { "description": "La culture de la sécurité et de la sûreté, la gestion des compétences et la performance opérationnelle sont au cœur des services délivrés par Onet Technologies pour chacun de ses clients." }
+            ]
+          },
+          {
+            "title": "Les atouts d'Onet Technologies",
+            "points": [
+              { "title": "Une expérience riche au service des grands acteurs du secteur nucléaire en France : EDF, CEA, AREVA et ANDRA." },
+              { "title": "Une offre d’ingénierie et de services sur l’ensemble du cycle de vie des installations nucléaires." },
+              { "title": "Une présence sur la quasi-totalité des installations nucléaires en France." },
+              { "title": "Un développement croissant à l’ international." }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "servicesId":[39, 40, 41],
+      "newsId": [6],
+      "imgCover": "assets/img/marques/6.jpg",
+      "imgProfile": "assets/img/marques/profile/6.png",
+      "videoId": "el5g0VjLMOU",
+      "title": "Intérim, Recrutement & formation",
+      "contact": {
+        "address": {
+          "num" : "36",
+          "road": "boulevard de l'océan",
+          "cp": "13009",
+          "city": "Marseille",
+          "country": "France",
+          "lat": 43.2388359,
+          "lng": 5.398367
+        },
+        "tel": "04 91 22 23 21",
+        "website": "https://fr.groupeonet.com"
+      },
+      "content": {
+        "title": "Intérim, Recrutement & formation",
+        "keys": [
+          { "label": "clients satisfaits", "nb": "96%" },
+          { "label": "clients", "nb": "1700" },
+          { "label": "années d'expérience", "nb": "+40" },
+          { "label": "implantation en France", "nb": "56" },
+          { "label": "certifications", "nb": "5" }
+        ],
+        "parts": [
+          {
+            "title":  "Former, recruter, déléguer, pour accompagner nos clients sur leurs enjeux RH",
+            "paragraphes": [
+              { "description": "Identifier les talents, former pour développer les compétences ou  offrir de nouvelles opportunités de carrière, recruter en CDD, CDI, déléguer des femmes et des hommes qui renforcent l’activité de nos clients, … depuis plus de 40 ans, l’Humain et l’accès à l’emploi sont au cœur du métier des équipes d’Axxis." },
+              { "description": "Notre mission est d’imaginer et mettre en œuvre avec réactivité les solutions RH qui rendent plus performantes les entreprises qui nous accordent leur confiance." }
+            ]
+          },
+          {
+            "title": "Nos atouts en intérim, recrutement et formation",
+            "points": [
+              { "title": "Des domaines de spécialisation, notamment sur les secteurs réglementés (à fortes contraintes) comme le nucléaire, l'aéroportuaire, les travaux subaquatiques ou encore la maintenance industrielle" },
+              { "title": "Des certifications (Mase, Cefri I, Iso 9001, TOEIC, PCIE, titre professionnel…) qui illustrent notre engagement Qualité Sécurité" },
+              { "title": "Qualité d’adaptabilité propre à une PME" },
+              { "title": "Une structure à taille humaine proche de votre entreprise" },
+              { "title": "Une maitrise du tissu local pour plus de réactivité" },
+              { "title": "Des interlocuteurs de confiance à l’écoute de vos besoins" },
+              { "title": "Expertise dans la conception de solutions de ressources humaines sur mesure" },
+              { "title": "Réactivité et grande proximité client" }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

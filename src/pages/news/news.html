@@ -1,0 +1,54 @@
+<ion-header no-border>
+  <ion-navbar color="primary" hideBackButton="true">
+    <ion-buttons start>
+      
+    </ion-buttons>
+    <ion-title>
+      News
+    </ion-title>
+    <!--
+    <ion-buttons end>
+      <button ion-button icon-left (click)="login()"><ion-icon name="contact"></ion-icon></button>
+    </ion-buttons>-->
+  </ion-navbar>
+  <form>
+    <ion-auto-complete [dataProvider]="completeNewsService" (itemSelected)="getVal($event)" [(ngModel)]="placeholder" name="placeholder"></ion-auto-complete>
+  </form>
+</ion-header>
+<ion-content *ngIf="marques != null && dates != null && news != null">
+    <div class="splash-relative">
+      <div class="card-background">
+        <div *ngFor="let date of dates">
+          <ion-grid>
+            <ion-row>
+              <ion-col col-3>
+                <hr style="background-color:white;">
+              </ion-col>
+              <ion-col col-6 text-center>
+                  <p style="color: white; font-size:1.1em">{{cleanDates[dates.indexOf(date)]}}</p>
+              </ion-col>
+              <ion-col col-3>
+                <hr style="background-color:white;">
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+          <div *ngFor="let new of news">
+            <ion-card *ngIf="new.date == date" (click)="showDetails($event, new.id)">
+              <img [src]="new.img"/>
+              <div style="position: absolute; font-size:1.2em;bottom: 0; width: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; padding-top:8px;height: 100%">
+                <div class="card-title" *ngIf="new.marqueId==0" style= "margin-bottom: 5px;color: #0eae15"><b>{{marques[new.marqueId].title}}</b></div>
+                <div class="card-title" *ngIf="new.marqueId==1" style= "margin-bottom: 5px;color: #d01717"><b>{{marques[new.marqueId].title}}</b></div>
+                <div class="card-title" *ngIf="new.marqueId==2" style= "margin-bottom: 5px;color: #386ecd"><b>{{marques[new.marqueId].title}}</b></div>
+                <div class="card-title" *ngIf="new.marqueId==3" style= "margin-bottom: 5px;color: #cbc40e"><b>{{marques[new.marqueId].title}}</b></div>
+                <div class="card-title" *ngIf="new.marqueId==4" style= "margin-bottom: 5px;color: #cc7136"><b>{{marques[new.marqueId].title}}</b></div>
+                <div class="card-title" *ngIf="new.marqueId==5" style= "margin-bottom: 5px;color: #962ac8"><b>{{marques[new.marqueId].title}}</b></div>
+                <div class="card-title" *ngIf="new.marqueId==6" style= "margin-bottom: 5px;color: #d42649"><b>{{marques[new.marqueId].title}}</b></div>
+
+                <div class="card-subtitle" style="margin-bottom: 8px">{{new.content.title}}</div>
+              </div>
+            </ion-card>
+          </div>
+        </div>
+      </div>
+    </div>
+</ion-content>

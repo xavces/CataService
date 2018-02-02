@@ -1,0 +1,62 @@
+
+  <ion-header no-border>
+    <ion-navbar color="primary" hideBackButton="true">
+      <ion-buttons start>
+  
+      </ion-buttons>
+      <ion-title>
+        Chat-Bot
+      </ion-title>
+    <!--
+    <ion-buttons end>
+      <button ion-button icon-left (click)="login()"><ion-icon name="contact"></ion-icon></button>
+    </ion-buttons>-->
+    </ion-navbar>
+  </ion-header>
+
+<ion-content padding>
+  <div *ngFor="let message of messages" class="message-wrapper" on-hold="onMessageHold($event, $index, message)">
+    <div *ngIf="user._id !== message.userId">
+      <img class="profile-pic left" [src]="toUser.pic" />
+      <div class="chat-bubble left slide-left">
+          
+         <div class="message" [innerHTML]="message.text.speech" autolinker></div>
+          
+        <div class="message-detail">
+          <span class="bold">{{toUser.username}}</span>
+        </div>
+          
+      </div>
+    </div>
+    <div *ngIf="user._id === message.userId">
+      <img class="profile-pic right" [src]="user.pic" />
+
+      <div class="chat-bubble right slide-right">
+          
+        <div class="message" [innerHTML]="message.text" autolinker></div>
+
+        <div class="message-detail">
+          <span class="bold">{{user.username}}</span>
+        </div>
+
+      </div>
+    </div>
+    <div class="cf"></div>
+  </div>
+</ion-content>
+
+<ion-footer>
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+            <button ion-button clear (click)="listenForSpeech()"><ion-icon class="footer-btn" name="mic"></ion-icon></button>
+        </ion-col>
+        <ion-col col-8>
+            <ion-input [(ngModel)]="newMessage" placeholder="Send a message..."></ion-input>
+        </ion-col>
+        <ion-col>
+            <button ion-button clear (click)="sendMessage()"><ion-icon class="footer-btn" name="send"></ion-icon></button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+</ion-footer>

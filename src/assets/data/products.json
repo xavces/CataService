@@ -1,0 +1,983 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "idService": 0,
+      "idMarque": 0,
+      "title":"Onet Blue Quality",
+      "img": "assets/img/products/0.png",
+      "pdf": "assets/img/products/pdf/0.pdf",
+      "content": {
+        "title":"Onet Blue Quality",
+        "subtitle":"Une application dédiée au suivi des prestations",
+        "parts":[
+          {
+            "title":"Votre besoin",
+            "paragraphes": [
+              {
+                "accrPoints": "Pour l’ensemble des prestations réalisées par Onet Propreté et Services, vous attendez :",
+                "points":[
+                  { "title": "Un suivi efficace de vos prestations," },
+                  { "title": "Des indicateurs de qualité, pertinents et adaptés à votre site," },
+                  { "title": "Une transmission en toute transparence des données collectées en temps réel." }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Notre solution",
+            "paragraphes": [
+              { "description": "A destination de nos managers terrain, Onet Propreté et Services a développé l’application Android® Onet Blue Quality. " },
+              { "description": "Cette application garantit le suivi des prestations et facilite les échanges avec le client. Utilisée quotidiennement par nos chefs de sites et responsables de secteurs, elle est disponible sur tablette numérique." },
+              { "description": "Véritable bureau mobile connecté en 4G et en wifi, elle permet aussi l’accès aux outils bureautiques Onet : messagerie, gestion de tâches, agenda..." }
+            ]
+          },
+          {
+            "title": "Points remarquables",
+            "points":[
+              "+ de disponibilité de votre interlocuteur sur site",
+              "+ de réactivité face à vos demandes","+ de traçabilité des actions et reporting",
+              "+ de traçabilité des actions et reporting",
+              "- de papier pour un développement + responsable " 
+            ]
+          },
+          {
+            "title": "Fonctionnement",
+            "paragraphes": [
+              {
+                "accrPointsBold": "Pour garantir des actions concrètes et rapides à nos clients, l’application est pourvue de plusieurs fonctionnalités :",
+                "points": [
+                  {
+                    "title": "Formulaires de contrôles, rapports de visite, rapports d’intervention, bons de travaux…",
+                    "subpoints": [
+                    "adaptés aux topologies de vos sites",
+                    "illustrés par des photos terrain "
+                    ]
+                  },
+                  { "title": "Planification et gestion des interventions" },
+                  { "title": "Contrôles contradictoires avec approbation client"},
+                  { "title": "Consolidation des données, analyse et reporting" },
+                  { "title": "Transmission des rapports par mail en temps réel "}
+                ]
+              }
+            ],
+            "img": "assets/img/products/description/0.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "idService": 0,
+      "idMarque": 0,
+      "title":"Hello d'Onet: La propreté signée",
+      "img": "assets/img/products/2.jpg",
+      "pdf": "assets/img/products/pdf/1.pdf",
+      "content": {
+        "title": "Hello d'Onet: La propreté signée",
+        "parts":[
+          {
+            "title":"Votre besoin",
+            "paragraphes": [
+              {
+                "points":[
+                  { "title": "Maximisez la satisfaction de vos clients." },
+                  { "title": "Participez au bien-être de vos collaborateurs." }
+                ]
+              },
+              { "descriptionBold": "Le savier vous ?"},
+              { "description": "Il existe des liens puissants entre la propreté visuelle, l’odeur et le sentiment de propreté qui impact lui-même très significativement la sensation de confort et la satisfaction des utilisateurs." }
+            ]
+          },
+          {
+            "title": "Hello d'Onet",
+            "paragraphes": [
+              { "description": "Onet Propreté et Services propose sa fragrance Hello d’Onet afin de signer le travail de ses agents par une odeur de propre, fraîche et légère, sans allergène et non-intrusive." },
+              { "description": "Composé d’essences naturelles, Hello d’Onet s’adapte à votre environnement." },
+              { "description": "Cette solution permet de renforcer le sentiment de propreté qui émane  de vos sites." }
+            ]
+          },
+          {
+            "title": "Points remarquables Hello d'Onet",
+            "paragraphes": [
+              {
+                "points": [
+                  {
+                    "title": "Une odeur de propre non intrusive plutôt qu’un parfum :",
+                    "subpoints": [
+                      "Nourrir le sentiment de propre de manière inconsciente, sans parfumer la pièce. La fraîcheur nourrit le sentiment de propre.",
+                      "Offrir une fragrance légère pour ne pas être intrusive auprès des utilisateurs.",
+                      "La senteur est non permanente pour que l’utilisateur éprouve ce sentiment de propre sans s’y habituer et ne plus la sentir.",
+                      "Nous avons collaboré avec une entreprise innovante spécialiste de l’odorisation d’espaces publics."
+                    ]
+                  },
+                  {
+                    "title": "Des objectifs précis pour augmenter la satisfaction des utilisateurs :",
+                    "subpoints": [
+                      "Faire vivre une expérience olfactive stimulante, positive, de confort et de bien-être aux occupants. ",
+                      "Valoriser le métier de la propreté par une traçabilité olfactive de la prestation.",
+                      "Offrir un environnement de travail sain et sûr; avec des fragrances sans allergènes, ni produits de synthèse mais composées d’essences naturelles."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Des notes soigneusement choisies",
+            "img": "assets/img/products/description/1.jpg"
+          },
+          {
+            "title": "La Gamme",
+            "intro": "Hello d’Onet comprend à la fois des supports non mécaniques (embouts de cintres parfumés, billes parfumées pour aspirateurs …) et des diffuseurs actifs : du traditionnel spray multi surfaces à la sophistiquée borne PLV, qui permet de bénéficier à la fois des bienfaits d’Hello d’Onet et d’un gain de visibilité, découvrez une gamme complète et efficace.",
+            "paragraphes": [
+              {
+                "accrPoints": "Quelques exemples :",
+                "points": [
+                  {
+                    "title": "Bureaux – Zones d’accueil - Petits espaces :",
+                    "img": "assets/img/products/description/2.jpg"
+                  },
+                  {
+                    "title": "Sanitaires et lieux à forte affluence (métro, hôpitaux…) :",
+                    "img": "assets/img/products/description/3.jpg"
+                  },
+                  {
+                    "title": "Hôtellerie :",
+                    "img": "assets/img/products/description/4.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "idService": 0,
+      "idMarque": 0,
+      "title":"La solution Sanitaires Connectés",
+      "img": "assets/img/products/1.jpg",
+      "videoId": "vwtTcmh4_Dw",
+      "pdf": "assets/img/products/pdf/2.pdf",
+      "content": {
+        "title": "La solution Sanitaires Connectés",
+        "parts":[
+          {
+            "title":"Votre besoin",
+            "paragraphes": [
+              {
+                "accrPoints": "La propreté de vos sanitaires, un lieu sensible pour l’image de votre entreprise, requière une attention particulière et des outils adaptés pour :",
+                "points":[
+                  { "title": "Bénéficier de sanitaires toujours propres quel que soit le niveau de fréquentation," },
+                  { "title": "Garantir la satisfaction de vos usagers," },
+                  { "title": "Optimiser les prestations de propreté." }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Notre solution",
+            "paragraphes": [
+              { "description": "La solution sanitaires connectés révolutionne la logique des prestations de nettoyage et contribue à véhiculer une image innovante." },
+              { "description": "Installés dans vos sanitaires, des capteurs infrarouges et un boîtier de satisfaction collectent des données permettant de prioriser les actions de nettoyage en fonction du nombre d’utilisateurs et de leur satisfaction." },
+              { "description": "Cette solution contribue à véhiculer une image innovante." }
+            ]
+          },
+          {
+            "title": "Fonctionnement",
+            "paragraphes": [
+              { "description": "Un algorithme combine le comptage et la satisfaction des utilisateurs." },
+              { "description": "Lorsque le seuil critique est atteint le boîtier déclenche automatiquement une alerte." },
+              { "description": "L’agent de service sur site peut alors intervenir immédiatement pour réaliser la prestation." }
+            ]
+          },
+          {
+            "title": "Un reporting en temps réel",
+            "paragraphes": [
+              { "description": "L’ensemble des données collectées est disponible et consultable sur un extranet depuis un ordinateur, une tablette ou un smartphone." },
+              { 
+                "accrPoints": "Vous pouvez suivre, sur la périodicité de votre choix :",
+                "points": [
+                  { "title": "Le nombre de visiteurs" },
+                  { "title": "Le nombre d’interventions" },
+                  { "title": "La satisfaction des visiteurs" },
+                  { "title": "Les périodes d’affluence" },
+                  { "title": "Les heures et nombre d’interventions de nos agents" }
+                ]
+              }
+            ],
+            "img": "assets/img/products/description/5.jpg"
+          },
+          {
+            "title": "Un reporting en temps réel",
+            "paragraphes": [
+              { "description": "L’ensemble des données collectées est disponible et consultable sur un extranet depuis un ordinateur, une tablette ou un smartphone." },
+              { 
+                "accrPoints": "Vous pouvez suivre, sur la périodicité de votre choix :",
+                "points": [
+                  { "title": "Le nombre de visiteurs" },
+                  { "title": "Le nombre d’interventions" },
+                  { "title": "La satisfaction des visiteurs" },
+                  { "title": "Les périodes d’affluence" },
+                  { "title": "Les heures et nombre d’interventions de nos agents" }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Le pack Sanitaires Connectés",
+            "points": [
+              "Audit physique du site avant installation",
+              "Fourniture de la centrale, de la barrière de comptage, du boitier de satisfaction",
+              "Accès au site internet de suivi",
+              "Echange standard en cas de panne",
+              "Assistance téléphonique"
+            ]
+          },
+          {
+            "title": "Et demain...",
+            "paragraphes": [
+              { "description": "Innovante, personnalisable et évolutive, cette solution pourra être connectée à d’autres objets sanitaires du quotidien (ex : distributeurs de savon, de papier toilette)." }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "idService": 1,
+      "idMarque": 0,
+      "title":"Centre de formation santé de Valenciennes",
+      "img": "assets/img/products/3.jpg",
+      "pdf": "assets/img/products/pdf/3.pdf",
+      "content": {
+        "title": "Centre de formation santé de Valenciennes",
+        "subtitle": "Pour accompagner vos équipes dans leur montée en compétence",
+        "parts":[
+          {
+            "title":"Votre besoin",
+            "paragraphes": [
+              {
+                "description": "Les prestations de bionettoyage exigent un savoir-faire spécifique.",
+                "accrPoints": "Face à l’évolution des certifications et agréments, votre personnel doit :",
+                "points":[
+                  { "title": "Acquérir les compétences nécessaires pour intervenir en établissement de santé," },
+                  { "title": "Maintenir et faire évoluer ces compétences au cours de leur carrière." }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Notre solution",
+            "paragraphes": [
+              { "description": "Onet a créé un centre de formation santé à proximité du centre hospitalier de Valenciennes." },
+              { "description": "Il vise à professionnaliser les personnels intervenant en milieu hospitalier." }
+            ]
+          },
+          {
+            "title": "Points remarquables",
+            "paragraphes": [
+              { 
+                "accrPoints": "Une intervenante experte avec 13 années d’expérience dans le secteur :",
+                "points": [
+                  { "title": "Une reproduction à l’identique de l’environnement de travail pour une mise en situation optimale de l’agent" },
+                  { "title": "Un apprentissage des techniques de bionettoyage, gestes et comportements, adaptés au rythme de l’agent" },
+                  { "title": "Une approche pédagogique multi-modale, complétée par un suivi des acquis sur le terrain après la formation" },
+                  { "title": "Une insertion favorisée des agents en milieu professionnel" }
+                ]
+              },
+              { "description": "Lorsque le seuil critique est atteint le boîtier déclenche automatiquement une alerte." },
+              { "description": "L’agent de service sur site peut alors intervenir immédiatement pour réaliser la prestation." }
+            ]
+          },
+          {
+            "title": "Une offre de formation efficace",
+            "paragraphes": [
+              { "description": "Dirigé par une cadre hygiéniste-formatrice, ce centre a pour vocation la montée en compétence des agents de bionettoyage à travers un contenu de formation adapté aux bonnes pratiques d'hygiène." }
+            ],
+            "subparts": [
+              {
+                "title": "THÉMATIQUES DE CONTENU DE LA FORMATION",
+                "paragraphes": [
+                  {
+                    "accrPoints": "Précautions standards :",
+                    "points": [
+                      { "title": "Préventions des Infections Associées aux Soins (IAS)" },
+                      { "title": "Hygiène des mains" },
+                      { "title": "Tenue professionnelle" },
+                      { "title": "Equipements de Protection Individuelle (EPI)" },
+                      { "title": "Prévention des Accidents d’Exposition au Sang (AES)" },
+                      { "title": "Circuit du linge" },
+                      { "title": "Circuit des déchets" },
+                      { "title": "Techniques de bionettoyage" }
+                    ]
+                  },
+                  {
+                    "accrPoints": "Précautions complémentaires :",
+                    "points": [
+                      { "title": "Choix des équipements en fonction du risque identifié" }
+                    ]
+                  }
+                ],
+                "img": "assets/img/products/description/6.jpg"
+              },
+              {
+                "title": "MODES D'APPRENTISSAGE DE LA FORMATION",
+                "paragraphes": [
+                  { 
+                    "descriptionBold": "En salle plénière auprès de 10 apprenants au maximum",
+                    "objectif": "comprendre la méthodologie de travail attendue et les risques encourus"
+                  },
+                  {
+                    "descriptionBold": "En compagnonnage",
+                    "objectif": "accompagner l’agent apprenant sur son lieu d’exercice,observer ses pratiques et les corriger en instantané par des conseils pédagogiques"
+                  },
+                  {
+                    "descriptionBold": "E-learning dans notre espace collaboratif",
+                    "objectif": "acquérir les fondamentaux du bionettoyage sur un support interactif qui s’adapte au rythme de l’agent"
+                  },
+                  {
+                    "descriptionBold": "Par mimétisme à partir de vidéos déposées illustrant les gestes métiers étapes par étapes",
+                    "objectif": "Consulter sur tous supports informatiques ces illustrations des gestes métier permettant aussi une auto-formation de l’agent sur le terrain"
+                  }
+
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Un environnement optimal",
+            "paragraphes": [
+              { 
+                "accrPoints": "Notre centre dispose de tous les équipements nécessaires pour le bon accueil des stagiaires :",
+                "points": [
+                  { "title": "Une connexion wifi disponible à tous" },
+                  { "title": "Un lieu conçu pour faciliter l’échange et la convivialité" },
+                  { "title": "Un espace détente pour se restaurer" },
+                  { "title": "Un accès à toutes les commodités du Centre Hospitalier de Valenciennes" }
+                ]
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "name": "Onet propreté et Services - Centre de Formation",
+          "address": {
+            "num": "CEDRA PARK 183",
+            "road": "Avenue Désandrouin",
+            "cp": "59300",
+            "city": "VALENCIENNES",
+            "country": "France"
+          },
+          "tel": "03 27 46 92 06",
+          "interlocuteur": {
+            "name": "Didier Mikolajczyk",
+            "email": "dmikolajczyk@onet.fr"
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "idService": 2,
+      "idMarque": 0,
+      "title": "Le nettoyage cryogénique",
+      "img": "assets/img/products/4.png",
+      "pdf": "assets/img/products/pdf/4.pdf",
+      "content": {
+        "title": "Le nettoyage cryogénique",
+        "subtitle":"Une solution respectueuse de votre support et de l’environnement",
+        "parts": [
+          {
+            "title": "Nettoyage des supports fragiles, exigus ou électrifiés",
+            "paragraphes": [
+              { "description": "Dans des milieux d’exploitation très contraints, vos supports fragiles, exigus ou électrifiés, nécessitent une méthode de nettoyage sèche, efficiente et respectueuse de l’environnement." }
+            ]
+          },
+          {
+            "title": "Le nettoyage cryogénique",
+            "paragraphes": [
+              { "description": "C’est avec la volonté de développer des solutions de propreté et d’entretien toujours plus performantes et adaptées à vos besoins, qu’ Onet Propreté et Services vous propose le nettoyage cryogénique." },
+              { "description": "Délicate ou agressive, la pression de nettoyage s’adapte à tous les matériaux des secteurs particulièrement maculés comme l’automobile ou l’agroalimentaire. Cette technique originale et écologique représente un réel intérêt en termes de rentabilité et d’efficacité." }
+            ],
+            "img": "assets/img/products/description/7.png"
+          },
+          {
+            "title": "Points remarquables du nettoyage cryogénique",
+            "points": [
+              "Principe propre, sans eau, ni solvant, ni produit chimique",
+              "Rapidité d’exécution du processus,",
+              "Méthode sèche compatible avec le matériel électrique,",
+              "Facilité d’accès aux espaces réduits,",
+              "Respect du matériel par une intensité réglable de la projection,",
+              "Gaz inerte et non-toxique,",
+              "Aucun déchet secondaire"
+            ]
+          },
+          {
+            "title": "Fonctionnement du nettoyage cryogénique",
+            "paragraphes": [
+              { "description": "Les pellets de glace carbonique sont projetés par un flux d’air comprimé. L’association du froid intense et du choc mécanique provoque le détachement des souillures. La glace carbonique se sublime instantanément après avoir assuré le nettoyage." },
+              { "description": " Reste un déchet pur et plus facile à traiter." }
+            ],
+            "img": "assets/img/products/description/8.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "idService": 2,
+      "idMarque": 0,
+      "title":"Fabrication et vente de glace carbonique",
+      "img": "assets/img/products/5.jpg",
+      "pdf": "assets/img/products/pdf/5.pdf",
+      "content": {
+        "title":"Fabrication et vente de glace carbonique",
+        "subtitle":"Une solution pour le maintien de la chaîne du froid",
+        "parts":[
+          {
+            "title":"Maintien au froid dans les milieux contraints",
+            "paragraphes": [
+              { "description": "Dans les milieux alimentaires, chimiques, voire informatiques, vos produits ou process nécessitent un maintien au froid par une solution efficace sans eau, ni solvant, ni produit chimique." }
+            ]
+          },
+          {
+            "title": "Production de pellets de glace carbonique",
+            "paragraphes": [
+              { "description": "Au sein de nos agences de Saint-Nazaire et Clermont-Ferrand, nous assurons une production de pellets de glace carbonique de 3 à 16 mm de diamètre." },
+              { "description": "A une température de -78,5°C, la glace carbonique appelée aussi glace sèche a un pouvoir frigorifique deux fois supérieur à celui de la glace hydrique tout en ayant un poids et un volume inférieur. La glace sèche est considérée comme une technique respectueuse de l'environnement." },
+              { "description": "En passant directement de l’état solide à l’état gazeux, la glace carbonique ne passe par une phase liquide qui n’altère donc pas vos produits et emballages." },
+              { "descriptionBold": "Le saviez-vous : 1 kg de glace carbonique est capable de congeler 10 litres d’eau à -15°C."}
+            ]
+          },
+          {
+            "title": "Les avantages de la glace carbonique",
+            "points":[
+              "Non-toxique,",
+              "Inerte",
+              "Incolore",
+              "Indolore",
+              "Neutre au goût pour les aliments à proximité",
+              "Sans résidu,",
+              "Tarifs compétitifs."
+            ]
+          },
+          {
+            "title": "Application avec les pellets de glace carbonique",
+            "points": [
+              "Conservation et transport dans l’industrie agroalimentaire ou de produits médico-pharmaceutiques,",
+              "Transport d’aliments frais sans moyens mécanique,",
+              "Inertage des cuves et contrôle de la fermentation dans la viticulture,",
+              "Haute cuisine d’avant-garde (cuisine moléculaire),",
+              "Production de fumée pour le divertissement,",
+              "Elimination des nuisibles,",
+              "Nettoyage et gommage cryogénique."
+            ],
+            "img": "assets/img/products/description/7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "idService": 2,
+      "idMarque": 0,
+      "title":"Le gommage cryogénique",
+      "img": "assets/img/products/6.jpg",
+      "pdf": "assets/img/products/pdf/6.pdf",
+      "content": {
+        "title":"Le gommage cryogénique",
+        "subtitle":"Une alternative aux techniques de sablage",
+        "parts":[
+          {
+            "title":"Une solution de décapage puissante mais respectueuse des supports",
+            "paragraphes": [
+              { "description": "Particulièrement exposés aux pollutions fortement adhérentes ou la rouille profonde,  les milieux d’exploitation très contraints nécessitent une solution de décapage puissante mais respectueuse des  supports." }
+            ]
+          },
+          {
+            "title":"Le gommage cryogénique",
+            "paragraphes": [
+              { "description": "Combinant l’avantage du nettoyage cryogénique et du sablage, le gommage cryogénique s’adapte à tous les matériaux des secteurs particulièrement maculés comme l’automobile, ou le secteur nautique. Cette technique originale et écologique représente un réel intérêt en termes de rentabilité et d’efficacité." }
+            ]
+          },
+          {
+            "title": "Points remarquables",
+            "points": [
+              "Rapidité et homogénéité du process",
+              "Décapage proche du sablage, tout en divisant jusqu’à 20 fois l’apport d’abrasif,",
+              "Diminution notable des déchets secondaires,",
+              "Méthode sèche compatible avec le matériel électrique,",
+              "Facilité d’accès aux espaces réduits,",
+              "Principe propre, sans eau, ni solvant, ni produit chimique,",
+              "Gaz inerte et non-toxique."
+            ]
+          },
+          {
+            "title":"Fonctionnement",
+            "paragraphes": [
+              { "description": "Les pellets de glace carbonique combinés à un granulat organique ou minéral sont projetés par un flux d’air comprimé. L’association du froid intense et du choc mécanique provoque le décapage des surfaces. La glace carbonique se sublime instantanément après avoir assuré le nettoyage." },
+              { "description": "Reste un déchet pur ainsi qu’un volume limité de granulats plus facile à traiter." }
+            ],
+            "img": "assets/img/products/description/9.png"
+          },
+          {
+            "title": "Application du gommage cryogénique",
+            "points":[
+              "Rénovation et décapage des pièces mécaniques,",
+              "Rénovation et décapage des coques de bateaux,",
+              "Nettoyage et restauration de bâtiments,",
+              "Préparation des surfaces et traitement des soudures avant peinture,",
+              "Dérouillage, décapage de peinture ou graffiti,",
+              "Décapage avec refroidissements pour éviter les déformations thermiques." 
+            ],
+            "img": "assets/img/products/description/10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "idService": 5,
+      "idMarque": 0,
+      "title": "Le pilotage de la filière déchets avec Green Flow",
+      "img": "assets/img/products/7.jpg",
+      "pdf": "assets/img/products/pdf/7.pdf",
+      "content": {
+        "title":"Le pilotage de la filière déchets avec Green Flow",
+        "parts":[
+          {
+            "title":"Valoriser les déchets",
+            "paragraphes": [
+              { "description": "Les sites de nos clients ont besoin d’une solution globale pour un système de valorisation des déchets performant." },
+              {
+                "accrPoints": "Cette solution doit permettre :",
+                "points": [
+                  { "title": "La traçabilité" },
+                  { "title": "Le reporting" },
+                  { "title": "L'optimisation de l'organisation interne" }
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Solution de pilotage de la filière déchets d’un site",
+            "paragraphes": [
+              { "description": "La solution GREEN FLOW est une application connectée permettant le pilotage de la filière déchets d’un site par les équipes Onet Propreté et Services." },
+              { "description": "L’utilisation de terminaux mobiles, de capteurs de niveaux, de bascules de pesée bluetooth ou encore de puces NFC permet la remontée d’informations terrain vers l’application qui synthétise toutes ces données afin de faciliter le suivi de la filière déchets." },
+              { "description": "L’utilisateur dispose d’indicateurs détaillés pour chaque étape du process de gestion des déchets permettant un réel suivi et contrôle de la filière déchets. " }
+            ]
+          },
+          {
+            "title": "Points remarquables de Green Flow",
+            "points": [
+              "Notre agent est le pilote et l’unique interlocuteur de l’activité déchets pour le compte du client.",
+              "Notre agent assure la gestion des flux internes de déchets mais assure également le suivi de l’évacuation de ces flux vers les filières de valorisations agréées.",
+              "Pour un suivi en temps réel, notre agent dispose d’un terminal mobile connecté permettant la remontée d’informations terrain afin d’alerter le chef de site et ainsi anticiper les actions correctives et préventives : la réactivité des agents est ainsi optimisée.",
+              "La planification des tâches est réalisée automatiquement en fonction de l’évolution de la vie du site, l’agent répond à un besoin et agit en véritable partenaire du client."
+            ]
+          },
+          {
+            "title":"Fonctionnement de Green Flow",
+            "paragraphes": [
+              { "description": "Les équipes d’exploitation d’Onet Propreté et Services assurent de façon automatisée la gestion des expéditions, le suivi administratif ou encore le reporting d’exploitation ou environnemental. La traçabilité est ainsi maîtrisée sur l’ensemble de cette chaîne de valeur. " }
+            ],
+            "subparts": [
+              {
+                "title": "Traçabilité",
+                  "points": [
+                  "Suivi des flux internes : poids / volume des déchets collectés par catégorie de déchets /occupant / zone de production",
+                  "Suivi des performances de tri",
+                  "Suivi des évacuations : demandes d’enlèvements automatiques par mail et/ou sms, élaboration automatique du Bordereau de suivi de Déchets"
+                  ]
+              },
+              {
+                "title": "Reporting",
+                "points": [
+                  "Rapport d’exploitation mensuel et annuel",
+                  "Rapport environnemental",
+                  "Rapport d’anomalies",
+                  "Registre réglementaire déchets",
+                  "Rapports disponibles sur une interface dédiée au client"
+                ]
+              },
+              {
+                "title": "Optimisation de l’organisation interne",
+                "points": [
+                  "Remontée des anomalies terrain pour la réalisation d’un plan d’actions ",
+                  "Localisation des conteneurs sur un plan masse du site et suivi du taux de remplissage pour une évacuation à la demande",
+                  "Organisation automatique de la collecte en fonction du taux de remplissage et de la localisation des conteneurs"
+                ]
+              }
+            ],
+            "img": "assets/img/products/description/11.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "idService": 9, 
+      "idMarque": 1,
+      "title":"EXOSPHERE",
+      "img": "assets/img/products/8.jpg",
+      "videoId": "bmctCqhJYuA",
+      "pdf": "assets/img/products/pdf/8.pdf",
+      "content": {
+        "title": "EXOSPHERE",
+        "subtitle": "Unité de Surveillance Mobile : PC Mobile et Aérostat",
+        "parts":[
+          {
+            "title": "Votre besoin en sécurité",
+            "paragraphes": [
+              {
+                "accrPoints": "Les sites sensibles étendus, les événements, les chantiers isolés, les espaces industriels… nécessitent le déploiement d’un renfort de sécurité permettant de :",
+                "points": [
+                  {"title": "Surveiller des zones étendues et/ou isolées"},
+                  {"title": "Gérer une crise et/ou un événement"},
+                  {"title": "Upgrader temporairement un dispositif de sécurité existant"},
+                  {"title": "Déployer rapidement une solution autonome en énergie"},
+                  {"title": "Reprendre un pc en panne ou indisponible"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Unité de surveillance mobile Exosphère",
+            "paragraphes": [
+              {
+                "description": "L’unité de surveillance mobile EXOSPHERE permet de renforcer la sécurité sur un site ou événement sensible grâce au déploiement rapide de moyens d’observation, de détection et de traitement des signaux."
+              },
+              {
+                "descriptionBold": "Une solution clé en main, projetable en 24H*, pour la surveillance temporaire de vos sites, événements…",
+                "accrPoints": "Notre offre :",
+                "points": [
+                  {"title": "Un PC Mobile autonome et un aérostat de surveillance aérienne,"},
+                  {"title": "Une équipe de personnes hautement qualifiées."}
+                ]
+              },
+              {
+                "description": "*Sous réserve des conditions climatiques et des autorisations nécessaires. "
+              }
+            ]
+          },
+          {
+            "title": "Points remarquables d'Exopshère",
+            "paragraphes": [
+              {
+                "points": [
+                  {
+                    "title": "Modularité",
+                    "subpoints" : [
+                      "Vidéosurveillance de zone ou de proximité",
+                      "Reprise de signaux d’un PC fixe",
+                      "Gestion des alarmes",
+                      "Accueil et gestion des badges et clés"
+                    ]
+                  },
+                  {
+                    "title": "Qualité de l’observation",
+                    "subpoints" : [
+                      "Mât télescopique : vision à 8.5 m de hauteur",
+                      "Aérostat : vision à 150 m au-dessus du sol"
+                    ]
+                  },
+                  {
+                    "title": "Mobilité et autonomie",
+                    "subpoints" : [
+                      "Déplacement sur tout type de terrain",
+                      "Autonomie électrique"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Fonctionnement Exosphère",
+            "paragraphes": [
+              {
+                "accrPoints": "Nos opérateurs utilisent les dernières technologies de vidéosurveillance intelligente pour détecter toute anomalie :",
+                "points": [
+                  {"title": "Détection intrusion,"},
+                  {"title": "Détection feu,"},
+                  {"title": "Bagage abandonné,"},
+                  {"title": "Gestion de foule,"},
+                  {"title": "Arrêt véhicule interdit…"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Applications en sécurité",
+            "paragraphes": [
+              {
+                "points": [
+                  {"title": "Grands rassemblements"},
+                  {"title": "Manifestations culturelles"},
+                  {"title": "Evénements sportifs"},
+                  {"title": "Sites sensibles"},
+                  {"title": "Convois sensibles en stationnement"},
+                  {"title": "Chantiers isolés"},
+                  {"title": "Espaces industriels de grande surface"},
+                  {"title": "Reprise de PC en panne ou indisponible"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "idService": 10,
+      "idMarque": 1,
+      "title":"B.NET 2018 : Bouton virtuel anti-agression",
+      "img": "assets/img/products/9.png",
+      "pdf": "assets/img/products/pdf/9.pdf",
+      "content": {
+        "title": "B.NET 2018 : Bouton virtuel anti-agression",
+        "parts":[
+          {
+            "title": "Votre besoin",
+            "paragraphes": [
+              {
+                "accrPoints": "Les sites bancaires, tertiaires et industriels, nécessitent la mise en place de solutions de sécurité permettant :",
+                "points": [
+                  {"title": "De protéger les personnes, bâtiments, valeurs et installation"},
+                  {"title": "D'informer en temps réel des incidents"},
+                  {"title": "De répondre aux attentes de simplicité d'utilisation des collaborateurs"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Notre solution",
+            "paragraphes":[
+              {"description": "Onet Sécurité Telem intègre dans sa suite logicielle B.net un module de gestion d’alarmes centralisé permettant d’assurer à distance et en temps réel la sécurité des collaborateurs."},
+              {"description": "Un simple clic sur une icône positionnée sur le poste informatique déclenche l’envoi d’un message d’alerte au centre de télésurveillance. Celui-ci identifie le site et le poste à l’origine de l’alarme grâce à l’adresse IP transmise par le module."},
+              {"description": "Le service de télésurveillance reçoit donc l’ensemble des informations nécessaires pour répondre de manière optimale grâce aux consignes appropriées."}
+            ]
+          },
+          {
+            "title": "Points remarquables",
+            "paragraphes":[
+              {
+                "points": [
+                  {"title": "Sécurisation optimale : remontées d’alarmes en temps réel"},
+                  {"title": "Simplicité de l’interface : une seule page Web pour paramétrer l’outil"},
+                  {"title": "Economique : offre logicielle uniquement, aucun équipement requis"},
+                  {"title": "Personnalisation : gestion jusqu'à 10 types d’alarmes différents"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Caractéristiques",
+            "paragraphes":[
+              {
+                "points": [
+                  {"title": "Identification par code site et adresse IP"},
+                  {"title": "Gestion par site des séquences d’appels et de fréquences d’appels à la télésurveillance"},
+                  {"title": "Fonction copier/coller pour un paramétrage plus rapide"},
+                  {"title": "Compatible frontal F1"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "B.NET",
+            "paragraphes":[
+              {"description": "La solution logicielle B.net est une solution de gestion de parc simple et efficace."},
+              {
+                "accrPoints": "Elle permet de :",
+                "points": [
+                  {"title": "gérer et de superviser en temps réel et à distance l’ensemble des sites"},
+                  {"title": "consulter et modifier les données à partir d’un simple navigateur internet"},
+                  {"title": "définir les droits d’utilisation selon le profil utilisateur"},
+                  {"title": "tracer et analyser les événements"},
+                  {"title": "interconnecter et synchroniser le dispositif de sécurité aux différents systèmes de l’entreprise"}
+                ]
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "address": {
+            "num": "16",
+            "road": "rue de l'étang - ZI de Mayencin",
+            "cp": "38610",
+            "city": "Gieres",
+            "country": "France"
+          },
+          "tel": "04 76 51 70 71",
+          "interlocuteur": {
+            "email": "telem@telemsa.com"
+          }
+        }
+      }
+    },
+    {
+      "id": 10,
+      "idService": 10,
+      "idMarque": 1,
+      "title":"Superviseur graphique Belledonne",
+      "img": "assets/img/products/10.jpg",
+      "pdf": "assets/img/products/pdf/10.pdf",
+      "content": {
+        "title": "Superviseur graphique Belledonne",
+        "parts":[
+          {
+            "title": "Votre besoin en solutions de sécurité",
+            "paragraphes": [
+              {
+                "accrPoints": "Les sites bancaires, tertiaires et industriels, nécessitent la mise en place de solutions de sécurité permettant :",
+                "points": [
+                  {"title": "De protéger les personnes, bâtiments, valeurs et installation"},
+                  {"title": "De disposer d'une vision complète du site à sécuriser"},
+                  {"title": "D'être informé en temps réel des incidents"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Le superviseur graphique Belledonne",
+            "paragraphes":[
+              {"description": "Le superviseur graphique Belledonne vous offre une vision globale et cartographiée de l'ensemble de vos installations et vous permet d'être informé en temps réel des incidents survenant sur votre site."},
+              {"description": "Notre approche graphique ciblée vous permet d'améliorer le pilotage de votre site et d'interagir directement sur les points de sécurité en quelques clics."}
+            ]
+          },
+          {
+            "title": "Points remarquables de la solution de sécurité Belledonne",
+            "paragraphes":[
+              {
+                "points": [
+                  {"title": "Intégration complète et ergonomique dans la plateforme Belledonne.net."},
+                  {"title": "Affichage 3D des plans des bâtiments pour une visualisation optimale des locaux et des points de sécurité."},
+                  {"title": "Facilité d'utilisation grâce à une librairie de symboles évolutive et personnalisable."},
+                  {"title": "Interface adaptée à l'utilisation tactile."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Fonctionnement de Belledonne",
+            "paragraphes":[
+              {
+                "points": [
+                  {"title": "1: Déclenchement d'une alarme par un incident survenu sur un point de sécurité. "},
+                  {"title": "2: Transmission immédiate, automatique et précise de l'information sur le plan 3D du poste de supervision."},
+                  {"title": "3: Levée de doute réalisée par l'opérateur."},
+                  {"title": "4: Saisie du rapport d'évènement et consignation dans la main courante."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Pour aller plus loin : L'hyperviseur graphique",
+            "paragraphes":[
+              {"description": "La solution Belledonne est compatible avec les principales solutions d'hypervision graphique.."},
+              {"description": "Parfaitement adapté à la gestion de plans multisite, l'hyperviseur graphique offre la possibilité d'interagir sur les différents systèmes du bâtiment (intrusion, contrôle d'accès, vidéoprotection, sécurité incendie, éclairage, comptage d'énergie...) pour un pilotage centralisé de l'ensemble des installations techniques."}
+            ]
+          }
+        ],
+        "contact": {
+          "address": {
+            "num": "16",
+            "road": "rue de l'étang - ZI de Mayencin",
+            "cp": "38610",
+            "city": "Gieres",
+            "country": "France"
+          },
+          "tel": "04 76 51 70 71",
+          "interlocuteur": {
+            "email": "telem@telemsa.com"
+          }
+        }
+      }
+    },
+    {
+      "id": 11,
+      "idService": 12,
+      "idMarque": 1,
+      "title":"Maîtriser les risques inhérents aux sites sans surveillance",
+      "img": "assets/img/products/11.jpg",
+      "pdf": "assets/img/products/pdf/11.pdf",
+      "content": {
+        "title": "Maîtriser les risques inhérents aux sites sans surveillance",
+        "parts":[
+          {
+            "title": "Sécurité des sites ouverts",
+            "paragraphes": [
+              {"description":"Particulièrement exposés aux actes de malveillance, car souvent mal délimités, les sites ouverts (chantiers, friches, locaux inhabités…) présentent de multiples risques : vols de matériaux et d’équipements techniques, incendies volontaires, dégradations diverses, occupations non autorisées..."},
+              {
+                "accrPoints": "Le besoin de mise en sécurité est donc primordial pour :",
+                "points": [
+                  {"title": "Assurer la sûreté des biens et des installations"},
+                  {"title": "Assurer la sécurité des personnes"},
+                  {"title": "Intervenir rapidement en cas d'incident"}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Un système vidéo de détection-intrusion sans fil avec levée de doute",
+            "paragraphes":[
+              {"description": "La conception, l'installation et la maintenance d’un système vidéo de détection-intrusion sans fil avec levée de doute, parfaitement adapté aux caractéristiques des ces sites."},
+              {"description": "Egalement experts en télésurveillance (2 PCS - APSAD P3) et en sécurité humaine, nous pouvons assurer la réception et la gestion des alarmes, ainsi que l’intervention si nécessaire."}
+            ]
+          },
+          {
+            "title": "Points remarquables du système vidéo de détection-intrusion sans fil",
+            "paragraphes":[
+              {
+                "points": [
+                  {"title": "Composé d’une centrale d’alarme et de détecteurs de mouvement avec caméra infrarouge grand angle, le système permet de détecter les tentatives d’intrusion, de jour comme de nuit. La levée de doute vidéo assurée par le télésurveilleur permet de vérifier la pertinence de l’information, et évite les alarmes intempestives."},
+                  {
+                    "title": "Le système sans fil permet une installation facile aux endroits stratégiques, et reste totalement autonome :",
+                    "subpoints":[
+                      "Pas de raccordement au 220v, car alimenté par piles au lithium haute durabilité,",
+                      "Pas de raccordement au réseau téléphonique commuté RTC, car muni d’un transmetteur GSM."
+                    ]
+                  },
+                  {"title": "Les équipements résistent aux intempéries et supportent les variations de température comprises entre -20°C et 60°C."}
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Fonctionnement du système vidéo de détection-intrusion sans fil",
+            "paragraphes":[
+              {"description": "En cas d’intrusion, le système capture une vidéo de 10 secondes aussi bien de jour que de nuit."},
+              {"description": "Celle-ci est immédiatement envoyée à un centre de télésurveillance ou vers un GSM."},
+              {"description": "En cas de fausse alarme, le centre de télésurveillance peut grâce à la levée de doute neutraliser l’alarme à distance ou, dans le cas contraire, faire intervenir un agent de sécurité."}
+            ]
+          },
+          {
+            "title": "Onet Sécurité",
+            "paragraphes":[
+              {"description": "Des solutions de sécurité à forte valeur ajoutée combinant moyens humains et technologiques."},
+              {"description": "Certifié NF Service et Apsad en Détection Intrusion et Vidéosurveillance. "}
+            ]
+          }
+        ],
+        "contact": {
+          "address": {
+            "num": "16",
+            "road": "rue de l'étang - ZI de Mayencin",
+            "cp": "38610",
+            "city": "Gieres",
+            "country": "France"
+          },
+          "tel": "04 76 51 70 71",
+          "interlocuteur": {
+            "email": "telem@telemsa.com"
+          }
+        }
+      } 
+    }
+  ]
+}

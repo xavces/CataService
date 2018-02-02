@@ -1,0 +1,195 @@
+<ion-content *ngIf="marques != null && news != null && services != null" padding style="border-top: 20px solid #488aff">
+  <ion-header no-border style="background-color: rgba(0, 0, 0, 0.2)">
+    <ion-navbar color="primary" hideBackButton="true">
+      <ion-buttons start>
+          <button ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon></button> 
+      </ion-buttons>
+      <ion-title>
+
+      </ion-title>
+      <ion-buttons end>
+        
+      </ion-buttons>
+    </ion-navbar>
+  </ion-header>
+  <div id="profile-bg" [ngStyle]="{'background-image': 'url(' + marques[marqueId].imgCover +')'}"></div>
+  <div id="content">
+    <ion-card>
+      <ion-card-content>
+        <div id="profile-info" padding>
+          <div style="position: absolute; left:35%; right:35%; z-index: 1000">
+              <img id="profile-image" [src]="marques[marqueId].imgProfile">
+          </div>
+          <h3 id="profile-name">{{marques[marqueId].content.title}}</h3>
+          <br>
+          <div *ngIf="marques[marqueId].content.citation">
+            <h4 style="font-size: 1.4em">{{marques[marqueId].content.citation}}</h4>
+            <br>
+          </div>
+          <div *ngIf="marques[marqueId].videoId" class="button-video">
+            <ion-grid>
+              <ion-row>
+                <ion-col>
+                    <button *ngIf="marqueId == 0" ion-button small style="background-color: #0eae15" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                    <button *ngIf="marqueId == 1" ion-button small style="background-color: #d01717" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                    <button *ngIf="marqueId == 2" ion-button small style="background-color: #386ecd" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                    <button *ngIf="marqueId == 3" ion-button small style="background-color: #cbc40e" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                    <button *ngIf="marqueId == 4" ion-button small style="background-color: #cc7136" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                    <button *ngIf="marqueId == 5" ion-button small style="background-color: #962ac8" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                    <button *ngIf="marqueId == 6" ion-button small style="background-color: #d42649" (click)="replayVideo()">Rejouer la vidéo &nbsp;&nbsp;<ion-icon name="logo-youtube" style="color: white"></ion-icon></button>
+                </ion-col>
+              </ion-row>
+            </ion-grid>
+          </div>
+          <hr>
+
+          <div *ngIf="marques[marqueId].content.keys != null" class="keys">
+            <ion-scroll zoom="false" scrollX="true" class="scroll">
+              <ion-grid>
+                <ion-row text-center>
+                  <ion-col *ngFor="let key of marques[marqueId].content.keys">
+                    <ion-badge *ngIf="marqueId == 0" style="background-color: #0eae15"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <ion-badge *ngIf="marqueId == 1" style="background-color: #d01717"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <ion-badge *ngIf="marqueId == 2" style="background-color: #386ecd"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <ion-badge *ngIf="marqueId == 3" style="background-color: #cbc40e"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <ion-badge *ngIf="marqueId == 4" style="background-color: #cc7136"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <ion-badge *ngIf="marqueId == 5" style="background-color: #962ac8"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <ion-badge *ngIf="marqueId == 6" style="background-color: #d42649"><div style="margin-top: 35px;">{{key.nb}}</div></ion-badge>
+                    <div class="descr">
+                      <p class="max-width: 150px;">{{key.label}}</p>
+                    </div>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-scroll>
+            <hr>
+          </div>
+          <div *ngIf="marques[marqueId].content.areas != null">
+            <br>
+            <div *ngFor="let areasCats of marques[marqueId].content.areas">
+              <h3 style="font-size: 1.2em" *ngIf="areasCats.title">{{areasCats.title}}</h3>
+              <br>
+              <div *ngIf="areasCats.parts">
+                <div *ngFor="let part of areasCats.parts">
+                  <h4 *ngIf="part.title">{{part.title}}</h4>
+                  <p *ngIf="part.subtitle">{{part.subtitle}}</p>
+                  <p *ngIf="part.description">{{part.description}}</p>
+                  <div *ngIf="part.points" style="margin-bottom:20px;" text-center>
+                    <ion-scroll zoom="false" scrollX="true" class="scroll">
+                      <ion-row text-center>
+                        <div class="mother">
+                          <div style="white-space: nowrap;" *ngFor="let area of part.points" class="area" style="margin-right:5px;">
+                            <ion-badge style="background-color: #0eae15" *ngIf="marqueId == 0" (click)="show($event)">{{area}}</ion-badge>
+                            <ion-badge style="background-color: #d01717" *ngIf="marqueId == 1" (click)="show($event)">{{area}}</ion-badge>
+                            <ion-badge style="background-color: #386ecd" *ngIf="marqueId == 2" (click)="show($event)">{{area}}</ion-badge>
+                            <ion-badge style="background-color: #cbc40e" *ngIf="marqueId == 3" (click)="show($event)">{{area}}</ion-badge>
+                            <ion-badge style="background-color: #cc7136" *ngIf="marqueId == 4" (click)="show($event)">{{area}}</ion-badge>
+                            <ion-badge style="background-color: #962ac8" *ngIf="marqueId == 5" (click)="show($event)">{{area}}</ion-badge>
+                            <ion-badge style="background-color: #d42649" *ngIf="marqueId == 6" (click)="show($event)">{{area}}</ion-badge>
+                          </div>
+                        </div>
+                      </ion-row>
+                    </ion-scroll>
+                  </div>
+                </div>
+              </div>
+              <p *ngIf="areasCats.conclusion"></p>
+            </div>
+            <hr>
+          </div>
+          <div *ngIf="marques[marqueId].newsId">
+            <h3 style="font-size:1.2em" *ngIf="marques[marqueId].newsId != null">News &amp; Infos</h3>
+            <br>
+            <div *ngIf="marques[marqueId].newsId != null" style="position: relative; height: 150px; margin-bottom: 20px;">
+              <ion-slides pager>
+                <ion-slide *ngFor="let index of marques[marqueId].newsId">
+                  <div (click)="showNews($event, index)">
+                    <img [src]="news[index].img">
+                    <div style="position: absolute; top: 20%; right:10%; left:10%; width: 80%; background-color: rgba(0, 0, 0, 0.5); color: white; padding-top:20px; padding-bottom: 20px;">
+                      {{news[index].title}}
+                    </div>
+                  </div>
+                </ion-slide>
+              </ion-slides>
+            </div>
+            <hr>
+          </div>
+          <div *ngIf="marques[marqueId].content.parts != null">
+            <div *ngFor="let part of marques[marqueId].content.parts">
+              <h3 *ngIf="part.title != null" style="font-size: 1.2em">{{part.title}}</h3>
+              <br>
+              <div *ngIf="part.paragraphes != null">
+                <div *ngFor="let p of part.paragraphes" class="justify-center">
+                  <p *ngIf="p.accrPoints">{{p.accrPoints}}</p>
+                  <p *ngIf="p.accrPointsBold"><b>{{p.accrPointsBold}}</b></p>
+                  <div *ngIf="p.points">
+                    <ul style="color:#666" text-justify>
+                      <li *ngFor="let point of p.points">
+                        {{point.title}}
+                        <div *ngIf="point.subpoints">
+                          <ul>
+                            <li *ngFor="let subpoint of point.subpoints">{{subpoint}}</li>
+                          </ul>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <p *ngIf="p.description" text-justify>{{p.description}}</p>
+                  <p *ngIf="p.descriptionBold"><b>{{p.descriptionBold}}</b></p>
+                  <br>
+                </div>
+              </div>
+              <div *ngIf="part.subparts != null" class="justify-center">
+                <div *ngFor="let subpart of part.subparts">
+                  <h5 *ngIf="subpart.title != null">{{subpart.title}}</h5>
+                  <br>
+                  <div *ngIf="subpart.paragraphes != null">
+                    <div *ngFor="let p of subpart.paragraphes">
+                      <p *ngIf="p.accrPoints">{{p.accrPoints}}</p>
+                      <p *ngIf="p.accrPointsBold"><b>{{p.accrPointsBold}}</b></p>
+                      <div *ngIf="p.points">
+                        <ul>
+                          <li *ngFor="let point of p.points">
+                            {{point.title}}
+                            <div *ngIf="point.subpoints">
+                              <ul>
+                                <li *ngFor="let subpoint of point.subpoints">{{subpoint}}</li>
+                              </ul>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                      <p *ngIf="p.description">{{p.description}}</p>
+                      <p *ngIf="p.descriptionBold"><b>{{p.descriptionBold}}</b></p>
+                      <br>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div *ngIf="part.points" class="justify-center" style="color: #666">
+                <ul>
+                  <li *ngFor="let p of part.points">{{p.title}}</li>
+                </ul>
+              </div>
+            </div>
+            <hr>
+          </div>
+          <h3 style="font-size:1.2em" *ngIf="marques[marqueId].servicesId" (click)="showServicesList(listShown)">Nos Services &nbsp;&nbsp;
+            <ion-icon *ngIf="!listShown" name="arrow-up"></ion-icon>
+            <ion-icon *ngIf="listShown" name="arrow-down"></ion-icon>
+          </h3>
+          <br>
+          <ion-list hidden>
+            <ion-item *ngFor="let index of marques[marqueId].servicesId" (click)="showService(index)">
+              <ion-avatar item-start>
+                <img [src]="services[index].imgService">
+              </ion-avatar>
+              <h4>{{services[index].content.title}}</h4>
+              <p>{{services[index].content.subtitle}}</p>
+            </ion-item>
+          </ion-list>
+        </div>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>

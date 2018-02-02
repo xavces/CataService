@@ -1,0 +1,141 @@
+page-result {
+  .content-md, .content-ios{
+    background: #b2284e; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #b2284e, #2a73d3); /* Standard syntax */
+  }
+
+  .splash-relative{
+    position: absolute;
+    width: 100%;
+  }
+
+
+  .item-md, .item-ios{
+    background-color: transparent;
+  }
+
+  input{
+    color: white;
+  }
+
+  .white-text{
+    color:white;
+  }
+
+  .item-input ion-label{
+    width:20px;
+  }
+
+  #card-stack {
+    width: 90%;
+    height: 200px;
+    margin: 30px auto 0;
+    position: relative;
+  }
+ 
+  #card-stack ion-card {
+    border-radius: 5px;
+    position: absolute;
+    text-align: center;
+    top: 3%;
+    height: 320px;
+  }
+
+  .item-md, .item-ios{
+    padding-left: 0;
+    height: 250px;
+  }
+
+  .item-ios.item-block .item-inner, .item-md.item-block .item-inner{
+    padding-right:0;
+  }
+
+  .label-md, .label-ios{
+    margin: 0 0 0 0;
+  }
+
+  ion-card img{
+    max-height: 250px;
+    min-height: 250px;
+    position: absolute;
+    top:0;
+    z-index: 0;
+  }
+
+  .absolute-pos{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .relative-pos{
+    position: relative;
+  }
+
+  .item-ios h1, .item-md h1{
+    text-align: center;
+    color: white;
+  }
+
+  .validate-or-not{
+    position: absolute;
+    top: 0;
+    height: 250px;
+    width: 100%;
+    z-index: 1000;
+    background-size: cover;
+  }
+
+  .row{
+    -webkit-flex-wrap:nowrap;
+    flex-wrap: nowrap;
+  }
+
+  .button-ios, .button-md{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+  .network-canvas {
+    width: 100%;
+    height: 80%;
+  }
+  
+  .chart-container {
+    position: relative;
+    margin: auto;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .all{
+    height: 100%;
+  }
+
+  ion-footer{
+    background-color: rgba(255, 255, 255, 0.7);
+    ion-col{
+      height:80px;
+    }
+  }
+
+  .valignCenter{
+    display: flex!important;
+    align-content: center!important;
+    align-items: center!important;
+  }
+  ion-auto-complete ul{
+    margin-top: -10px;
+    left:1px;
+    width: 99.5%;
+  }
+  .footer-btn{
+    font-size: 3em;
+    font-weight: 600;
+    margin-left:2px;
+  }
+}

@@ -1,0 +1,59 @@
+<ion-header>
+  <ion-navbar color="primary" hideBackButton="true">
+    <ion-buttons start>
+      <button *ngIf="showButton" ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon></button>
+    </ion-buttons>
+    <ion-title>
+      Recherche
+    </ion-title>
+    <!--
+    <ion-buttons end>
+      <button ion-button icon-left (click)="login()"><ion-icon name="contact"></ion-icon></button>
+    </ion-buttons>-->
+  </ion-navbar>
+  <form>
+    <ion-auto-complete [dataProvider]="completeTestService" (itemSelected)="getVal($event)" [(ngModel)]="placeholder" name="placeholder"></ion-auto-complete>
+  </form>
+</ion-header>
+ <ion-content>
+        <p class="white-text margin-plus" text-center style="font-size:1.2em;">Faites glisser les cartes vers la droite ou la gauche</p>
+        <div class="splash-info" center>
+            <div class="splash-form">
+                <div swing-stack #myswing1 [stackConfig]="stackConfig" (throwoutleft)="voteUp(false)" (throwoutright)="voteUp(true)" id="card-stack">
+
+                    <ion-card #mycards1 swing-card *ngFor="let c of cards">
+                      <ion-card-content>
+                          <ion-item *ngIf="c.question">
+                              <div id="validate-or-not" class="validate-or-not"></div>
+                              <img *ngIf="c.img" [src]="c.img">
+                              <div class="relative-pos" style="background-color: rgba(0,0,0,0.5); width:100%; padding-top: 15px; padding-bottom: 15px;">
+                                <h1 style="font-weight: 900">{{ c.question }}</h1>
+                              </div>
+                          </ion-item>
+                          <ion-item *ngIf="!c.question">
+                            <img class="img-bot" *ngIf="!c.img" src="assets/img/bot2.png">
+                          </ion-item>
+                      </ion-card-content>
+                    </ion-card>
+                  </div>
+              </div>
+        </div>
+</ion-content>
+
+<ion-footer>
+    <ion-grid>
+      <ion-row>
+        <ion-col text-right style="padding-right: 10px;">
+            <button style="background-color:rgba(0,0,0,0.2); border-radius:40px; width:68px;" (click)="voteUp(false)">
+                <ion-icon name="close" color="danger" class="footer-btn" style="width:30px;"></ion-icon>
+            </button>
+        </ion-col>
+        <ion-col text-left style="padding-left: 10px;">
+            <button style="background-color:rgba(0,0,0,0.2); border-radius:40px; width:68px;" (click)="voteUp(true)">
+                <ion-icon name="checkmark" color="secondary" class="footer-btn" style="width:30px;"></ion-icon>
+            </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+</ion-footer>
+

@@ -1,0 +1,116 @@
+<ion-header>
+  <ion-navbar color="primary" hideBackButton="true">
+    <ion-buttons start>
+      <button ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon> Prev</button> 
+    </ion-buttons>  
+    <ion-title>
+      S'inscrire
+    </ion-title>
+    <ion-buttons end>
+      <button *ngIf="lastSlide" ion-button icon-right (click)="next()">Next <ion-icon name="arrow-forward"></ion-icon></button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <div class="splash-bg">
+     <ion-slides pager #signupSlider>
+  
+       <ion-slide>
+        <p *ngIf="submitAttempt" style="color: #ea6153;">S'il-vous-plait, remplissez les champs suivants.</p>
+          <form [formGroup]="slideOneForm">
+              <ion-item>
+                  <ion-label floating class="white-text">Nom *</ion-label>
+                  <ion-input formControlName="firstName" type="text"></ion-input>
+              </ion-item>
+      
+              <ion-item>
+                  <ion-label floating class="white-text">Prénom *</ion-label>
+                  <ion-input formControlName="lastName" type="text"></ion-input>
+              </ion-item>
+
+              <ion-item>
+                  <ion-label floating class="white-text">E-Mail *</ion-label>
+                  <ion-input formControlName="email" type="email"></ion-input>
+              </ion-item>
+
+              <ion-item>
+                  <ion-label floating class="white-text">Mot de passe *</ion-label>
+                  <ion-input formControlName="mdp" type="text"></ion-input>
+              </ion-item>
+          </form>
+          <br>
+          <ion-item>
+              <ion-label>Qui êtes-vous ? *</ion-label>
+              <ion-select [(ngModel)]="who" interface="popover">
+                <ion-option value="client">Client</ion-option>
+                <ion-option value="prospect">Prospect</ion-option>
+                <ion-option value="collab">Collaborateur</ion-option>
+              </ion-select>
+            </ion-item>
+       </ion-slide>
+       <ion-slide>
+          <ion-list>
+            <form [formGroup]="slideTwoForm">
+              <ion-item hidden>
+                  <ion-label floating class="white-text">Activité</ion-label>
+                  <ion-input formControlName="activity" type="text"></ion-input>
+              </ion-item>
+            </form>
+          </ion-list>
+          <p class="white-text" text-center>Quel est le secteur d'activité de votre entreprise ?</p>
+                <div class="myFab">
+                  <ion-fab class="myFab" center #fab >
+                      <button id="show-services" ion-fab color="danger">{{myIcon}}</button>
+                      <ion-fab-list side="top">
+                        <button (click)="chooseService($event, 0, fab)" ion-fab color="white">Agriculture &amp; Agroalimentaire</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="top-left">
+                        <button (click)="chooseService($event, 1, fab)" ion-fab color="white">Industrie</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="left">
+                        <button (click)="chooseService($event, 2, fab)" ion-fab color="white">Energies</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="bottom-left">
+                        <button (click)="chooseService($event, 3, fab)" ion-fab color="white">Commerce &amp; Tourisme</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="bottom">
+                        <button (click)="chooseService($event, 4, fab)" ion-fab color="white">Transports &amp; Logistique</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="bottom-right">
+                        <button (click)="chooseService($event, 5, fab)" ion-fab color="white">Télécoms &amp; Informatique</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="right">
+                        <button (click)="chooseService($event, 6, fab)" ion-fab color="white">Santé &amp; Services</button>
+                      </ion-fab-list>
+                      <ion-fab-list side="top-right">
+                        <button (click)="chooseService($event, 7, fab)" ion-fab color="white">Economie</button>
+                      </ion-fab-list>
+                    </ion-fab>
+                </div>
+       </ion-slide>
+
+       <ion-slide>
+          <ion-list>
+            <form [formGroup]="slideThreeForm">
+              <ion-item hidden>
+                  <ion-label floating class="white-text">Métier</ion-label>
+                  <ion-input formControlName="work" type="text"></ion-input>
+              </ion-item>
+            </form>
+          </ion-list>
+          <p>Quel est le métier de votre entreprise ?</p>
+          <br>
+          <ion-item>
+            <ion-label>Métier</ion-label>
+            <ion-select [(ngModel)]="job">
+              <ion-option *ngFor="let job of jobs">{{job}}</ion-option>
+            </ion-select>
+          </ion-item>
+        <button class="buttonSign" ion-button color="primary" (click)="save()">S'inscrire</button>
+      </ion-slide>
+  
+     </ion-slides>
+    </div>
+ </ion-content>
+ 

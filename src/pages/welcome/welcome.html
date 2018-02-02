@@ -1,0 +1,67 @@
+<ion-header no-border>
+  <ion-navbar color='primary' hideBackButton="true">
+    <ion-buttons start>
+      <button ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon>back</button>
+    </ion-buttons>
+    <ion-title>
+      
+    </ion-title>
+    <ion-buttons end>
+     
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <div class="splash-bg">
+    <div class="splash-relative">
+            <div class="splash-logo"></div>
+            <div class="splash-intro">
+                  Service Advisor
+            </div>
+            <br>
+            <div padding>
+            <div class="splash-form">
+              <button ion-button block (click)="signup()"><ion-icon name="logo-linkedin" class="white-text"></ion-icon> &nbsp;&nbsp;Se connecter avec LinkedIn</button>
+              <br>
+              <form (submit)="doLogin()">
+                  <ion-list text-center>
+              
+                    
+                    <ion-item>
+                      <ion-label><ion-icon name="contact" class="white-text"></ion-icon></ion-label>
+                      <ion-input type="text" [(ngModel)]="account.email" name="login"></ion-input>
+                    </ion-item>
+              
+                    <!--
+                    Want to use a Username instead of an Email? Here you go:
+              
+                    <ion-item>
+                      <ion-label floating>{{ 'USERNAME' | translate }}</ion-label>
+                      <ion-input type="text" [(ngModel)]="account.username" name="username"></ion-input>
+                    </ion-item>
+                    -->
+                    <div class="">
+                      
+                    </div>
+                    <ion-item>
+                      <ion-label><ion-icon name="lock" class="white-text"></ion-icon></ion-label>
+                      <ion-input type="password" [(ngModel)]="account.password" name="password"></ion-input>
+                    </ion-item>
+              
+                    <button ion-button class="login">Se connecter</button>
+              
+                  </ion-list>
+                </form>                
+              </div>
+          </div>
+          <div class="splash-end">
+              <div class="splash-new">
+                  <a (click)="signup()">Nouveau ? S'inscrire !</a>
+              </div>
+              <div class="splash-forgot">
+                <a (click)="forgot()">Mot de passe oublié</a>
+              </div>
+          </div>
+    </div>
+  </div>
+</ion-content>

@@ -1,0 +1,44 @@
+page-all-service {
+    .imageService{
+        width: 25vh;
+        height: 10vh;
+    }
+    .content-md, .content-ios{
+        // background: #b2284e; /* For browsers that do not support gradients */
+        // background: -webkit-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Safari 5.1 to 6.0 */
+        // background: -o-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Opera 11.1 to 12.0 */
+        // background: -moz-linear-gradient(-90deg, #b2284e, #2a73d3); /* For Firefox 3.6 to 15 */
+        // background: linear-gradient(-90deg, #b2284e, #2a73d3); /* Standard syntax */
+        background: #2a73d3;
+      }
+
+    ion-slide{
+        margin-right: 2px;
+    }
+
+    .slider{
+        background: white;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: 50px;
+        -moz-border-radius:10px 0;
+        -webkit-border-radius:10px 0;
+        border-radius:10px 0;
+    }
+
+    .titleSlide{
+        margin-left: 10px;
+        font-size: 15px;
+    }
+    .nameService{
+        font-size: 10px;
+        margin-top: auto;
+        text-align: center;
+        
+    }
+    .card{
+        margin-top: 10px;
+    }
+
+
+}

@@ -66,7 +66,7 @@ var WelcomePage = (function () {
 }());
 WelcomePage = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-        selector: 'page-welcome',template:/*ion-inline-start:"C:\Users\Maxime\Downloads\newApp-master\newApp-master\src\pages\welcome\welcome.html"*/'<ion-header no-border>\n  <ion-navbar color=\'primary\' hideBackButton="true">\n    <ion-buttons start>\n      <button ion-button icon-left (click)="prev()"><ion-icon name="arrow-back"></ion-icon>back</button>\n    </ion-buttons>\n    <ion-title>\n      \n    </ion-title>\n    <ion-buttons end>\n     \n    </ion-buttons>\n  </ion-navbar>\n</ion-header>\n<ion-content>\n  <div class="splash-bg">\n    <div class="splash-relative">\n            <div class="splash-logo"></div>\n            <div class="splash-intro">\n                  Service Advisor\n            </div>\n            <br>\n            <div padding>\n            <div class="splash-form">\n              <button ion-button block (click)="signup()"><ion-icon name="logo-linkedin" class="white-text"></ion-icon> &nbsp;&nbsp;Se connecter avec LinkedIn</button>\n              <br>\n              <form (submit)="doLogin()">\n                  <ion-list text-center>\n              \n                    \n                    <ion-item>\n                      <ion-label><ion-icon name="contact" class="white-text"></ion-icon></ion-label>\n                      <ion-input type="text" [(ngModel)]="account.email" name="login"></ion-input>\n                    </ion-item>\n              \n                    <!--\n                    Want to use a Username instead of an Email? Here you go:\n              \n                    <ion-item>\n                      <ion-label floating>{{ \'USERNAME\' | translate }}</ion-label>\n                      <ion-input type="text" [(ngModel)]="account.username" name="username"></ion-input>\n                    </ion-item>\n                    -->\n                    <div class="">\n                      \n                    </div>\n                    <ion-item>\n                      <ion-label><ion-icon name="lock" class="white-text"></ion-icon></ion-label>\n                      <ion-input type="password" [(ngModel)]="account.password" name="password"></ion-input>\n                    </ion-item>\n              \n                    <button ion-button class="login">Se connecter</button>\n              \n                  </ion-list>\n                </form>                \n              </div>\n          </div>\n          <div class="splash-end">\n              <div class="splash-new">\n                  <a (click)="signup()">Nouveau ? S\'inscrire !</a>\n              </div>\n              <div class="splash-forgot">\n                <a (click)="forgot()">Mot de passe oublié</a>\n              </div>\n          </div>\n    </div>\n  </div>\n</ion-content>'/*ion-inline-end:"C:\Users\Maxime\Downloads\newApp-master\newApp-master\src\pages\welcome\welcome.html"*/
+        selector: 'page-welcome',template:/*ion-inline-start:"C:\Users\Maxime\Downloads\newApp-master\newApp-master\src\pages\welcome\welcome.html"*/'<ion-header no-border>\n  <ion-navbar color=\'primary\' hideBackButton="true">\n    <ion-title>\n      \n    </ion-title>\n    <ion-buttons end>\n     \n    </ion-buttons>\n  </ion-navbar>\n</ion-header>\n<ion-content>\n  <div class="splash-bg">\n    <div class="splash-relative">\n            <div class="splash-logo"></div>\n            <div class="splash-intro">\n                  Service Advisor\n            </div>\n            <br>\n            <div padding>\n            <div class="splash-form">\n              <button ion-button block (click)="signup()"><ion-icon name="logo-linkedin" class="white-text"></ion-icon> &nbsp;&nbsp;Se connecter avec LinkedIn</button>\n              <br>\n              <form (submit)="doLogin()">\n                  <ion-list text-center>\n              \n                    \n                    <ion-item>\n                      <ion-label><ion-icon name="contact" class="white-text"></ion-icon></ion-label>\n                      <ion-input type="text" [(ngModel)]="account.email" name="login"></ion-input>\n                    </ion-item>\n              \n                    <!--\n                    Want to use a Username instead of an Email? Here you go:\n              \n                    <ion-item>\n                      <ion-label floating>{{ \'USERNAME\' | translate }}</ion-label>\n                      <ion-input type="text" [(ngModel)]="account.username" name="username"></ion-input>\n                    </ion-item>\n                    -->\n                    <div class="">\n                      \n                    </div>\n                    <ion-item>\n                      <ion-label><ion-icon name="lock" class="white-text"></ion-icon></ion-label>\n                      <ion-input type="password" [(ngModel)]="account.password" name="password"></ion-input>\n                    </ion-item>\n              \n                    <button ion-button class="login">Se connecter</button>\n              \n                  </ion-list>\n                </form>                \n              </div>\n          </div>\n          <div class="splash-end">\n              <div class="splash-new">\n                  <a (click)="signup()">Nouveau ? S\'inscrire !</a>\n              </div>\n              <div class="splash-forgot">\n                <a (click)="forgot()">Mot de passe oublié</a>\n              </div>\n          </div>\n    </div>\n  </div>\n</ion-content>'/*ion-inline-end:"C:\Users\Maxime\Downloads\newApp-master\newApp-master\src\pages\welcome\welcome.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */],
         __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* ToastController */]])
@@ -98,43 +98,43 @@ webpackEmptyAsyncContext.id = 119;
 
 var map = {
 	"../pages/all-service/all-service.module": [
-		310,
+		309,
 		6
 	],
 	"../pages/application/application.module": [
-		324,
+		310,
 		14
 	],
 	"../pages/chat2/chat2.module": [
-		309,
+		311,
 		12
 	],
 	"../pages/marqueDetails/marqueDetails.module": [
-		311,
+		312,
 		10
 	],
 	"../pages/news/news.module": [
-		312,
+		313,
 		5
 	],
 	"../pages/newsDetails/newsDetails.module": [
-		313,
+		314,
 		11
 	],
 	"../pages/productDetails/productDetails.module": [
-		314,
+		315,
 		8
 	],
 	"../pages/result/result.module": [
-		315,
+		316,
 		0
 	],
 	"../pages/serviceDetails/serviceDetails.module": [
-		316,
+		317,
 		9
 	],
 	"../pages/signup/signup.module": [
-		317,
+		319,
 		7
 	],
 	"../pages/simple-form/simple-form.module": [
@@ -142,15 +142,15 @@ var map = {
 		2
 	],
 	"../pages/simple-form1/simple-form1.module": [
-		319,
+		320,
 		4
 	],
 	"../pages/simple-form2/simple-form2.module": [
-		320,
+		323,
 		3
 	],
 	"../pages/tabs/tabs.module": [
-		321,
+		324,
 		13
 	],
 	"../pages/tinderQ2/tinderQ2.module": [
@@ -158,7 +158,7 @@ var map = {
 		1
 	],
 	"../pages/welcome/welcome.module": [
-		323,
+		321,
 		15
 	]
 };
@@ -292,22 +292,22 @@ AppModule = __decorate([
             __WEBPACK_IMPORTED_MODULE_10_angular2_swing__["SwingModule"],
             __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["l" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* MyApp */], {}, {
                 links: [
-                    { loadChildren: '../pages/chat2/chat2.module#Chat2PageModule', name: 'Chat2Page', segment: 'chat2', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/all-service/all-service.module#AllServicePageModule', name: 'AllServicePage', segment: 'all-service', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/application/application.module#ApplicationPageModule', name: 'ApplicationPage', segment: 'application', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/chat2/chat2.module#Chat2PageModule', name: 'Chat2Page', segment: 'chat2', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/marqueDetails/marqueDetails.module#MarqueDetailsPageModule', name: 'MarqueDetailsPage', segment: 'marqueDetails', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/news/news.module#NewsPageModule', name: 'NewsPage', segment: 'news', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/newsDetails/newsDetails.module#NewsDetailsPageModule', name: 'NewsDetailsPage', segment: 'newsDetails', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/productDetails/productDetails.module#ProductDetailsPageModule', name: 'ProductDetailsPage', segment: 'productDetails', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/result/result.module#ResultPageModule', name: 'ResultPage', segment: 'result', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/serviceDetails/serviceDetails.module#ServiceDetailsPageModule', name: 'ServiceDetailsPage', segment: 'serviceDetails', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/signup/signup.module#SignupPageModule', name: 'SignupPage', segment: 'signup', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/simple-form/simple-form.module#SimpleFormPageModule', name: 'SimpleFormPage', segment: 'simple-form', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/signup/signup.module#SignupPageModule', name: 'SignupPage', segment: 'signup', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/simple-form1/simple-form1.module#SimpleFormPageModule', name: 'SimpleForm1Page', segment: 'simple-form1', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/simple-form2/simple-form2.module#SimpleFormPageModule', name: 'SimpleForm2Page', segment: 'simple-form2', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/tabs/tabs.module#TabsPageModule', name: 'TabsPage', segment: 'tabs', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/tinderQ2/tinderQ2.module#TinderQ2PageModule', name: 'TinderQ2Page', segment: 'tinderQ2', priority: 'low', defaultHistory: [] },
                     { loadChildren: '../pages/welcome/welcome.module#WelcomePageModule', name: 'WelcomePage', segment: 'welcome', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../pages/application/application.module#ApplicationPageModule', name: 'ApplicationPage', segment: 'application', priority: 'low', defaultHistory: [] }
+                    { loadChildren: '../pages/tinderQ2/tinderQ2.module#TinderQ2PageModule', name: 'TinderQ2Page', segment: 'tinderQ2', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/simple-form2/simple-form2.module#SimpleFormPageModule', name: 'SimpleForm2Page', segment: 'simple-form2', priority: 'low', defaultHistory: [] },
+                    { loadChildren: '../pages/tabs/tabs.module#TabsPageModule', name: 'TabsPage', segment: 'tabs', priority: 'low', defaultHistory: [] }
                 ]
             })
         ],

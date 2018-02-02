@@ -11,15 +11,16 @@
         <button ion-button icon-left (click)="login()"><ion-icon name="contact"></ion-icon></button>
         </ion-buttons>-->
     </ion-navbar>
-    <form>
-        <ion-auto-complete [dataProvider]="completeTestService" (itemSelected)="getVal($event)" [(ngModel)]="placeholder" name="placeholder"></ion-auto-complete>
-    </form>
+
 </ion-header>
 
 
 
 
 <ion-content>
+    <form>
+            <ion-auto-complete [dataProvider]="completeTestService" (itemSelected)="getVal($event)" [(ngModel)]="placeholder" name="placeholder"></ion-auto-complete>
+    </form>
     <div *ngFor="let application of applications; let i=index">
         <div class="slider">
             <div>

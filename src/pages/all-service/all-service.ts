@@ -15,6 +15,8 @@ export class AllServicePage {
   idservices: any;
   applications: any;
   urlMarque: String = "assets/img/marques/";
+  buttonSearch: String = "display";
+  search: String = "noDisplay";
 
   constructor(public http: Http, public navCtrl: NavController, public navParams: NavParams, public completeTestService: CompleteTestService) {
     let servData = http.get('assets/data/services.json').map(res => res.json().services);
@@ -43,6 +45,10 @@ export class AllServicePage {
     this.navCtrl.push('ApplicationPage', {
       application: applicationArg,
     });
+  }
+
+  activateSearch(){
+    
   }
 
 

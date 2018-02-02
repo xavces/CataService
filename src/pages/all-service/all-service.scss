@@ -2,6 +2,7 @@ page-all-service {
     .imageService{
         width: 10vh;
         height: 10vh;
+        margin: auto;
     }
     .content-md, .content-ios{
         // background: #b2284e; /* For browsers that do not support gradients */
@@ -44,6 +45,13 @@ page-all-service {
     br {
         display: block;
         margin: 2px 0;
+    }
+
+    .noDisplay{
+        display: none;
+    }
+    .display{
+        display: inline;
     }
 
 
